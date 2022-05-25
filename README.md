@@ -1,7 +1,7 @@
 # ReproGen22
 This page contains the code and data for the reproduction paper for the 2022 ReproGen shared task.
 
-## readability
+## Readability
 Calculates Flesch reading ease using textacy (version 0.12.0). Run it as follows:
 
 ```
@@ -27,3 +27,7 @@ python coherence.py
 ```
 
 The output is again a csv file with scores. 
+
+
+## References
+Dziri, N., Kamalloo, E., Mathewson, K., & Zaiane, O. (2019). Evaluating Coherence in Dialogue Systems using Entailment. In _Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)_ (pp. 3806–3812). Association for Computational Linguistics.
