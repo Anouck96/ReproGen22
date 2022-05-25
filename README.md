@@ -11,7 +11,14 @@ It takes all the sentences as input and calculates the reading ease for every se
 
 ## Coherence
 Uses the code of Dziri et al. (2019) (https://github.com/nouhadziri/DialogEntailment) to find the semantic similarities.
-We have used python 3.7.5. We needed specific versions of packages to make it all work. 
+We have used python 3.7.5. We followed their installation instructions but needed specific versions of packages to make it all work:
+- pytorch_pretrained_bert == 0.6.0
+- allennlp == 0.8.3
+- torch == 1.9.0
+- torchvision == 0.10.0
+- overrides == 3.1.0
+- scikit-learn == 0.22.2
+- pymagnitude == 0.1.143
 
 It can be run as follows:
 
