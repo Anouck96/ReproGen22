@@ -1,0 +1,1675 @@
+StartDate,EndDate,Status,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,DistributionChannel,UserLanguage,consent,C1_R_1,C1_R_2,C1_R_3,C1_R_4,C1_C_1,C1_C_2,C1_C_3,C1_C_4,C2_R_1,C2_R_2,C2_R_3,C2_R_4,C2_C_1,C2_C_2,C2_C_3,C2_C_4,C3_R_1,C3_R_2,C3_R_3,C3_R_4,C3_C_1,C3_C_2,C3_C_3,C3_C_4,C4_R_1,C4_R_2,C4_R_3,C4_R_4,C4_C_1,C4_C_2,C4_C_3,C4_C_4,C5_R_1,C5_R_2,C5_R_3,C5_R_4,C5_C_1,C5_C_2,C5_C_3,C5_C_4,C6_R_1,C6_R_2,C6_R_3,C6_R_4,C6_C_1,C6_C_2,C6_C_3,C6_C_4,Q7_R_1,Q7_R_2,Q7_R_3,Q7_R_4,Q7_C_1,Q7_C_2,Q7_C_3,Q7_C_4,C8_R_1,C8_R_2,C8_R_3,C8_R_4,C8_C_1,C8_C_2,C8_C_3,C8_C_4,C9_R_1,C9_R_2,C9_R_3,C9_R_4,C9_C_1,C9_C_2,C9_C_3,C9_C_4,C10_R_1,C10_R_2,C10_R_3,C10_R_4,C10_C_1,C10_C_2,C10_C_3,C10_C_4,C11_R_1,C11_R_2,C11_R_3,C11_R_4,C11_C_1,C11_C_2,C11_C_3,C11_C_4,C12_R_1,C12_R_2,C12_R_3,C12_R_4,C12_C_1,C12_C_2,C12_C_3,C12_C_4,C13_R_1,C13_R_2,C13_R_3,C13_R_4,C13_C_1,C13_C_2,C13_C_3,C13_C_4,C14_R_1,C14_R_2,C14_R_3,C14_R_4,C14_C_1,C14_C_2,C14_C_3,C14_C_4,C15_R_1,C15_R_2,C15_R_3,C15_R_4,C15_C_1,C15_C_2,C15_C_3,C15_C_4,C16_R_1,C16_R_2,C16_R_3,C16_R_4,C16_C_1,C16_C_2,C16_C_3,C16_C_4,C17_R_1,C17_R_2,C17_R_3,C17_R_4,C17_C_1,C17_C_2,C17_C_3,C17_C_4,C18_R_1,C18_R_2,C18_R_3,C18_R_4,C18_C_1,C18_C_2,C18_C_3,C18_C_4,C19_R_1,C19_R_2,C19_R_3,C19_R_4,C19_C_1,C19_C_2,C19_C_3,C19_C_4,C20_R_1,C20_R_2,C20_R_3,C20_R_4,C20_C_1,C20_C_2,C20_C_3,C20_C_4,C21_R_1,C21_R_2,C21_R_3,C21_R_4,C21_C_1,C21_C_2,C21_C_3,C21_C_4,C22_R_1,C22_R_2,C22_R_3,C22_R_4,C22_C_1,C22_C_2,C22_C_3,C22_C_4,C23_R_1,C23_R_2,C23_R_3,C23_R_4,C23_C_1,C23_C_2,C23_C_3,C23_C_4,C24_R_1,C24_R_2,C24_R_3,C24_R_4,C24_C_1,C24_C_2,C24_C_3,C24_C_4,C25_R_1,C25_R_2,C25_R_3,C25_R_4,C25_C_1,C25_C_2,C25_C_3,C25_C_4,C26_R_1,C26_R_2,C26_R_3,C26_R_4,C26_C_1,C26_C_2,C26_C_3,C26_C_4,C27_R_1,C27_R_2,C27_R_3,C27_R_4,C27_C_1,C27_C_2,C27_C_3,C27_C_4,C28_R_1,C28_R_2,C28_R_3,C28_R_4,C28_C_1,C28_C_2,C28_C_3,C28_C_4,C29_R_1,C29_R_2,C29_R_3,C29_R_4,C29_C_1,C29_C_2,C29_C_3,C29_C_4,C30_R_1,C30_R_2,C30_R_3,C30_R_4,C30_C_1,C30_C_2,C30_C_3,C30_C_4,C31_R_1,C31_R_2,C31_R_3,C31_R_4,C31_C_1,C31_C_2,C31_C_3,C31_C_4,C32_R_1,C32_R_2,C32_R_3,C32_R_4,C32_C_1,C32_C_2,C32_C_3,C32_C_4,C33_R_1,C33_R_2,C33_R_3,C33_R_4,C33_C_1,C33_C_2,C33_C_3,C33_C_4,C34_R_1,C34_R_2,C34_R_3,C34_R_4,C34_C_1,C34_C_2,C34_C_3,C34_C_4,C35_R_1,C35_R_2,C35_R_3,C35_R_4,C35_C_1,C35_C_2,C35_C_3,C35_C_4,C36_R_1,C36_R_2,C36_R_3,C36_R_4,C36_C_1,C36_C_2,C36_C_3,C36_C_4,C37_R_1,C37_R_2,C37_R_3,C37_R_4,C37_C_1,C37_C_2,C37_C_3,C37_C_4,C38_R_1,C38_R_2,C38_R_3,C38_R_4,C38_C_1,C38_C_2,C38_C_3,C38_C_4,C39_R_1,C39_R_2,C39_R_3,C39_R_4,C39_C_1,C39_C_2,C39_C_3,C39_C_4,C40_R_1,C40_R_2,C40_R_3,C40_R_4,C40_C_1,C40_C_2,C40_C_3,C40_C_4,C41_R_1,C41_R_2,C41_R_3,C41_R_4,C41_C_1,C41_C_2,C41_C_3,C41_C_4,C41_R_1,C41_R_2,C41_R_3,C41_R_4,C41_C_1,C41_C_2,C41_C_3,C41_C_4,C43_R_1,C43_R_2,C43_R_3,C43_R_4,C43_C_1,C43_C_2,C43_C_3,C43_C_4,C44_R_1,C44_R_2,C44_R_3,C44_R_4,C44_C_1,C44_C_2,C44_C_3,C44_C_4,C45_R_1,C45_R_2,C45_R_3,C45_R_4,C45_C_1,C45_C_2,C45_C_3,C45_C_4,C46_R_1,C46_R_2,C46_R_3,C46_R_4,C46_C_1,C46_C_2,C46_C_3,C46_C_4,C47_R_1,C47_R_2,C47_R_3,C47_R_4,C47_C_1,C47_C_2,C47_C_3,C47_C_4,C48_R_1,C48_R_2,C48_R_3,C48_R_4,C48_C_1,C48_C_2,C48_C_3,C48_C_4,C49_R_1,C49_R_2,C49_R_3,C49_R_4,C49_C_1,C49_C_2,C49_C_3,C49_C_4,C50_R_1,C50_R_2,C50_R_3,C50_R_4,C50_C_1,C50_C_2,C50_C_3,C50_C_4,Exp_conv,Exp_chat
+Start Date,End Date,Response Type,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Distribution Channel,User Language,"Completing this survey will take approximately 30 minutes and is entirely voluntary. This means that you are allowed to stop participation at any moment without having to provide a reason and without any repercussions. No risks are involved in participating.Collection of all data happens in accordance with the new General Data Protection Regulation (GDPR) rules and the Ethical Committee of TSHD has given permission to conduct this research. Data will be processed and saved anonymously. The anonymous data can, when requested, be shared with other researchers.
+
+
+
+If you agree to participate, you confirm that:
+
+	you are over 16 years old;
+	you agree that your anonymous data will be saved and stored for 10 years;
+	you agree that your anonymous data can be used for future research or scientific publications;
+	you agree that your anonymous data can be shared with other researchers;
+	you understand that you are allowed to stop participation at any moment. Regardless of reason, without having to provide a reason, and without any negative consequences.
+
+
+
+If you would like to contact one of the researchers regarding this study, you can send an e-mail to: A.R.Y.Braggaar@tilburguniversity.edu For comments on—or complaints about—this research it is also possible to contact the Tilburg University School of Humanities and Digital Sciences Research Ethics and Data Management Committee via tshd.redc@tilburguniversity.edu.
+
+
+
+Thank you for your time and participation!
+
+
+
+Kind regards,
+
+Anouck Braggaar, Saar Hommes, Peter Blomsma, Emiel Krahmer, Emiel van Miltenburg, Chris van der Lee, Nadine Braun, Frédéric Tomas, Martijn Goudbeek
+
+Tilburg University
+
+
+
+Do you agree with participating in this study?","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I would pay money to see someone edit together such a thing.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - it is a great show .","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I don't get it","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I want to see this episode","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I would pay money to see someone edit together such a thing.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - it is a great show .","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I don't get it","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I want to see this episode","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I don't know what you are talking about.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - Unless they are more successful than you, then have a good relationship and take the blame for everything.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I don't know if you are being sarcastic or not.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - what if you don't have kids?","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I don't know what you are talking about.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - Unless they are more successful than you, then have a good relationship and take the blame for everything.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I don't know if you are being sarcastic or not.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - what if you don't have kids?","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I am not sure if that is a thing or not","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I don't know, but I think he 's going to be a lot worse.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I'm sure he will be fine.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - if the president refused to return? the GOP would definitely impeach him and accept pence.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I am not sure if that is a thing or not","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I don't know, but I think he 's going to be a lot worse.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I'm sure he will be fine.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - if the president refused to return? the GOP would definitely impeach him and accept pence.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - sounds more like you are cheating on your husband.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I'm sorry to hear that.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I'm sure he will be fine.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I don't think you understand what you are talking about.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - sounds more like you are cheating on your husband.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I'm sorry to hear that.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I'm sure he will be fine.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I don't think you understand what you are talking about.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - eh . creed worked because they made sure not to overuse him . i think his shock value would get pretty old in a show of nothing but him .","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I don't get it.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - i would love to see him as a villain .","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - creed bratton is the best actor of all time .","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - eh . creed worked because they made sure not to overuse him . i think his shock value would get pretty old in a show of nothing but him .","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I don't get it.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - i would love to see him as a villain .","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - creed bratton is the best actor of all time .","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I'm not sure if you 're being sarcastic or not.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - bizarro America is a strange show.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I don't get it.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I think it is a bit of a stretch.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I'm not sure if you 're being sarcastic or not.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - bizarro America is a strange show.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I don't get it.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I think it is a bit of a stretch.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - well then I'm still stealing it, thank you very much.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I third this","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - i made this .","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - you made this ?","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - well then I'm still stealing it, thank you very much.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I third this","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - i made this .","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - you made this ?","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - plastic flamingos?","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - no, it is just a plastic bag.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I have never heard of that. I have never heard of it.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I guess that explains Florida?","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - plastic flamingos?","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - no, it is just a plastic bag.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I have never heard of that. I have never heard of it.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I guess that explains Florida?","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I would love to see him as a villain.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I would love to see him play the role of doom.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - Isn't that Jamie from got? I could see him killing that roll","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I am not sure what you are trying to say.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I would love to see him as a villain.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I would love to see him play the role of doom.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - Isn't that Jamie from got? I could see him killing that roll","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I am not sure what you are trying to say.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - does this happen on Titan?","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - that's what I thought, but I don't think that's how it works.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - He did not have the power to do that.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I think it is time to rewatch the gauntlet.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - does this happen on Titan?","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - that's what I thought, but I don't think that's how it works.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - He did not have the power to do that.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I think it is time to rewatch the gauntlet.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - Ed Miliband","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - No, it was a joke.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - no, that 's the guy who voted for Brexit.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - no, that was the referendum","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - Ed Miliband","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - No, it was a joke.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - no, that 's the guy who voted for Brexit.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - no, that was the referendum","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - Camel is now on my ""eat"" list. I still have not eaten a venison steak","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I've never heard of this before. what's it about?","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I've never heard of that. what's it taste like?","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - What is the difference?","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - Camel is now on my ""eat"" list. I still have not eaten a venison steak","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I've never heard of this before. what's it about?","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I've never heard of that. what's it taste like?","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - What is the difference?","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I don't think that is illegal.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - do you mean manual as in ""manual transmission"" or manual as in ""human operated""?","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I don't get it.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - what if it is already illegal?","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I don't think that is illegal.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - do you mean manual as in ""manual transmission"" or manual as in ""human operated""?","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I don't get it.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - what if it is already illegal?","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - He has not changed, he has always had the same mood swings over the years.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I'm not sure what you 're trying to say.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - yeah, he has been pretty good in the past few years .","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I think he is the best player in the league.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - He has not changed, he has always had the same mood swings over the years.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I'm not sure what you 're trying to say.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - yeah, he has been pretty good in the past few years .","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I think he is the best player in the league.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I think star wars and company of heroes or dawn of war would be a better fit. the cover system, unit groups, vehicles, etc . plus the delicious physics.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I'm not sure what you mean by that.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - that would be awesome.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - star wars?","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I think star wars and company of heroes or dawn of war would be a better fit. the cover system, unit groups, vehicles, etc . plus the delicious physics.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I'm not sure what you mean by that.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - that would be awesome.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - star wars?","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I hear it in aa. I don't know the original origin.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - it is a reference to something like this :URL","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - It is a quote from arrested development.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - it is a quote from the office.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I hear it in aa. I don't know the original origin.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - it is a reference to something like this :URL","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - It is a quote from arrested development.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - it is a quote from the office.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - 26 % of the worlds hot air is produced by politicians.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - that is not true at all.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I'm pretty sure that is a myth.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I don't believe you.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - 26 % of the worlds hot air is produced by politicians.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - that is not true at all.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I'm pretty sure that is a myth.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I don't believe you.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - officer buckle and Gloria would not be happy","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - that is a good one.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - how did you find out?","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - What was on the chair?","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - officer buckle and Gloria would not be happy","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - that is a good one.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - how did you find out?","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - What was on the chair?","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - here is the recipe","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - here you go","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I'll give it a try!","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - remind me ! 2 days","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - here is the recipe","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - here you go","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I'll give it a try!","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - remind me ! 2 days","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - this is a good question","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - that is what I was going to say.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I think it is called ""measurement""","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - it is a unit of measurement.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - this is a good question","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - that is what I was going to say.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I think it is called ""measurement""","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - it is a unit of measurement.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - my husband and I found it on amazon prime. we binge watched it with the self-control of weight watchers meeting next to a bakery.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I have not watched it yet, but I have never seen it. I'll check it out.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - it is a great show, but it is a great show.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I watched the first season. it was amazing.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - my husband and I found it on amazon prime. we binge watched it with the self-control of weight watchers meeting next to a bakery.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I have not watched it yet, but I have never seen it. I'll check it out.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - it is a great show, but it is a great show.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I watched the first season. it was amazing.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - thank you very much for the response.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I don't know what that is, but I'm not sure what you 're trying to say.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - that is not a polar bear.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I thought he was a bear?","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - thank you very much for the response.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I don't know what that is, but I'm not sure what you 're trying to say.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - that is not a polar bear.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I thought he was a bear?","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - over 2 million more you mean?","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - that is not what I said.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - the popular vote does not matter.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - that is not how elections work.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - over 2 million more you mean?","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - that is not what I said.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - the popular vote does not matter.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - that is not how elections work.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - magnet. already posted above this.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - that is what I was thinking, but I'm not sure what you mean by that.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - that is what I was thinking, but I'm not sure what you mean by that.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - yeah, but it 's not black and white.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - magnet. already posted above this.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - that is what I was thinking, but I'm not sure what you mean by that.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - that is what I was thinking, but I'm not sure what you mean by that.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - yeah, but it 's not black and white.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I think you meant spaces.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I thought it was the same thing.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - what is the difference between the two?","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - yeah, is it common to have something else than 4 spaces?","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I think you meant spaces.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I thought it was the same thing.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - what is the difference between the two?","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - yeah, is it common to have something else than 4 spaces?","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - what does not make sense is letting Dorion be in charge of a rebuild?","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - he was the only one who did not get the joke.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I think it was a joke, but I don't think it's worth it.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - yeah, but he is still on the bench.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - what does not make sense is letting Dorion be in charge of a rebuild?","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - he was the only one who did not get the joke.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I think it was a joke, but I don't think it's worth it.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - yeah, but he is still on the bench.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - that is a cool job, man . don't put yourself down. you 're not lowly. that is an awesome job to have.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - what kind of job?","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - good luck!","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - what is your job?","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - that is a cool job, man . don't put yourself down. you 're not lowly. that is an awesome job to have.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - what kind of job?","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - good luck!","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - what is your job?","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - like Texas?","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - no, he will be president.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I don't think so.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - he is already in office.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - like Texas?","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - no, he will be president.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I don't think so.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - he is already in office.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I thought it was funny.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - that is not how it works.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - that is what I was thinking.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - finally, all of those bazooka joe comics, and 1980 's joke books paid off ! this was brilliant btw.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I thought it was funny.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - that is not how it works.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - that is what I was thinking.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - finally, all of those bazooka joe comics, and 1980 's joke books paid off ! this was brilliant btw.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - it's been a while since I've seen it.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I don't know, I've never heard of papa johns.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I'm not sure what you 're trying to say.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - it is been like a week","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - it's been a while since I've seen it.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I don't know, I've never heard of papa johns.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I'm not sure what you 're trying to say.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - it is been like a week","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - ehhh. They might have their suspicions.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - don't worry, you'll be fine.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - do you have cats?","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - if you don't like them, you'll be fine.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - ehhh. They might have their suspicions.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - don't worry, you'll be fine.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - do you have cats?","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - if you don't like them, you'll be fine.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - google?","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I don't think I've ever seen him in a movie.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - here you go","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I don't think I've ever seen a picture of him before.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - google?","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I don't think I've ever seen him in a movie.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - here you go","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I don't think I've ever seen a picture of him before.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - honesty i don't agree, the pk looks like a brillo pad","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - thanks ! i'll have to check it out!","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - these are my favorite pair of all time.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I'm not sure if this is a typo or not.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - honesty i don't agree, the pk looks like a brillo pad","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - thanks ! i'll have to check it out!","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - these are my favorite pair of all time.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I'm not sure if this is a typo or not.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - chucked $5 on Ricciardo top 3 finish for more fun haha","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I have not seen it yet, but I'll check it out. thanks!","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - thanks! I'll check it out!","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - thanks!","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - chucked $5 on Ricciardo top 3 finish for more fun haha","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I have not seen it yet, but I'll check it out. thanks!","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - thanks! I'll check it out!","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - thanks!","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - that's 10 generations away, who cares!","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - then we can build a wall.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - then you would have to go to the moon.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - what if the earth is flat?","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - that's 10 generations away, who cares!","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - then we can build a wall.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - then you would have to go to the moon.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - what if the earth is flat?","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - ""just leave it"" continues to reply","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I'm not your buddy, pal.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - you must be fun at parties","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I don't think you're fun at parties","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - ""just leave it"" continues to reply","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I'm not your buddy, pal.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - you must be fun at parties","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I don't think you're fun at parties","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - thanks for the response haha I'm trying to learn how to make concepts like this so thank you!","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I don't think I've ever heard of that. I'll have to check it out.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - thanks!","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I don't think you're fun at parties","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - thanks for the response haha I'm trying to learn how to make concepts like this so thank you!","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I don't think I've ever heard of that. I'll have to check it out.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - thanks!","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I don't think you're fun at parties","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - nice! when things become tough to remember URL is always rooting for you!","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I'm sorry to hear that. I hope you have a great day!","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - what are you studying?","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - what field?","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - nice! when things become tough to remember URL is always rooting for you!","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I'm sorry to hear that. I hope you have a great day!","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - what are you studying?","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - what field?","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - thanks! I'll check it out. thanks!","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - what is this 'digital release'?","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - that is not how it works.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I thought it was released?","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - thanks! I'll check it out. thanks!","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - what is this 'digital release'?","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - that is not how it works.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I thought it was released?","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - URL: wasn't aware you were watching it?","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I have not read it yet. I'll check it out. thanks!","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - same here. I loved it.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I've been meaning to watch it for a while, but I have not seen it yet.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - URL: wasn't aware you were watching it?","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I have not read it yet. I'll check it out. thanks!","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - same here. I loved it.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I've been meaning to watch it for a while, but I have not seen it yet.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I tried to like it, but it was so cringeworthy at parts like he was trying too hard to appeal to a young audience.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I'm not sure if you 're being sarcastic or not.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I liked it better than the first one.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I thought it was supposed to be the first season.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I tried to like it, but it was so cringeworthy at parts like he was trying too hard to appeal to a young audience.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I'm not sure if you 're being sarcastic or not.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I liked it better than the first one.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I thought it was supposed to be the first season.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - awesome dude, what CW do you have?","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I think it's a bit of a stretch, but I don't think I've ever seen a pair of shoes in my life.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - thanks! I'll look into it!","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - do you have a link?","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - awesome dude, what CW do you have?","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I think it's a bit of a stretch, but I don't think I've ever seen a pair of shoes in my life.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - thanks! I'll look into it!","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - do you have a link?","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - he would not be impeached.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - that is not how impeachment works.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - that is not what he said.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - your faith in republican congress may be misplaced. you did not see the Nunes story?","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - he would not be impeached.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - that is not how impeachment works.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - that is not what he said.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - your faith in republican congress may be misplaced. you did not see the Nunes story?","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I thought we were talking about the dirt.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - we are all humans on this blessed day.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I'm not sure what you are trying to say here.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I made pasta today with stuff found in the water.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I thought we were talking about the dirt.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - we are all humans on this blessed day.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I'm not sure what you are trying to say here.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I made pasta today with stuff found in the water.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - episode 3 is already out?","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - ah, I see. thanks for the heads up!","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I thought it was the black mirror episode.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - ah, I see. thanks.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - episode 3 is already out?","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - ah, I see. thanks for the heads up!","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I thought it was the black mirror episode.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - ah, I see. thanks.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - hello my new friend.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I have never heard of this one. what is it about?","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I have never heard of them. i will check them out.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - led zeppelin?","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - hello my new friend.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I have never heard of this one. what is it about?","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I have never heard of them. i will check them out.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - led zeppelin?","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - Welsh people are certainly English.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - no, it is not. it is a British thing.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - Wales isn't a country.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - it is not a part of the English language, it is the UK.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - Welsh people are certainly English.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - no, it is not. it is a British thing.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - Wales isn't a country.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - it is not a part of the English language, it is the UK.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - what laces are you talking about?","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - where did you get them?","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - thanks! I'll check it out! thanks!","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - ok dope thanks. I think the white boosted stripes would look really clean on this color way too.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - what laces are you talking about?","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - where did you get them?","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - thanks! I'll check it out! thanks!","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - ok dope thanks. I think the white boosted stripes would look really clean on this color way too.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - he also plays the British father at the end of the bogus journey (says ""my word!"" as the wyld stallyns play )","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I don't think I've ever seen that movie.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I think he was the only one who died.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - he looks like he is in the movie.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - he also plays the British father at the end of the bogus journey (says ""my word!"" as the wyld stallyns play )","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I don't think I've ever seen that movie.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I think he was the only one who died.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - he looks like he is in the movie.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - depends on where you live.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - depends on what you're doing.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - I don't get it.","Please rank the four responses below from best to worst on the metric of readability.
+
+
+
+Note -> 1:Best; 4:Worst * - as high up as you feel comfortable. first time droppers can still get noticeable results from as low as 6 inches","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - depends on where you live.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - depends on what you're doing.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - I don't get it.","Please rank the four responses below from best to worst on the metric of coherence.
+
+
+
+Note -> 1:Best; 4:Worst * - as high up as you feel comfortable. first time droppers can still get noticeable results from as low as 6 inches","Have you taken part in any previous studies apart from this on evaluating
+conversation?","Do you have any previous experience of taking part in studies that involve
+interacting with a chatbot?"
+"{""ImportId"":""startDate"",""timeZone"":""Europe/Berlin""}","{""ImportId"":""endDate"",""timeZone"":""Europe/Berlin""}","{""ImportId"":""status""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""Europe/Berlin""}","{""ImportId"":""_recordId""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID583""}","{""ImportId"":""QID476_1""}","{""ImportId"":""QID476_2""}","{""ImportId"":""QID476_3""}","{""ImportId"":""QID476_4""}","{""ImportId"":""QID478_1""}","{""ImportId"":""QID478_2""}","{""ImportId"":""QID478_3""}","{""ImportId"":""QID478_4""}","{""ImportId"":""QID479_1""}","{""ImportId"":""QID479_2""}","{""ImportId"":""QID479_3""}","{""ImportId"":""QID479_4""}","{""ImportId"":""QID480_1""}","{""ImportId"":""QID480_2""}","{""ImportId"":""QID480_3""}","{""ImportId"":""QID480_4""}","{""ImportId"":""QID482_1""}","{""ImportId"":""QID482_2""}","{""ImportId"":""QID482_3""}","{""ImportId"":""QID482_4""}","{""ImportId"":""QID530_1""}","{""ImportId"":""QID530_2""}","{""ImportId"":""QID530_3""}","{""ImportId"":""QID530_4""}","{""ImportId"":""QID483_1""}","{""ImportId"":""QID483_2""}","{""ImportId"":""QID483_3""}","{""ImportId"":""QID483_4""}","{""ImportId"":""QID531_1""}","{""ImportId"":""QID531_2""}","{""ImportId"":""QID531_3""}","{""ImportId"":""QID531_4""}","{""ImportId"":""QID484_1""}","{""ImportId"":""QID484_2""}","{""ImportId"":""QID484_3""}","{""ImportId"":""QID484_4""}","{""ImportId"":""QID532_1""}","{""ImportId"":""QID532_2""}","{""ImportId"":""QID532_3""}","{""ImportId"":""QID532_4""}","{""ImportId"":""QID485_1""}","{""ImportId"":""QID485_2""}","{""ImportId"":""QID485_3""}","{""ImportId"":""QID485_4""}","{""ImportId"":""QID533_1""}","{""ImportId"":""QID533_2""}","{""ImportId"":""QID533_3""}","{""ImportId"":""QID533_4""}","{""ImportId"":""QID486_1""}","{""ImportId"":""QID486_2""}","{""ImportId"":""QID486_3""}","{""ImportId"":""QID486_4""}","{""ImportId"":""QID534_1""}","{""ImportId"":""QID534_2""}","{""ImportId"":""QID534_3""}","{""ImportId"":""QID534_4""}","{""ImportId"":""QID487_1""}","{""ImportId"":""QID487_2""}","{""ImportId"":""QID487_3""}","{""ImportId"":""QID487_4""}","{""ImportId"":""QID535_1""}","{""ImportId"":""QID535_2""}","{""ImportId"":""QID535_3""}","{""ImportId"":""QID535_4""}","{""ImportId"":""QID488_1""}","{""ImportId"":""QID488_2""}","{""ImportId"":""QID488_3""}","{""ImportId"":""QID488_4""}","{""ImportId"":""QID536_1""}","{""ImportId"":""QID536_2""}","{""ImportId"":""QID536_3""}","{""ImportId"":""QID536_4""}","{""ImportId"":""QID489_1""}","{""ImportId"":""QID489_2""}","{""ImportId"":""QID489_3""}","{""ImportId"":""QID489_4""}","{""ImportId"":""QID537_1""}","{""ImportId"":""QID537_2""}","{""ImportId"":""QID537_3""}","{""ImportId"":""QID537_4""}","{""ImportId"":""QID490_1""}","{""ImportId"":""QID490_2""}","{""ImportId"":""QID490_3""}","{""ImportId"":""QID490_4""}","{""ImportId"":""QID538_1""}","{""ImportId"":""QID538_2""}","{""ImportId"":""QID538_3""}","{""ImportId"":""QID538_4""}","{""ImportId"":""QID491_1""}","{""ImportId"":""QID491_2""}","{""ImportId"":""QID491_3""}","{""ImportId"":""QID491_4""}","{""ImportId"":""QID539_1""}","{""ImportId"":""QID539_2""}","{""ImportId"":""QID539_3""}","{""ImportId"":""QID539_4""}","{""ImportId"":""QID492_1""}","{""ImportId"":""QID492_2""}","{""ImportId"":""QID492_3""}","{""ImportId"":""QID492_4""}","{""ImportId"":""QID540_1""}","{""ImportId"":""QID540_2""}","{""ImportId"":""QID540_3""}","{""ImportId"":""QID540_4""}","{""ImportId"":""QID493_1""}","{""ImportId"":""QID493_2""}","{""ImportId"":""QID493_3""}","{""ImportId"":""QID493_4""}","{""ImportId"":""QID541_1""}","{""ImportId"":""QID541_2""}","{""ImportId"":""QID541_3""}","{""ImportId"":""QID541_4""}","{""ImportId"":""QID494_1""}","{""ImportId"":""QID494_2""}","{""ImportId"":""QID494_3""}","{""ImportId"":""QID494_4""}","{""ImportId"":""QID542_1""}","{""ImportId"":""QID542_2""}","{""ImportId"":""QID542_3""}","{""ImportId"":""QID542_4""}","{""ImportId"":""QID495_1""}","{""ImportId"":""QID495_2""}","{""ImportId"":""QID495_3""}","{""ImportId"":""QID495_4""}","{""ImportId"":""QID543_1""}","{""ImportId"":""QID543_2""}","{""ImportId"":""QID543_3""}","{""ImportId"":""QID543_4""}","{""ImportId"":""QID496_1""}","{""ImportId"":""QID496_2""}","{""ImportId"":""QID496_3""}","{""ImportId"":""QID496_4""}","{""ImportId"":""QID544_1""}","{""ImportId"":""QID544_2""}","{""ImportId"":""QID544_3""}","{""ImportId"":""QID544_4""}","{""ImportId"":""QID497_1""}","{""ImportId"":""QID497_2""}","{""ImportId"":""QID497_3""}","{""ImportId"":""QID497_4""}","{""ImportId"":""QID545_1""}","{""ImportId"":""QID545_2""}","{""ImportId"":""QID545_3""}","{""ImportId"":""QID545_4""}","{""ImportId"":""QID498_1""}","{""ImportId"":""QID498_2""}","{""ImportId"":""QID498_3""}","{""ImportId"":""QID498_4""}","{""ImportId"":""QID546_1""}","{""ImportId"":""QID546_2""}","{""ImportId"":""QID546_3""}","{""ImportId"":""QID546_4""}","{""ImportId"":""QID499_1""}","{""ImportId"":""QID499_2""}","{""ImportId"":""QID499_3""}","{""ImportId"":""QID499_4""}","{""ImportId"":""QID547_1""}","{""ImportId"":""QID547_2""}","{""ImportId"":""QID547_3""}","{""ImportId"":""QID547_4""}","{""ImportId"":""QID500_1""}","{""ImportId"":""QID500_2""}","{""ImportId"":""QID500_3""}","{""ImportId"":""QID500_4""}","{""ImportId"":""QID548_1""}","{""ImportId"":""QID548_2""}","{""ImportId"":""QID548_3""}","{""ImportId"":""QID548_4""}","{""ImportId"":""QID501_1""}","{""ImportId"":""QID501_2""}","{""ImportId"":""QID501_3""}","{""ImportId"":""QID501_4""}","{""ImportId"":""QID549_1""}","{""ImportId"":""QID549_2""}","{""ImportId"":""QID549_3""}","{""ImportId"":""QID549_4""}","{""ImportId"":""QID502_1""}","{""ImportId"":""QID502_2""}","{""ImportId"":""QID502_3""}","{""ImportId"":""QID502_4""}","{""ImportId"":""QID550_1""}","{""ImportId"":""QID550_2""}","{""ImportId"":""QID550_3""}","{""ImportId"":""QID550_4""}","{""ImportId"":""QID503_1""}","{""ImportId"":""QID503_2""}","{""ImportId"":""QID503_3""}","{""ImportId"":""QID503_4""}","{""ImportId"":""QID551_1""}","{""ImportId"":""QID551_2""}","{""ImportId"":""QID551_3""}","{""ImportId"":""QID551_4""}","{""ImportId"":""QID504_1""}","{""ImportId"":""QID504_2""}","{""ImportId"":""QID504_3""}","{""ImportId"":""QID504_4""}","{""ImportId"":""QID552_1""}","{""ImportId"":""QID552_2""}","{""ImportId"":""QID552_3""}","{""ImportId"":""QID552_4""}","{""ImportId"":""QID505_1""}","{""ImportId"":""QID505_2""}","{""ImportId"":""QID505_3""}","{""ImportId"":""QID505_4""}","{""ImportId"":""QID553_1""}","{""ImportId"":""QID553_2""}","{""ImportId"":""QID553_3""}","{""ImportId"":""QID553_4""}","{""ImportId"":""QID506_1""}","{""ImportId"":""QID506_2""}","{""ImportId"":""QID506_3""}","{""ImportId"":""QID506_4""}","{""ImportId"":""QID554_1""}","{""ImportId"":""QID554_2""}","{""ImportId"":""QID554_3""}","{""ImportId"":""QID554_4""}","{""ImportId"":""QID507_1""}","{""ImportId"":""QID507_2""}","{""ImportId"":""QID507_3""}","{""ImportId"":""QID507_4""}","{""ImportId"":""QID555_1""}","{""ImportId"":""QID555_2""}","{""ImportId"":""QID555_3""}","{""ImportId"":""QID555_4""}","{""ImportId"":""QID508_1""}","{""ImportId"":""QID508_2""}","{""ImportId"":""QID508_3""}","{""ImportId"":""QID508_4""}","{""ImportId"":""QID556_1""}","{""ImportId"":""QID556_2""}","{""ImportId"":""QID556_3""}","{""ImportId"":""QID556_4""}","{""ImportId"":""QID558_1""}","{""ImportId"":""QID558_2""}","{""ImportId"":""QID558_3""}","{""ImportId"":""QID558_4""}","{""ImportId"":""QID557_1""}","{""ImportId"":""QID557_2""}","{""ImportId"":""QID557_3""}","{""ImportId"":""QID557_4""}","{""ImportId"":""QID510_1""}","{""ImportId"":""QID510_2""}","{""ImportId"":""QID510_3""}","{""ImportId"":""QID510_4""}","{""ImportId"":""QID559_1""}","{""ImportId"":""QID559_2""}","{""ImportId"":""QID559_3""}","{""ImportId"":""QID559_4""}","{""ImportId"":""QID511_1""}","{""ImportId"":""QID511_2""}","{""ImportId"":""QID511_3""}","{""ImportId"":""QID511_4""}","{""ImportId"":""QID560_1""}","{""ImportId"":""QID560_2""}","{""ImportId"":""QID560_3""}","{""ImportId"":""QID560_4""}","{""ImportId"":""QID512_1""}","{""ImportId"":""QID512_2""}","{""ImportId"":""QID512_3""}","{""ImportId"":""QID512_4""}","{""ImportId"":""QID561_1""}","{""ImportId"":""QID561_2""}","{""ImportId"":""QID561_3""}","{""ImportId"":""QID561_4""}","{""ImportId"":""QID513_1""}","{""ImportId"":""QID513_2""}","{""ImportId"":""QID513_3""}","{""ImportId"":""QID513_4""}","{""ImportId"":""QID562_1""}","{""ImportId"":""QID562_2""}","{""ImportId"":""QID562_3""}","{""ImportId"":""QID562_4""}","{""ImportId"":""QID514_1""}","{""ImportId"":""QID514_2""}","{""ImportId"":""QID514_3""}","{""ImportId"":""QID514_4""}","{""ImportId"":""QID563_1""}","{""ImportId"":""QID563_2""}","{""ImportId"":""QID563_3""}","{""ImportId"":""QID563_4""}","{""ImportId"":""QID515_1""}","{""ImportId"":""QID515_2""}","{""ImportId"":""QID515_3""}","{""ImportId"":""QID515_4""}","{""ImportId"":""QID564_1""}","{""ImportId"":""QID564_2""}","{""ImportId"":""QID564_3""}","{""ImportId"":""QID564_4""}","{""ImportId"":""QID516_1""}","{""ImportId"":""QID516_2""}","{""ImportId"":""QID516_3""}","{""ImportId"":""QID516_4""}","{""ImportId"":""QID565_1""}","{""ImportId"":""QID565_2""}","{""ImportId"":""QID565_3""}","{""ImportId"":""QID565_4""}","{""ImportId"":""QID517_1""}","{""ImportId"":""QID517_2""}","{""ImportId"":""QID517_3""}","{""ImportId"":""QID517_4""}","{""ImportId"":""QID566_1""}","{""ImportId"":""QID566_2""}","{""ImportId"":""QID566_3""}","{""ImportId"":""QID566_4""}","{""ImportId"":""QID518_1""}","{""ImportId"":""QID518_2""}","{""ImportId"":""QID518_3""}","{""ImportId"":""QID518_4""}","{""ImportId"":""QID567_1""}","{""ImportId"":""QID567_2""}","{""ImportId"":""QID567_3""}","{""ImportId"":""QID567_4""}","{""ImportId"":""QID519_1""}","{""ImportId"":""QID519_2""}","{""ImportId"":""QID519_3""}","{""ImportId"":""QID519_4""}","{""ImportId"":""QID568_1""}","{""ImportId"":""QID568_2""}","{""ImportId"":""QID568_3""}","{""ImportId"":""QID568_4""}","{""ImportId"":""QID520_1""}","{""ImportId"":""QID520_2""}","{""ImportId"":""QID520_3""}","{""ImportId"":""QID520_4""}","{""ImportId"":""QID570_1""}","{""ImportId"":""QID570_2""}","{""ImportId"":""QID570_3""}","{""ImportId"":""QID570_4""}","{""ImportId"":""QID569_1""}","{""ImportId"":""QID569_2""}","{""ImportId"":""QID569_3""}","{""ImportId"":""QID569_4""}","{""ImportId"":""QID571_1""}","{""ImportId"":""QID571_2""}","{""ImportId"":""QID571_3""}","{""ImportId"":""QID571_4""}","{""ImportId"":""QID522_1""}","{""ImportId"":""QID522_2""}","{""ImportId"":""QID522_3""}","{""ImportId"":""QID522_4""}","{""ImportId"":""QID572_1""}","{""ImportId"":""QID572_2""}","{""ImportId"":""QID572_3""}","{""ImportId"":""QID572_4""}","{""ImportId"":""QID523_1""}","{""ImportId"":""QID523_2""}","{""ImportId"":""QID523_3""}","{""ImportId"":""QID523_4""}","{""ImportId"":""QID573_1""}","{""ImportId"":""QID573_2""}","{""ImportId"":""QID573_3""}","{""ImportId"":""QID573_4""}","{""ImportId"":""QID524_1""}","{""ImportId"":""QID524_2""}","{""ImportId"":""QID524_3""}","{""ImportId"":""QID524_4""}","{""ImportId"":""QID574_1""}","{""ImportId"":""QID574_2""}","{""ImportId"":""QID574_3""}","{""ImportId"":""QID574_4""}","{""ImportId"":""QID525_1""}","{""ImportId"":""QID525_2""}","{""ImportId"":""QID525_3""}","{""ImportId"":""QID525_4""}","{""ImportId"":""QID575_1""}","{""ImportId"":""QID575_2""}","{""ImportId"":""QID575_3""}","{""ImportId"":""QID575_4""}","{""ImportId"":""QID526_1""}","{""ImportId"":""QID526_2""}","{""ImportId"":""QID526_3""}","{""ImportId"":""QID526_4""}","{""ImportId"":""QID576_1""}","{""ImportId"":""QID576_2""}","{""ImportId"":""QID576_3""}","{""ImportId"":""QID576_4""}","{""ImportId"":""QID527_1""}","{""ImportId"":""QID527_2""}","{""ImportId"":""QID527_3""}","{""ImportId"":""QID527_4""}","{""ImportId"":""QID577_1""}","{""ImportId"":""QID577_2""}","{""ImportId"":""QID577_3""}","{""ImportId"":""QID577_4""}","{""ImportId"":""QID528_1""}","{""ImportId"":""QID528_2""}","{""ImportId"":""QID528_3""}","{""ImportId"":""QID528_4""}","{""ImportId"":""QID578_1""}","{""ImportId"":""QID578_2""}","{""ImportId"":""QID578_3""}","{""ImportId"":""QID578_4""}","{""ImportId"":""QID529_1""}","{""ImportId"":""QID529_2""}","{""ImportId"":""QID529_3""}","{""ImportId"":""QID529_4""}","{""ImportId"":""QID579_1""}","{""ImportId"":""QID579_2""}","{""ImportId"":""QID579_3""}","{""ImportId"":""QID579_4""}","{""ImportId"":""QID471""}","{""ImportId"":""QID472""}"
+2022-05-02 13:04:15,2022-05-02 13:10:30,IP Address,100,375,True,2022-05-02 13:10:31,R_1BRhhN96MiERFTF,anonymous,EN,Yes,1,4,2,3,4,3,2,1,1,4,2,3,1,4,2,3,2,1,3,4,3,1,2,4,2,1,3,4,2,3,4,1,4,1,2,3,3,1,2,4,2,4,1,3,1,3,2,4,4,1,2,3,1,2,4,3,3,4,1,2,2,4,1,3,1,2,3,4,1,2,4,3,3,4,1,2,3,1,2,4,2,1,3,4,1,2,3,4,1,2,3,4,1,2,3,4,1,2,3,4,1,3,2,4,2,3,4,1,1,2,4,3,1,3,4,2,2,4,3,1,2,3,1,4,1,4,2,3,2,3,1,4,1,4,2,3,1,3,2,4,1,2,3,4,2,3,1,4,1,4,2,3,1,3,4,2,2,3,1,4,3,1,2,4,1,2,3,4,1,2,3,4,1,2,3,4,1,2,3,4,1,2,3,4,2,3,4,1,2,3,1,4,2,1,3,4,1,3,2,4,2,1,3,4,1,2,4,3,1,4,2,3,1,3,2,4,2,3,1,4,1,3,2,4,1,3,4,2,1,4,2,3,1,2,3,4,1,4,2,3,1,3,2,4,1,3,2,4,3,1,2,4,3,1,2,4,1,3,2,4,1,3,2,4,2,1,3,4,3,1,2,4,1,3,2,4,1,3,2,4,1,2,4,3,1,2,3,4,1,3,2,4,2,1,3,4,1,2,4,3,1,2,3,4,1,3,2,4,1,2,4,3,1,4,2,3,1,3,2,4,1,4,2,3,1,2,3,4,1,4,2,3,2,1,3,4,2,3,1,4,3,1,2,4,1,2,3,4,1,2,3,4,2,3,1,4,2,1,3,4,1,3,2,4,1,3,2,4,1,3,4,2,3,1,2,4,2,3,4,1,2,3,4,1,2,1,3,4,4,1,2,3,1,2,3,4,2,3,1,4,No,Yes
+2022-05-02 13:07:05,2022-05-02 13:18:19,IP Address,100,674,True,2022-05-02 13:18:21,R_RlB2ngsy928cIrD,anonymous,EN,Yes,4,3,1,2,4,2,1,3,1,3,2,4,3,2,1,4,2,3,1,4,2,1,3,4,4,2,3,1,4,2,3,1,1,2,4,3,2,3,1,4,2,1,4,3,2,4,3,1,3,4,1,2,2,3,1,4,2,4,3,1,1,3,2,4,3,2,4,1,2,4,1,3,1,2,3,4,4,2,3,1,3,2,1,4,1,2,3,4,1,3,2,4,4,1,2,3,1,2,3,4,2,1,3,4,3,1,2,4,3,2,1,4,3,1,2,4,3,1,2,4,2,3,1,4,1,3,2,4,4,2,3,1,4,2,3,1,3,4,2,1,1,2,3,4,1,2,3,4,2,4,3,1,2,3,4,1,3,4,1,2,3,1,2,4,2,3,1,4,3,2,1,4,1,4,2,3,4,1,3,2,2,4,3,1,4,1,2,3,1,2,3,4,2,1,3,4,2,3,4,1,3,2,1,4,2,3,4,1,4,3,2,1,1,2,3,4,3,4,1,2,2,1,3,4,1,4,2,3,2,3,4,1,2,3,1,4,4,1,2,3,3,2,1,4,1,2,4,3,3,1,4,2,1,4,2,3,2,3,4,1,2,1,3,4,4,1,2,3,1,2,3,4,1,2,4,3,2,1,3,4,2,3,4,1,1,2,3,4,3,1,2,4,1,2,3,4,4,1,2,3,3,1,2,4,2,1,4,3,4,1,3,2,2,3,4,1,1,2,3,4,1,2,3,4,1,4,2,3,1,2,4,3,1,3,2,4,2,4,3,1,1,2,3,4,1,3,2,4,2,3,1,4,2,3,1,4,1,2,4,3,4,1,3,2,1,3,4,2,2,1,3,4,1,4,2,3,1,3,2,4,1,2,4,3,1,2,3,4,4,1,2,3,2,3,4,1,3,1,2,4,Yes,Yes
+2022-05-02 12:52:06,2022-05-02 13:19:14,IP Address,100,1628,True,2022-05-02 13:19:14,R_1hToHozh6WbSmqO,anonymous,EN,Yes,2,3,4,1,1,3,4,2,3,1,2,4,1,3,2,4,4,2,1,3,3,1,2,4,2,4,3,1,4,1,2,3,1,4,2,3,1,4,2,3,1,4,3,2,1,2,4,3,1,4,3,2,1,4,2,3,3,4,1,2,2,3,4,1,1,2,3,4,2,3,1,4,4,1,2,3,2,3,1,4,1,4,2,3,1,3,2,4,1,4,2,3,1,4,3,2,2,1,4,3,2,1,4,3,3,4,2,1,1,4,2,3,1,4,2,3,2,4,1,3,2,4,1,3,1,4,2,3,4,2,1,3,4,1,3,2,4,2,3,1,4,1,2,3,1,3,2,4,1,2,3,4,1,4,2,3,1,4,3,2,4,2,3,1,4,1,2,3,4,2,3,1,3,2,4,1,4,3,2,1,3,4,2,1,2,3,4,1,3,2,1,4,2,3,1,4,1,2,3,4,2,3,4,1,1,3,4,2,1,3,2,4,1,3,2,4,2,3,4,1,3,2,4,1,1,3,2,4,1,3,2,4,3,1,4,2,3,1,4,2,1,3,4,2,1,2,4,3,3,1,4,2,4,1,3,2,3,1,2,4,4,1,2,3,3,4,2,1,4,3,2,1,1,3,2,4,1,2,4,3,3,2,4,1,3,1,4,2,2,3,1,4,1,3,2,4,1,4,3,2,1,2,3,4,1,3,4,2,1,3,4,2,4,3,1,2,3,4,2,1,1,4,2,3,1,4,2,3,1,4,2,3,1,4,2,3,3,1,4,2,2,1,3,4,2,1,4,3,1,2,3,4,1,2,4,3,1,3,2,4,1,3,4,2,1,2,4,3,4,2,3,1,3,2,4,1,4,3,2,1,3,2,1,4,1,4,3,2,3,1,2,4,2,3,4,1,2,3,4,1,No,No
+2022-05-02 13:06:29,2022-05-02 13:23:37,IP Address,100,1028,True,2022-05-02 13:23:38,R_3HZAbHkBYMgCDCb,anonymous,EN,Yes,4,2,1,3,4,3,1,2,2,1,3,4,2,1,3,4,3,2,1,4,3,1,4,2,2,1,3,4,1,4,2,3,2,3,4,1,3,4,2,1,3,2,1,4,1,2,4,3,3,2,1,4,1,2,4,3,2,1,3,4,2,1,3,4,2,3,1,4,2,1,3,4,2,1,3,4,3,1,2,4,2,1,3,4,2,1,3,4,2,1,3,4,1,3,2,4,2,1,3,4,1,3,4,2,2,3,1,4,2,1,3,4,1,3,2,4,2,1,3,4,2,1,3,4,1,3,2,4,1,2,3,4,2,3,1,4,2,1,3,4,2,3,4,1,1,2,3,4,1,2,3,4,1,3,2,4,2,3,1,4,1,4,2,3,1,4,2,3,2,3,1,4,1,2,3,4,2,1,3,4,2,3,1,4,3,2,1,4,1,2,4,3,4,2,1,3,1,3,2,4,1,2,3,4,3,1,4,2,2,3,1,4,2,1,3,4,4,2,1,3,2,3,4,1,1,3,2,4,2,1,3,4,1,3,2,4,1,3,2,4,3,4,2,1,2,1,4,3,1,2,4,3,2,3,1,4,1,3,2,4,2,1,3,4,1,4,2,3,1,3,2,4,1,4,2,3,2,1,3,4,1,2,4,3,1,2,4,3,1,4,2,3,2,3,1,4,1,2,3,4,2,3,1,4,1,3,2,4,1,3,2,4,1,2,4,3,1,3,2,4,1,2,3,4,1,2,4,3,1,2,4,3,1,3,2,4,1,4,2,3,1,3,4,2,1,2,3,4,1,2,4,3,1,2,4,3,1,4,2,3,1,2,3,4,2,1,3,4,1,2,3,4,1,3,2,4,1,2,4,3,1,2,3,4,1,2,4,3,2,1,3,4,1,3,2,4,4,1,2,3,No,No
+2022-05-02 13:04:17,2022-05-02 13:28:15,IP Address,100,1438,True,2022-05-02 13:28:15,R_3q9leLphECsvEVJ,anonymous,EN,Yes,4,1,3,2,4,1,3,2,4,1,2,3,4,1,3,2,4,2,1,3,4,2,3,1,3,2,1,4,1,3,2,4,3,4,2,1,3,4,2,1,2,1,4,3,2,1,4,3,2,4,3,1,2,4,3,1,2,3,4,1,2,3,4,1,3,2,1,4,2,3,1,4,2,1,4,3,3,1,2,4,4,2,1,3,4,1,2,3,1,2,3,4,1,3,2,4,2,1,4,3,2,1,4,3,2,4,1,3,2,3,1,4,2,4,1,3,1,4,2,3,3,4,1,2,1,4,2,3,1,2,3,4,1,3,2,4,2,3,4,1,1,2,4,3,2,1,4,3,2,1,4,3,4,3,1,2,4,3,1,2,1,4,3,2,2,3,4,1,2,3,4,1,2,4,3,1,2,4,1,3,1,3,2,4,2,3,4,1,1,3,4,2,4,1,3,2,3,2,1,4,1,3,4,2,1,4,3,2,2,4,1,3,1,3,2,4,1,3,2,4,2,1,4,3,1,4,3,2,2,3,4,1,2,3,4,1,1,3,4,2,1,3,2,4,1,2,3,4,2,3,1,4,2,3,1,4,3,4,1,2,2,3,4,1,1,4,3,2,1,4,3,2,1,3,2,4,1,2,3,4,3,2,1,4,2,3,1,4,3,1,2,4,1,2,3,4,1,4,2,3,1,4,2,3,3,2,4,1,3,2,4,1,2,3,4,1,2,4,1,3,1,2,4,3,1,2,3,4,1,4,3,2,1,2,3,4,2,3,4,1,2,1,3,4,1,3,2,4,1,2,3,4,1,3,2,4,2,3,1,4,2,3,4,1,1,4,2,3,2,3,4,1,1,2,3,4,3,1,4,2,1,3,4,2,1,4,3,2,2,3,4,1,3,2,4,1,3,2,4,1,No,Yes
+2022-05-02 13:02:14,2022-05-02 13:28:21,IP Address,100,1566,True,2022-05-02 13:28:22,R_egplVXyzMHyavp7,anonymous,EN,Yes,3,1,4,2,3,1,4,2,4,1,2,3,3,1,2,4,3,1,2,4,2,1,4,3,2,3,4,1,1,4,3,2,1,4,3,2,2,4,3,1,1,3,4,2,2,1,4,3,1,4,3,2,1,4,3,2,2,4,1,3,2,4,1,3,2,3,4,1,1,3,4,2,1,3,4,2,1,3,2,4,1,4,2,3,3,4,1,2,2,4,1,3,1,2,4,3,2,1,3,4,3,1,2,4,1,3,2,4,3,1,2,4,3,4,1,2,2,3,4,1,3,4,1,2,3,4,2,1,2,4,1,3,4,1,3,2,1,2,4,3,2,1,4,3,1,2,4,3,2,3,4,1,3,4,1,2,3,4,2,1,1,3,4,2,2,1,4,3,2,1,3,4,4,2,1,3,3,4,1,2,1,4,2,3,3,1,2,4,2,3,1,4,2,4,1,3,3,1,2,4,1,3,4,2,1,2,3,4,1,2,4,3,1,3,2,4,1,3,2,4,2,3,4,1,2,3,1,4,2,3,1,4,1,3,4,2,2,3,4,1,1,2,4,3,2,1,3,4,2,4,1,3,2,4,1,3,3,1,2,4,1,3,2,4,3,1,2,4,3,1,4,2,1,4,2,3,2,1,3,4,2,4,3,1,1,4,3,2,1,2,3,4,2,3,1,4,1,4,3,2,1,4,2,3,1,2,4,3,1,2,3,4,3,1,4,2,1,3,4,2,1,3,2,4,1,3,2,4,2,4,3,1,2,4,3,1,3,2,4,1,3,1,4,2,2,3,1,4,1,4,2,3,4,2,1,3,2,3,4,1,1,3,2,4,3,2,4,1,4,2,3,1,4,2,3,1,3,4,1,2,3,2,1,4,2,3,1,4,2,1,3,4,3,1,4,2,4,2,3,1,No,No
+2022-05-02 12:50:05,2022-05-02 13:30:38,IP Address,100,2432,True,2022-05-02 13:30:38,R_1KqhakAXEFY5kC1,anonymous,EN,Yes,3,1,4,2,4,3,1,2,3,4,1,2,3,4,2,1,3,2,1,4,3,2,1,4,4,2,3,1,1,3,4,2,4,3,1,2,3,4,2,1,1,2,4,3,1,2,4,3,3,4,2,1,2,4,3,1,3,4,1,2,1,4,3,2,2,3,4,1,1,2,4,3,1,4,2,3,2,1,3,4,2,4,1,3,1,4,2,3,3,4,1,2,1,4,2,3,1,2,3,4,2,1,4,3,1,2,4,3,1,4,3,2,4,3,1,2,1,4,2,3,3,4,1,2,1,3,2,4,4,2,3,1,4,1,2,3,4,3,1,2,4,3,1,2,1,3,2,4,1,3,2,4,1,4,3,2,1,4,3,2,4,2,3,1,4,2,3,1,1,4,3,2,2,1,3,4,3,4,2,1,3,4,2,1,3,2,1,4,3,1,2,4,2,3,1,4,3,2,1,4,4,3,2,1,4,3,2,1,1,3,4,2,1,3,2,4,3,2,1,4,3,4,1,2,2,1,3,4,2,1,3,4,3,2,1,4,2,1,3,4,4,3,1,2,4,2,3,1,3,2,4,1,4,2,3,1,4,2,1,3,2,1,3,4,4,3,2,1,4,1,2,3,2,4,3,1,4,2,3,1,4,3,2,1,4,3,1,2,3,1,2,4,2,1,3,4,4,3,2,1,4,3,1,2,1,3,4,2,1,3,4,2,4,2,1,3,4,1,3,2,4,1,3,2,1,2,4,3,3,4,1,2,2,4,1,3,1,2,3,4,2,3,1,4,1,3,2,4,2,3,1,4,4,2,3,1,3,2,4,1,4,3,2,1,4,2,3,1,2,3,1,4,1,2,3,4,3,2,1,4,1,2,3,4,4,1,3,2,3,1,2,4,1,2,3,4,2,1,3,4,No,No
+2022-05-02 12:59:25,2022-05-02 13:31:03,IP Address,100,1898,True,2022-05-02 13:31:03,R_3qBE22yWny4rqgZ,anonymous,EN,Yes,1,2,4,3,3,1,4,2,1,4,2,3,3,1,2,4,3,2,1,4,3,1,2,4,4,1,2,3,1,2,4,3,4,3,1,2,1,4,2,3,1,4,3,2,2,4,3,1,2,4,3,1,1,4,3,2,3,1,4,2,3,4,2,1,1,3,4,2,2,3,1,4,4,3,1,2,3,2,1,4,2,1,4,3,4,1,2,3,2,3,4,1,1,4,3,2,1,2,4,3,3,1,4,2,1,2,4,3,1,2,3,4,3,2,1,4,1,4,2,3,3,4,1,2,4,3,1,2,4,3,2,1,4,2,1,3,4,3,1,2,3,1,2,4,3,2,1,4,2,3,1,4,3,4,1,2,3,4,1,2,2,4,3,1,1,3,4,2,3,4,2,1,1,2,3,4,4,1,3,2,3,4,2,1,4,2,3,1,2,3,4,1,2,1,3,4,3,2,1,4,4,3,1,2,1,3,4,2,4,2,1,3,1,3,2,4,4,3,1,2,1,3,2,4,2,1,3,4,3,1,4,2,3,2,1,4,2,3,4,1,4,1,3,2,1,2,3,4,4,2,3,1,2,3,1,4,4,3,2,1,1,3,2,4,4,2,3,1,4,3,1,2,2,3,4,1,1,3,2,4,4,1,2,3,3,2,4,1,3,2,1,4,1,2,3,4,3,1,2,4,1,4,3,2,4,3,1,2,2,3,4,1,4,2,3,1,3,4,1,2,4,3,1,2,1,2,3,4,4,3,2,1,1,4,3,2,1,3,2,4,2,3,4,1,1,3,2,4,3,2,4,1,4,2,1,3,3,1,4,2,3,2,1,4,2,4,1,3,2,3,1,4,1,4,2,3,1,2,3,4,2,4,1,3,4,1,2,3,1,4,2,3,2,3,1,4,3,2,4,1,No,No
+2022-05-02 12:53:32,2022-05-02 13:36:14,IP Address,100,2562,True,2022-05-02 13:36:14,R_6VYS9Bim1K2hRYd,anonymous,EN,Yes,1,4,3,2,3,2,4,1,3,1,2,4,3,1,2,4,3,2,4,1,4,2,3,1,4,2,3,1,1,2,4,3,4,3,1,2,3,4,2,1,1,4,3,2,2,4,3,1,1,4,3,2,2,3,4,1,3,2,4,1,3,4,2,1,3,1,4,2,1,2,3,4,4,3,1,2,3,1,2,4,4,1,2,3,1,4,2,3,2,4,3,1,1,4,2,3,1,2,3,4,3,1,2,4,1,3,4,2,1,4,2,3,2,1,3,4,1,4,2,3,4,3,2,1,3,4,2,1,1,4,2,3,4,3,1,2,4,3,2,1,2,1,3,4,2,3,1,4,1,2,4,3,4,2,1,3,2,4,3,1,3,1,4,2,1,3,4,2,3,1,4,2,3,4,1,2,4,3,2,1,1,4,2,3,4,1,2,3,4,2,3,1,1,2,4,3,2,3,1,4,4,2,1,3,1,4,3,2,4,1,2,3,1,3,2,4,4,2,1,3,4,3,1,2,1,3,2,4,2,4,3,1,3,1,2,4,1,3,4,2,4,2,3,1,1,3,2,4,4,2,3,1,4,3,1,2,2,4,3,1,3,1,2,4,4,1,2,3,4,1,2,3,2,4,3,1,1,3,2,4,4,2,3,1,4,1,3,2,2,1,4,3,3,2,1,4,4,1,2,3,1,4,2,3,4,2,1,3,2,3,4,1,4,2,3,1,3,2,4,1,1,3,4,2,1,4,2,3,3,1,2,4,4,1,2,3,2,1,3,4,3,2,4,1,3,4,2,1,2,3,1,4,3,2,1,4,1,3,2,4,3,1,2,4,4,3,2,1,1,3,2,4,2,3,4,1,1,2,4,3,4,3,2,1,4,1,2,3,3,2,1,4,2,3,1,4,3,2,4,1,No,No
+2022-05-02 12:49:51,2022-05-02 13:36:46,IP Address,100,2814,True,2022-05-02 13:36:46,R_2AQjecvpTcAjmhA,anonymous,EN,Yes,3,2,4,1,3,2,4,1,4,1,2,3,4,2,1,3,3,2,4,1,4,2,1,3,1,3,4,2,1,4,3,2,2,4,3,1,1,4,3,2,3,1,4,2,3,2,4,1,1,4,2,3,2,4,1,3,3,4,1,2,2,4,1,3,3,2,1,4,2,3,1,4,4,1,3,2,2,1,3,4,3,4,1,2,2,3,4,1,1,2,3,4,2,3,1,4,3,1,4,2,3,2,4,1,2,4,1,3,2,4,1,3,1,4,2,3,3,4,1,2,4,3,2,1,4,3,2,1,1,3,2,4,4,1,3,2,1,4,3,2,4,1,2,3,1,2,3,4,1,2,3,4,4,3,2,1,1,4,2,3,1,3,4,2,3,2,4,1,1,3,2,4,1,4,2,3,1,2,4,3,4,1,3,2,4,2,1,3,2,4,3,1,3,4,2,1,2,1,3,4,1,3,2,4,4,1,3,2,1,4,2,3,2,3,1,4,3,1,4,2,1,4,2,3,1,2,3,4,1,3,2,4,2,1,3,4,1,3,4,2,4,3,2,1,3,4,2,1,3,2,4,1,4,2,1,3,3,4,1,2,4,2,1,3,4,2,1,3,4,3,2,1,4,2,1,3,2,3,1,4,3,2,1,4,3,1,4,2,2,1,3,4,3,2,1,4,1,4,2,3,1,4,3,2,1,2,4,3,1,2,4,3,4,2,3,1,4,1,2,3,1,3,4,2,3,4,1,2,2,1,4,3,3,4,1,2,4,3,2,1,1,2,3,4,1,3,2,4,1,4,2,3,4,3,1,2,4,3,2,1,4,1,2,3,1,4,3,2,3,2,4,1,1,2,4,3,1,2,4,3,2,1,3,4,1,4,3,2,4,1,2,3,3,2,4,1,4,2,1,3,Yes,Yes
+2022-05-02 13:06:01,2022-05-02 13:37:17,IP Address,100,1876,True,2022-05-02 13:37:18,R_0AizmYtj91SE8Q9,anonymous,EN,Yes,4,2,3,1,4,2,3,1,2,4,1,3,2,1,3,4,3,1,2,4,4,1,2,3,1,3,4,2,1,3,4,2,2,4,3,1,1,4,3,2,4,3,2,1,1,4,3,2,4,3,2,1,4,3,2,1,1,2,3,4,1,3,4,2,1,2,4,3,1,2,3,4,3,1,2,4,3,2,1,4,4,3,1,2,4,3,1,2,4,2,3,1,4,2,3,1,3,1,2,4,3,1,2,4,3,2,4,1,1,2,4,3,4,3,1,2,1,4,2,3,3,4,1,2,3,4,1,2,3,4,2,1,4,3,2,1,3,1,2,4,1,2,3,4,1,2,4,3,1,2,4,3,3,4,2,1,4,3,1,2,4,2,3,1,2,3,4,1,1,4,2,3,1,2,3,4,1,4,3,2,2,4,1,3,4,2,3,1,4,2,3,1,2,3,1,4,3,2,1,4,1,2,4,3,1,4,3,2,2,4,1,3,1,4,2,3,1,4,2,3,2,4,1,3,2,4,1,3,4,3,1,2,1,3,2,4,2,3,4,1,1,2,3,4,1,2,4,3,4,2,1,3,4,2,1,3,4,2,3,1,1,2,3,4,4,1,2,3,1,4,2,3,4,3,1,2,1,4,2,3,4,2,1,3,4,3,2,1,4,1,2,3,1,2,3,4,4,3,2,1,1,4,2,3,2,1,4,3,1,2,4,3,4,3,1,2,4,1,2,3,1,4,2,3,1,2,3,4,3,2,1,4,2,4,1,3,1,2,3,4,1,2,3,4,4,2,1,3,1,3,4,2,1,4,2,3,1,2,4,3,3,4,1,2,4,3,2,1,1,3,2,4,2,3,4,1,2,3,1,4,1,2,3,4,4,3,1,2,1,2,3,4,3,2,4,1,2,3,4,1,No,No
+2022-05-02 12:53:25,2022-05-02 13:37:25,IP Address,100,2639,True,2022-05-02 13:37:25,R_1QcKtBDSn2S8CpT,anonymous,EN,Yes,1,4,2,3,1,4,2,3,4,1,2,3,4,1,3,2,4,1,2,3,4,2,3,1,1,3,4,2,3,2,4,1,1,4,2,3,1,4,2,3,1,4,2,3,1,4,3,2,1,4,3,2,4,3,2,1,3,4,2,1,3,4,2,1,1,2,4,3,1,2,4,3,3,1,2,4,1,3,2,4,3,2,4,1,1,3,4,2,1,3,2,4,1,4,2,3,4,1,2,3,4,1,2,3,1,4,2,3,1,4,2,3,1,4,2,3,1,4,2,3,1,2,4,3,1,2,4,3,4,1,2,3,4,1,2,3,1,2,4,3,1,2,4,3,1,2,3,4,2,1,3,4,2,3,4,1,2,3,4,1,1,2,4,3,1,2,4,3,2,4,3,1,2,4,3,1,2,1,3,4,1,2,4,3,1,3,4,2,1,3,4,2,2,3,1,4,2,3,1,4,4,1,2,3,4,1,2,3,1,3,2,4,1,3,2,4,1,2,4,3,2,3,1,4,1,3,2,4,1,3,2,4,2,3,4,1,2,3,4,1,2,1,3,4,2,1,3,4,2,3,1,4,2,3,1,4,4,1,2,3,3,1,2,4,2,4,3,1,2,3,4,1,1,3,2,4,1,3,2,4,2,1,3,4,4,1,2,3,2,3,1,4,2,3,1,4,2,4,1,3,2,4,1,3,1,3,4,2,1,3,4,2,4,1,2,3,4,1,2,3,1,3,2,4,1,3,2,4,1,3,4,2,1,3,4,2,1,2,4,3,1,2,4,3,2,3,4,1,2,3,4,1,2,1,3,4,2,1,3,4,1,3,4,2,1,3,4,2,1,3,2,4,2,3,4,1,2,1,3,4,2,1,3,4,2,1,3,4,1,4,2,3,2,3,4,1,2,3,4,1,No,Yes
+2022-05-02 13:08:54,2022-05-02 13:38:00,IP Address,100,1746,True,2022-05-02 13:38:00,R_tKwQ67HVTdaGJsl,anonymous,EN,Yes,2,3,4,1,2,3,4,1,3,1,2,4,2,1,3,4,3,1,2,4,2,1,3,4,1,3,2,4,1,3,2,4,2,3,1,4,2,3,1,4,2,1,3,4,2,1,3,4,1,3,2,4,1,3,2,4,3,2,1,4,2,1,3,4,2,3,1,4,2,3,1,4,2,1,3,4,2,1,3,4,2,3,1,4,2,3,1,4,2,3,1,4,2,3,1,4,1,3,4,2,1,3,4,2,2,3,1,4,2,3,1,4,1,3,2,4,2,3,1,4,2,3,4,1,2,3,4,1,2,3,4,1,2,3,4,1,2,4,3,1,2,4,3,1,2,1,3,4,2,1,3,4,2,1,3,4,2,1,3,4,2,3,1,4,2,3,1,4,2,3,1,4,4,2,1,3,2,1,3,4,2,1,3,4,2,1,3,4,2,1,3,4,2,1,3,4,3,1,2,4,1,4,2,3,3,2,1,4,3,1,2,4,2,1,3,4,2,1,3,4,2,1,3,4,3,1,2,4,3,1,2,4,1,3,2,4,1,4,2,3,2,3,1,4,2,3,1,4,1,3,2,4,1,3,2,4,2,3,1,4,2,3,1,4,2,3,4,1,2,3,4,1,2,1,3,4,2,1,3,4,2,3,4,1,2,3,4,1,2,1,3,4,2,1,3,4,2,3,1,4,2,3,1,4,2,3,4,1,2,3,4,1,2,3,1,4,2,3,1,4,1,3,2,4,2,3,1,4,2,3,1,4,2,3,1,4,2,1,3,4,2,1,3,4,2,1,3,4,2,1,3,4,2,3,1,4,2,3,1,4,2,3,1,4,2,3,1,4,2,3,1,4,2,3,1,4,2,3,1,4,2,3,1,4,2,3,1,4,2,3,1,4,2,1,3,4,2,1,3,4,No,No
+2022-05-02 13:04:30,2022-05-02 13:39:09,IP Address,100,2079,True,2022-05-02 13:39:10,R_3MLmkRELc2djgX8,anonymous,EN,Yes,1,4,2,3,1,2,4,3,4,1,2,3,3,1,2,4,3,2,1,4,3,2,1,4,4,2,3,1,1,3,2,4,1,4,2,3,1,4,2,3,2,4,3,1,1,4,3,2,2,3,4,1,2,1,4,3,3,4,2,1,2,4,3,1,1,3,4,2,1,3,2,4,4,2,1,3,4,2,1,3,2,1,4,3,1,4,2,3,1,3,4,2,1,4,2,3,1,3,2,4,4,1,2,3,1,3,4,2,1,2,3,4,1,4,2,3,1,4,2,3,2,4,1,3,2,4,3,1,3,4,1,2,4,3,2,1,4,2,3,1,1,2,4,3,2,3,1,4,2,3,1,4,4,3,2,1,1,4,2,3,3,1,4,2,3,1,4,2,1,4,2,3,1,4,2,3,3,4,1,2,3,4,2,1,1,3,4,2,1,3,4,2,2,1,3,4,3,1,2,4,4,3,1,2,2,3,4,1,2,3,1,4,1,3,2,4,3,2,1,4,4,2,1,3,1,3,2,4,1,3,2,4,3,2,1,4,1,4,3,2,1,3,2,4,1,2,3,4,3,1,4,2,2,3,1,4,4,2,3,1,1,3,2,4,4,1,2,3,1,4,2,3,1,2,4,3,2,3,1,4,4,1,3,2,4,3,1,2,4,1,3,2,1,3,2,4,3,1,2,4,1,4,3,2,4,2,3,1,2,3,4,1,4,1,3,2,1,4,2,3,4,2,1,3,1,3,2,4,4,1,3,2,1,4,3,2,2,1,4,3,2,1,3,4,1,4,2,3,1,4,3,2,2,3,1,4,2,4,3,1,3,2,1,4,3,4,1,2,1,4,2,3,3,1,4,2,1,3,4,2,1,4,3,2,3,1,2,4,2,1,4,3,3,4,1,2,2,3,4,1,No,No
+2022-05-02 13:01:06,2022-05-02 13:40:23,IP Address,100,2356,True,2022-05-02 13:40:23,R_6x9rYPbpT69SEDf,anonymous,EN,Yes,3,2,4,1,2,3,1,4,2,1,4,3,4,1,3,2,2,3,4,1,2,3,4,1,1,2,4,3,3,2,4,1,3,4,2,1,3,4,1,2,2,3,4,1,1,3,4,2,3,4,2,1,1,4,2,3,1,2,4,3,2,3,1,4,4,2,3,1,1,3,2,4,1,3,2,4,2,3,4,1,3,1,4,2,4,3,1,2,2,1,4,3,4,1,3,2,2,1,4,3,3,4,1,2,1,3,4,2,3,1,2,4,2,3,1,4,3,2,4,1,2,3,1,4,2,4,3,1,3,2,1,4,2,3,4,1,2,3,4,1,3,1,4,2,3,1,4,2,1,3,4,2,1,4,3,2,1,3,2,4,3,2,4,1,2,4,1,3,4,1,3,2,1,3,4,2,3,2,4,1,1,4,2,3,1,2,4,3,2,3,4,1,2,3,1,4,3,4,1,2,3,4,2,1,1,2,4,3,1,4,3,2,1,3,2,4,1,3,2,4,3,4,1,2,3,2,4,1,2,1,4,3,3,1,2,4,2,3,4,1,4,1,2,3,1,2,3,4,1,4,3,2,2,1,4,3,3,1,2,4,2,4,1,3,3,2,1,4,2,4,3,1,1,2,4,3,3,1,2,4,2,3,4,1,1,2,4,3,2,1,3,4,1,2,4,3,3,1,2,4,4,2,1,3,4,3,2,1,2,1,3,4,1,4,3,2,1,4,3,2,1,2,3,4,4,3,1,2,4,1,3,2,2,1,4,3,2,3,4,1,1,2,3,4,2,4,1,3,2,3,4,1,2,4,3,1,1,2,3,4,4,3,1,2,4,3,1,2,2,4,3,1,1,4,3,2,2,3,4,1,1,2,4,3,2,3,4,1,1,2,4,3,2,4,3,1,2,4,3,1,No,Yes
+2022-05-02 13:01:26,2022-05-02 13:40:43,IP Address,100,2356,True,2022-05-02 13:40:43,R_a4dE3nBzdZsS1X3,anonymous,EN,Yes,1,3,4,2,1,3,4,2,3,1,4,2,4,1,3,2,1,3,2,4,4,2,3,1,1,4,3,2,1,4,3,2,3,4,1,2,1,4,2,3,1,3,4,2,2,1,4,3,3,4,1,2,1,4,2,3,3,2,4,1,3,4,2,1,2,3,1,4,2,3,1,4,1,3,4,2,4,2,1,3,3,4,2,1,1,4,2,3,1,3,2,4,1,4,2,3,2,1,4,3,2,1,4,3,2,4,1,3,1,4,2,3,3,2,1,4,1,3,2,4,1,4,2,3,1,4,2,3,1,3,2,4,3,2,1,4,4,3,2,1,1,3,4,2,2,3,1,4,1,3,2,4,4,2,3,1,1,4,2,3,2,4,3,1,2,1,4,3,3,4,1,2,4,3,2,1,3,4,1,2,3,4,1,2,4,2,3,1,1,3,4,2,3,4,1,2,4,2,1,3,3,2,4,1,1,4,3,2,1,3,4,2,1,3,4,2,3,2,4,1,1,3,4,2,1,4,3,2,2,3,4,1,4,2,3,1,2,3,4,1,2,1,3,4,1,3,2,4,3,2,4,1,3,2,4,1,4,3,2,1,2,1,4,3,4,2,1,3,2,1,3,4,1,3,2,4,1,3,4,2,4,3,1,2,1,4,2,3,2,1,3,4,1,2,4,3,4,3,1,2,2,4,1,3,1,3,4,2,2,3,4,1,4,1,3,2,4,1,2,3,3,4,1,2,1,3,4,2,4,1,2,3,3,4,2,1,1,3,2,4,1,2,4,3,1,4,2,3,1,4,3,2,4,2,1,3,1,2,3,4,4,1,2,3,4,3,2,1,1,4,2,3,3,2,4,1,2,1,4,3,2,3,4,1,4,3,1,2,1,3,2,4,2,1,3,4,3,2,4,1,No,No
+2022-05-02 12:59:10,2022-05-02 13:44:58,IP Address,100,2747,True,2022-05-02 13:44:58,R_RzEx1BH13b6ktCV,anonymous,EN,Yes,1,4,3,2,1,4,3,2,2,3,1,4,2,3,1,4,4,3,2,1,4,2,3,1,4,1,2,3,4,1,2,3,4,1,3,2,4,1,3,2,2,4,3,1,1,3,4,2,2,1,4,3,1,2,3,4,3,4,1,2,3,4,1,2,2,3,1,4,2,3,1,4,4,3,2,1,4,3,1,2,2,1,3,4,2,1,3,4,1,2,3,4,1,2,4,3,1,2,4,3,1,3,2,4,1,2,4,3,1,2,4,3,1,3,2,4,2,1,3,4,1,3,2,4,2,3,1,4,3,4,1,2,3,4,1,2,2,3,4,1,2,3,4,1,2,3,1,4,3,4,1,2,3,4,1,2,3,4,1,2,3,1,4,2,3,1,4,2,3,4,2,1,3,2,4,1,2,3,4,1,1,3,4,2,3,2,1,4,3,2,1,4,3,4,1,2,1,2,4,3,1,3,4,2,3,4,1,2,1,3,2,4,1,3,2,4,3,1,4,2,3,2,1,4,2,3,4,1,1,3,4,2,1,3,4,2,3,2,1,4,1,3,2,4,1,3,2,4,2,1,4,3,3,2,4,1,4,1,2,3,4,2,3,1,2,3,1,4,4,1,2,3,3,4,1,2,1,3,4,2,3,4,2,1,3,2,4,1,1,2,3,4,4,1,3,2,2,4,1,3,4,1,2,3,1,2,4,3,3,2,4,1,4,3,2,1,2,3,4,1,1,4,2,3,4,1,2,3,1,4,3,2,3,1,4,2,2,3,4,1,3,2,4,1,1,2,3,4,1,2,3,4,1,3,2,4,2,3,1,4,4,3,1,2,4,1,2,3,2,3,4,1,1,4,3,2,4,2,3,1,2,1,3,4,1,3,4,2,3,1,2,4,2,3,4,1,2,3,1,4,No,No
+2022-05-02 13:12:53,2022-05-02 13:45:05,IP Address,100,1931,True,2022-05-02 13:45:05,R_parQJ4r2Y9VsKtP,anonymous,EN,Yes,3,1,2,4,3,1,4,2,1,2,4,3,4,2,3,1,3,2,4,1,4,3,2,1,3,2,1,4,4,1,3,2,1,4,3,2,3,4,2,1,3,1,4,2,2,1,4,3,4,2,3,1,4,2,3,1,4,3,1,2,4,1,3,2,1,2,4,3,2,1,4,3,4,2,3,1,3,2,4,1,2,1,4,3,2,1,4,3,4,2,1,3,4,2,1,3,2,3,4,1,2,3,4,1,1,2,3,4,4,1,3,2,1,4,2,3,1,4,2,3,3,4,1,2,3,2,4,1,2,4,1,3,1,3,2,4,4,2,3,1,4,1,2,3,3,4,1,2,1,4,2,3,3,4,2,1,4,1,3,2,2,4,3,1,4,3,2,1,2,4,1,3,3,4,1,2,2,3,4,1,3,4,2,1,4,3,2,1,4,1,2,3,4,2,3,1,1,2,3,4,4,3,2,1,4,2,3,1,1,4,2,3,4,1,3,2,4,1,3,2,3,2,4,1,1,3,2,4,1,2,3,4,2,1,4,3,3,1,2,4,1,2,3,4,2,1,4,3,2,3,4,1,3,1,2,4,1,3,2,4,2,1,3,4,3,1,2,4,1,3,2,4,2,1,4,3,4,1,2,3,3,1,2,4,2,4,1,3,1,3,2,4,3,1,2,4,3,4,2,1,4,2,3,1,4,2,1,3,4,3,1,2,2,4,3,1,2,4,1,3,1,4,3,2,4,1,3,2,1,3,4,2,3,1,4,2,3,4,2,1,4,2,3,1,2,1,3,4,3,1,2,4,2,3,1,4,2,3,1,4,2,1,4,3,1,2,4,3,2,1,4,3,2,1,4,3,2,1,4,3,1,3,4,2,4,2,1,3,3,1,4,2,2,3,4,1,1,3,4,2,No,Yes
+2022-05-02 13:21:11,2022-05-02 13:45:56,IP Address,100,1485,True,2022-05-02 13:45:56,R_3qgmufwdlx8xpPz,anonymous,EN,Yes,2,1,3,4,4,1,2,3,2,1,3,4,2,1,3,4,4,3,2,1,4,3,2,1,1,3,4,2,1,3,4,2,1,4,2,3,1,4,3,2,2,1,3,4,2,1,3,4,1,4,3,2,1,4,3,2,3,4,2,1,3,4,2,1,1,2,4,3,1,2,4,3,2,4,3,1,4,3,2,1,1,3,2,4,1,3,2,4,1,3,2,4,1,3,2,4,4,1,3,2,4,1,3,2,1,4,3,2,1,3,4,2,1,4,2,3,1,4,2,3,1,4,2,3,1,4,2,3,1,3,2,4,1,3,2,4,1,2,3,4,1,2,3,4,4,1,2,3,4,1,2,3,2,1,3,4,1,2,4,3,1,2,4,3,1,4,3,2,1,4,2,3,1,4,2,3,1,4,2,3,1,4,2,3,4,2,3,1,4,1,2,3,3,4,2,1,3,4,2,1,4,1,2,3,4,1,3,2,1,3,2,4,1,3,2,4,1,3,4,2,1,3,4,2,4,3,2,1,4,2,3,1,3,2,4,1,2,1,4,3,1,2,4,3,1,2,4,3,3,4,1,2,3,4,1,2,2,4,1,3,1,4,2,3,1,4,3,2,1,4,3,2,2,1,3,4,2,1,3,4,3,2,4,1,1,3,4,2,1,4,2,3,1,3,2,4,1,4,2,3,1,4,2,3,1,3,4,2,1,3,4,2,3,4,1,2,3,4,1,2,1,4,3,2,1,4,3,2,1,4,3,2,1,4,3,2,3,2,4,1,2,3,4,1,3,2,4,1,4,2,3,1,3,1,4,2,1,2,4,3,1,4,3,2,1,4,3,2,1,4,2,3,1,4,2,3,3,4,2,1,3,4,2,1,1,4,2,3,1,4,2,3,2,3,4,1,2,3,4,1,Yes,No
+2022-05-02 12:57:42,2022-05-02 13:46:03,IP Address,100,2900,True,2022-05-02 13:46:04,R_27a3CE1t5Oz7Et5,anonymous,EN,Yes,3,1,4,2,1,3,2,4,3,1,2,4,1,2,3,4,4,2,1,3,4,2,1,3,1,2,4,3,1,2,3,4,2,4,3,1,1,4,2,3,2,1,4,3,3,1,4,2,1,4,3,2,2,4,3,1,2,4,1,3,1,4,2,3,4,2,1,3,4,2,1,3,2,1,3,4,3,2,1,4,3,4,2,1,2,4,1,3,1,2,4,3,1,2,3,4,3,1,4,2,2,1,4,3,1,4,2,3,1,2,3,4,1,4,3,2,1,4,3,2,2,4,1,3,2,4,3,1,4,2,1,3,3,2,1,4,4,2,3,1,4,2,3,1,1,2,4,3,2,1,4,3,3,4,1,2,1,4,2,3,1,4,3,2,1,3,4,2,4,3,1,2,4,3,2,1,3,4,1,2,3,4,1,2,4,2,3,1,4,2,3,1,3,1,2,4,3,1,2,4,1,4,3,2,1,4,3,2,1,3,4,2,1,2,4,3,2,3,1,4,2,3,1,4,1,2,4,3,1,2,4,3,4,2,3,1,2,3,4,1,1,2,3,4,1,2,4,3,2,1,4,3,4,3,1,2,1,2,4,3,1,2,4,3,2,1,3,4,1,2,3,4,1,4,3,2,1,2,3,4,4,2,3,1,4,2,3,1,1,2,3,4,1,2,3,4,2,4,3,1,1,3,4,2,3,2,4,1,3,2,4,1,4,3,1,2,4,3,1,2,1,4,2,3,1,4,3,2,2,3,1,4,2,1,3,4,1,2,4,3,1,2,4,3,2,1,3,4,2,1,3,4,1,2,3,4,1,2,4,3,1,4,3,2,1,4,3,2,1,3,2,4,1,3,2,4,1,4,3,2,1,4,3,2,2,1,3,4,1,2,3,4,2,3,4,1,2,3,4,1,No,No
+2022-05-02 13:03:38,2022-05-02 13:52:40,IP Address,100,2942,True,2022-05-02 13:52:40,R_2EHlBl7Hk8iEQQ0,anonymous,EN,Yes,1,4,3,2,1,3,4,2,4,3,2,1,4,1,3,2,4,1,2,3,3,2,4,1,3,1,4,2,1,4,3,2,4,3,1,2,1,4,2,3,1,4,3,2,2,4,3,1,2,4,3,1,1,2,4,3,2,1,4,3,2,4,1,3,1,3,4,2,1,3,2,4,3,1,2,4,3,1,4,2,4,2,1,3,1,4,2,3,1,4,3,2,1,4,2,3,2,1,3,4,2,1,3,4,1,3,4,2,1,3,4,2,3,2,1,4,1,4,2,3,3,4,1,2,3,4,1,2,4,3,1,2,1,3,2,4,4,1,2,3,1,2,3,4,2,1,3,4,2,3,4,1,3,4,2,1,1,2,3,4,2,3,4,1,1,4,3,2,1,4,2,3,2,3,4,1,4,3,1,2,1,4,3,2,4,2,3,1,1,3,4,2,2,1,4,3,4,3,1,2,4,3,1,2,1,4,2,3,2,3,1,4,1,3,2,4,4,2,3,1,1,2,3,4,1,2,4,3,2,4,3,1,3,1,2,4,1,3,4,2,3,2,4,1,1,2,3,4,3,1,4,2,2,3,1,4,4,2,3,1,1,2,4,3,4,1,3,2,1,4,3,2,4,2,3,1,1,2,4,3,4,2,3,1,1,3,2,4,4,2,3,1,1,3,2,4,4,1,2,3,1,4,3,2,4,2,1,3,3,2,4,1,4,2,3,1,3,4,1,2,1,4,2,3,1,4,2,3,4,1,2,3,1,4,3,2,2,1,4,3,2,3,4,1,1,4,3,2,3,2,4,1,3,1,4,2,3,4,1,2,2,4,1,3,1,4,3,2,1,4,2,3,1,4,3,2,1,3,4,2,3,2,4,1,2,3,1,4,1,2,3,4,1,4,2,3,2,1,3,4,No,Yes
+2022-05-02 13:15:43,2022-05-02 13:52:51,IP Address,100,2228,True,2022-05-02 13:52:51,R_eEym4Sgzb1GViSJ,anonymous,EN,Yes,4,2,1,3,4,2,1,3,2,4,1,3,2,3,1,4,3,4,1,2,4,3,2,1,1,3,4,2,1,3,4,2,4,3,2,1,1,4,3,2,1,4,2,3,1,2,4,3,1,4,3,2,1,4,3,2,3,4,1,2,3,4,2,1,2,3,4,1,1,2,4,3,3,4,1,2,3,4,1,2,3,1,2,4,3,4,1,2,1,3,2,4,2,3,1,4,2,3,1,4,3,1,4,2,1,3,4,2,2,3,4,1,2,1,3,4,1,4,2,3,2,3,1,4,3,4,2,1,3,4,1,2,4,1,2,3,4,3,2,1,4,2,1,3,2,3,1,4,1,3,2,4,2,3,1,4,3,4,2,1,3,1,4,2,1,3,4,2,3,2,4,1,1,4,2,3,3,4,2,1,1,4,2,3,3,1,2,4,3,1,2,4,2,1,3,4,2,3,1,4,2,3,1,4,2,3,4,1,1,3,2,4,1,3,2,4,2,3,1,4,4,2,3,1,1,3,2,4,2,4,3,1,3,2,1,4,3,1,2,4,2,1,3,4,1,3,4,2,3,2,4,1,4,1,3,2,1,4,3,2,1,3,2,4,4,1,2,3,2,1,3,4,1,4,3,2,2,3,4,1,4,2,3,1,4,1,2,3,3,1,4,2,2,1,3,4,4,1,2,3,1,4,3,2,4,2,3,1,1,3,4,2,3,1,4,2,4,1,3,2,1,3,2,4,3,4,1,2,4,1,2,3,4,1,2,3,2,1,3,4,3,1,2,4,1,4,3,2,2,3,1,4,2,3,1,4,1,3,4,2,3,1,4,2,3,4,1,2,1,3,2,4,2,1,3,4,1,3,2,4,1,3,2,4,4,1,2,3,1,3,2,4,2,3,1,4,3,2,4,1,No,No
+2022-05-02 12:54:26,2022-05-02 13:54:40,IP Address,100,3613,True,2022-05-02 13:54:40,R_1Fb8N2nZiW5yqF6,anonymous,EN,Yes,1,4,3,2,1,4,3,2,3,2,1,4,2,3,1,4,3,1,2,4,3,1,2,4,1,3,4,2,3,2,4,1,4,1,2,3,2,3,1,4,1,4,3,2,1,4,2,3,2,4,3,1,1,4,2,3,3,4,1,2,3,4,1,2,2,1,4,3,2,1,3,4,4,2,1,3,4,3,1,2,2,4,3,1,3,2,1,4,1,4,2,3,1,2,4,3,3,1,2,4,3,1,4,2,1,4,3,2,1,2,4,3,1,4,2,3,2,3,1,4,1,4,2,3,1,4,2,3,3,4,2,1,1,4,2,3,4,2,1,3,4,2,1,3,2,1,3,4,1,2,4,3,1,4,3,2,2,3,4,1,1,3,4,2,1,2,4,3,1,2,3,4,1,3,4,2,1,4,2,3,2,3,1,4,4,1,2,3,4,1,2,3,2,1,3,4,2,1,3,4,1,3,4,2,1,4,2,3,1,3,2,4,1,2,4,3,3,4,1,2,4,3,1,2,2,4,3,1,1,3,4,2,2,3,4,1,3,2,4,1,1,2,3,4,1,2,4,3,4,2,1,3,3,2,4,1,1,3,2,4,2,3,4,1,4,2,3,1,4,2,3,1,1,2,4,3,1,4,2,3,4,3,2,1,4,1,2,3,1,2,3,4,1,3,2,4,1,2,3,4,1,4,3,2,1,2,4,3,3,1,4,2,3,4,2,1,3,4,2,1,1,3,2,4,2,1,3,4,2,3,4,1,3,1,4,2,3,2,4,1,1,4,2,3,3,4,2,1,1,4,2,3,1,3,4,2,3,1,4,2,3,4,1,2,3,4,2,1,2,1,3,4,3,2,4,1,4,1,2,3,3,1,2,4,1,2,4,3,2,1,3,4,4,2,3,1,4,3,1,2,No,No
+2022-05-02 13:02:42,2022-05-02 13:57:35,IP Address,100,3293,True,2022-05-02 13:57:35,R_0rcSkBJiwugf1UB,anonymous,EN,Yes,2,4,3,1,3,2,4,1,2,3,1,4,3,2,1,4,3,1,2,4,4,1,3,2,4,2,3,1,1,2,4,3,4,1,2,3,2,4,3,1,2,4,1,3,2,1,3,4,3,1,4,2,1,4,3,2,2,4,3,1,1,4,2,3,1,2,4,3,3,2,1,4,3,4,1,2,1,4,2,3,2,1,3,4,4,2,1,3,2,4,3,1,1,4,3,2,1,2,4,3,2,1,4,3,1,3,4,2,1,3,4,2,1,2,3,4,1,4,3,2,3,4,1,2,3,4,2,1,4,3,1,2,2,3,1,4,3,2,4,1,2,1,4,3,2,4,1,3,1,2,3,4,4,3,1,2,1,4,2,3,2,4,3,1,1,4,3,2,3,4,2,1,3,4,2,1,1,4,2,3,1,4,3,2,4,2,3,1,2,3,4,1,2,1,3,4,3,4,2,1,4,3,1,2,2,4,3,1,1,2,4,3,1,3,2,4,2,3,1,4,1,3,2,4,1,4,3,2,2,4,3,1,3,2,1,4,2,3,4,1,3,1,2,4,1,3,2,4,4,2,3,1,3,4,1,2,4,3,2,1,2,3,1,4,4,1,2,3,1,4,3,2,1,3,2,4,1,2,3,4,4,1,3,2,4,3,2,1,3,1,4,2,1,3,2,4,4,1,2,3,2,4,1,3,4,2,3,1,2,1,4,3,4,2,3,1,1,4,3,2,4,3,1,2,1,3,2,4,3,1,4,2,1,4,3,2,2,1,4,3,3,2,4,1,1,4,3,2,1,4,2,3,2,3,1,4,1,3,2,4,4,2,1,3,4,3,2,1,2,4,1,3,4,1,3,2,1,3,4,2,3,4,2,1,3,2,1,4,1,2,4,3,3,4,1,2,3,2,4,1,Yes,Yes
+2022-05-02 13:03:12,2022-05-02 13:57:42,IP Address,100,3269,True,2022-05-02 13:57:43,R_3nVNhHhIMoaAUAz,anonymous,EN,Yes,2,4,3,1,4,2,3,1,1,4,3,2,1,4,2,3,3,1,2,4,3,2,1,4,4,1,2,3,3,1,2,4,4,1,2,3,4,2,1,3,4,3,2,1,4,3,2,1,4,2,3,1,4,3,1,2,1,3,4,2,2,3,4,1,1,2,4,3,1,2,4,3,3,4,1,2,3,4,2,1,4,1,2,3,2,1,3,4,4,2,3,1,4,2,3,1,3,4,1,2,2,4,3,1,1,2,4,3,4,3,2,1,2,4,1,3,3,2,4,1,4,3,2,1,3,1,2,4,4,2,1,3,3,1,2,4,2,1,3,4,4,3,2,1,3,2,1,4,3,2,1,4,3,4,1,2,2,4,1,3,3,2,4,1,3,2,4,1,3,4,2,1,3,4,2,1,4,3,1,2,1,3,4,2,4,1,2,3,3,1,2,4,3,2,1,4,3,1,2,4,1,3,2,4,3,2,1,4,2,1,3,4,4,2,1,3,3,4,1,2,3,2,1,4,1,2,3,4,1,3,2,4,4,1,3,2,2,3,4,1,3,2,1,4,4,2,1,3,3,1,4,2,4,2,3,1,4,3,2,1,4,2,3,1,4,1,3,2,1,4,2,3,1,2,4,3,4,3,1,2,4,1,3,2,4,3,2,1,4,3,2,1,4,1,3,2,4,2,3,1,4,3,2,1,2,1,4,3,4,2,3,1,3,4,2,1,4,1,3,2,1,4,2,3,4,1,2,3,4,1,3,2,4,1,3,2,4,3,1,2,3,2,1,4,2,4,3,1,1,4,3,2,3,2,1,4,4,3,1,2,3,4,2,1,1,3,2,4,1,3,2,4,3,4,1,2,3,4,1,2,2,1,4,3,3,1,2,4,2,1,4,3,3,2,4,1,1,4,3,2,No,Yes
+2022-05-02 12:52:08,2022-05-02 13:58:07,IP Address,100,3959,True,2022-05-02 13:58:08,R_2b3JSbumNLbkkx2,anonymous,EN,Yes,3,2,4,1,1,3,4,2,2,3,1,4,2,1,3,4,1,4,2,3,2,1,4,3,2,1,4,3,2,1,4,3,4,1,2,3,4,2,1,3,2,4,1,3,1,4,3,2,1,4,2,3,2,3,4,1,2,1,4,3,2,1,4,3,1,4,3,2,1,3,2,4,1,4,3,2,4,2,3,1,2,1,4,3,3,1,2,4,3,4,1,2,4,2,1,3,2,1,3,4,3,1,4,2,3,2,4,1,2,3,4,1,1,4,2,3,1,3,2,4,3,1,2,4,4,1,2,3,4,1,2,3,3,1,2,4,1,3,2,4,2,3,1,4,1,3,2,4,1,3,2,4,2,1,3,4,3,1,2,4,1,3,4,2,1,3,2,4,4,2,3,1,2,1,4,3,4,1,2,3,1,2,4,3,1,3,2,4,1,3,4,2,1,4,2,3,1,3,2,4,1,4,2,3,1,3,2,4,1,4,2,3,4,1,2,3,4,1,2,3,1,3,4,2,1,3,2,4,1,4,2,3,3,1,2,4,1,4,2,3,1,3,4,2,1,2,4,3,2,1,3,4,1,2,3,4,1,3,4,2,4,1,2,3,2,1,3,4,4,1,2,3,1,3,2,4,4,1,2,3,4,1,2,3,1,2,4,3,1,3,2,4,1,2,3,4,1,2,3,4,2,1,3,4,1,2,3,4,2,1,3,4,1,2,3,4,2,1,3,4,1,3,2,4,1,2,4,3,1,2,3,4,1,2,4,3,1,2,3,4,2,1,3,4,2,1,3,4,2,1,3,4,2,1,3,4,1,3,2,4,1,2,4,3,1,2,4,3,1,2,3,4,1,4,2,3,1,2,3,4,1,2,4,3,2,3,1,4,2,1,3,4,1,3,2,4,1,4,2,3,No,No
+2022-05-02 12:47:48,2022-05-02 13:59:53,IP Address,100,4324,True,2022-05-02 13:59:54,R_6J7o71C5B5jRRgB,anonymous,EN,Yes,3,1,4,2,4,2,3,1,3,1,2,4,3,1,2,4,4,1,2,3,4,2,1,3,2,3,4,1,1,3,4,2,2,4,3,1,3,4,2,1,2,3,4,1,2,4,3,1,3,4,2,1,3,4,2,1,3,2,1,4,1,2,4,3,2,3,1,4,2,1,3,4,3,2,1,4,1,4,3,2,1,4,2,3,2,4,1,3,4,1,2,3,3,1,2,4,3,1,4,2,3,1,4,2,4,2,3,1,1,2,4,3,1,2,4,3,3,2,4,1,3,4,2,1,1,4,3,2,3,4,1,2,2,4,3,1,2,4,3,1,3,4,2,1,3,4,1,2,4,3,2,1,2,4,1,3,1,4,2,3,3,1,4,2,1,2,4,3,3,1,4,2,4,1,3,2,2,4,1,3,1,2,3,4,3,1,2,4,1,3,4,2,2,3,4,1,3,2,4,1,1,3,2,4,2,4,3,1,3,2,4,1,3,1,4,2,3,4,2,1,1,3,4,2,1,3,4,2,3,4,1,2,2,1,4,3,2,1,3,4,3,1,2,4,1,4,2,3,2,3,4,1,2,4,3,1,2,4,3,1,1,4,3,2,3,1,2,4,2,1,3,4,2,4,3,1,1,3,4,2,3,2,4,1,3,1,4,2,3,2,4,1,2,1,3,4,2,1,3,4,1,4,2,3,3,2,4,1,2,3,4,1,3,2,4,1,1,2,4,3,1,3,4,2,1,2,4,3,3,1,4,2,3,4,2,1,2,3,4,1,2,1,3,4,1,4,3,2,3,4,2,1,2,3,1,4,1,3,2,4,3,1,2,4,4,3,1,2,1,3,2,4,2,4,1,3,2,3,1,4,1,2,4,3,2,1,3,4,4,3,2,1,2,3,1,4,3,4,2,1,No,No
+2022-05-02 13:02:52,2022-05-02 14:00:03,IP Address,100,3431,True,2022-05-02 14:00:03,R_1jwc35QW6zBKWTi,anonymous,EN,Yes,1,3,4,2,3,2,4,1,3,1,4,2,4,1,2,3,4,3,2,1,4,2,3,1,1,3,4,2,2,1,4,3,1,4,3,2,2,4,1,3,1,3,4,2,3,2,4,1,1,4,3,2,2,3,4,1,3,4,2,1,4,3,1,2,3,1,2,4,3,2,1,4,4,1,3,2,1,4,2,3,4,3,1,2,2,4,1,3,1,4,2,3,1,3,2,4,3,1,4,2,3,1,4,2,1,4,2,3,1,4,2,3,1,2,3,4,3,4,1,2,3,4,1,2,1,4,2,3,1,4,2,3,2,3,1,4,2,4,3,1,3,1,2,4,3,4,1,2,1,2,4,3,3,4,1,2,1,4,3,2,1,3,4,2,2,4,3,1,2,1,4,3,1,2,3,4,3,4,1,2,2,4,1,3,4,1,2,3,2,3,4,1,4,3,2,1,3,1,4,2,1,3,2,4,1,4,3,2,1,3,4,2,1,4,2,3,3,1,4,2,3,2,4,1,2,4,1,3,3,4,2,1,2,1,4,3,2,3,4,1,1,4,3,2,1,2,4,3,4,2,3,1,3,4,1,2,1,4,2,3,2,1,3,4,1,2,3,4,1,4,3,2,2,4,1,3,2,4,1,3,4,3,2,1,4,3,2,1,1,2,4,3,1,3,2,4,2,1,3,4,1,2,3,4,4,2,3,1,1,2,4,3,3,1,2,4,3,2,4,1,4,2,3,1,1,2,3,4,4,1,2,3,1,2,4,3,3,2,4,1,2,1,4,3,2,3,4,1,3,4,1,2,4,2,1,3,1,2,4,3,2,1,4,3,4,3,1,2,1,2,4,3,1,3,4,2,2,3,4,1,4,3,1,2,3,1,2,4,1,3,4,2,3,2,4,1,3,2,4,1,No,No
+2022-05-02 13:05:25,2022-05-02 14:04:53,IP Address,100,3568,True,2022-05-02 14:04:54,R_2wLh0wusJ1MfUau,anonymous,EN,Yes,4,2,1,3,4,2,3,1,2,4,3,1,3,2,1,4,2,3,1,4,4,2,3,1,3,1,2,4,1,2,4,3,4,1,2,3,2,4,3,1,3,4,1,2,3,4,1,2,3,4,2,1,2,4,3,1,1,3,4,2,2,3,4,1,2,3,4,1,1,3,4,2,3,4,2,1,3,4,1,2,1,2,4,3,1,3,2,4,3,4,2,1,1,4,3,2,2,4,1,3,3,1,2,4,4,2,3,1,4,2,1,3,4,3,2,1,1,4,2,3,4,3,2,1,4,3,2,1,4,3,2,1,1,4,3,2,4,1,2,3,3,1,2,4,3,1,2,4,3,1,2,4,1,4,3,2,1,4,3,2,2,3,4,1,2,4,3,1,2,4,3,1,1,3,2,4,4,3,1,2,2,4,1,3,2,3,4,1,2,3,4,1,1,2,3,4,3,1,2,4,2,3,4,1,2,3,4,1,4,2,1,3,1,3,2,4,1,4,3,2,1,4,2,3,1,2,3,4,1,3,2,4,2,3,4,1,2,3,4,1,3,2,1,4,2,1,3,4,1,4,2,3,3,2,4,1,4,1,2,3,4,2,3,1,4,3,2,1,4,2,3,1,2,1,3,4,1,2,3,4,4,1,2,3,4,1,2,3,4,3,1,2,3,2,1,4,4,3,2,1,2,4,1,3,4,3,2,1,1,3,2,4,3,2,1,4,2,3,4,1,4,2,1,3,2,3,1,4,1,4,3,2,2,4,3,1,2,3,1,4,1,2,3,4,1,3,2,4,2,4,3,1,2,3,4,1,3,2,4,1,2,4,3,1,4,3,2,1,2,3,1,4,1,3,2,4,3,1,2,4,3,4,1,2,4,1,3,2,2,1,3,4,2,3,1,4,2,3,4,1,No,Yes
+2022-05-02 13:09:05,2022-05-02 14:07:03,IP Address,100,3478,True,2022-05-02 14:07:03,R_1gij9UdDD3eMwLh,anonymous,EN,Yes,3,2,4,1,4,2,3,1,1,4,2,3,2,4,1,3,2,1,3,4,1,2,3,4,1,3,2,4,2,1,4,3,4,2,3,1,4,3,1,2,3,1,2,4,2,3,4,1,1,4,3,2,1,4,2,3,1,3,2,4,2,4,1,3,2,3,1,4,2,1,3,4,2,1,3,4,1,3,2,4,2,3,1,4,2,3,4,1,2,4,1,3,3,2,4,1,2,3,4,1,1,2,4,3,1,3,2,4,2,3,4,1,2,3,4,1,3,2,4,1,4,2,3,1,4,1,2,3,3,4,2,1,2,4,3,1,2,4,3,1,4,2,3,1,2,3,4,1,3,4,1,2,3,2,4,1,2,3,4,1,2,1,3,4,2,3,4,1,3,4,2,1,3,1,4,2,1,3,2,4,2,1,3,4,2,3,1,4,2,3,1,4,4,2,1,3,2,4,3,1,1,3,4,2,2,3,4,1,2,4,3,1,3,1,4,2,2,3,4,1,2,1,3,4,1,2,4,3,2,3,4,1,2,3,1,4,2,1,3,4,2,3,1,4,3,4,2,1,2,1,4,3,2,1,4,3,4,2,1,3,4,1,2,3,1,3,4,2,3,1,2,4,2,3,4,1,2,3,4,1,2,3,4,1,2,3,1,4,2,3,4,1,2,1,3,4,2,3,1,4,2,3,1,4,2,1,3,4,2,1,3,4,2,1,3,4,3,1,2,4,2,3,1,4,3,1,2,4,1,2,4,3,1,3,2,4,2,3,4,1,3,4,1,2,2,3,4,1,3,2,4,1,4,2,1,3,1,3,2,4,2,1,3,4,1,3,4,2,1,3,2,4,1,3,2,4,1,3,2,4,4,1,2,3,2,1,3,4,2,3,1,4,2,3,4,1,1,2,4,3,No,No
+2022-05-02 13:06:07,2022-05-02 14:08:28,IP Address,100,3740,True,2022-05-02 14:08:29,R_3iqbbnH3coupQtf,anonymous,EN,Yes,3,1,4,2,1,3,4,2,2,3,1,4,2,4,1,3,4,2,3,1,2,3,1,4,2,1,4,3,3,1,2,4,3,4,2,1,4,1,2,3,1,4,2,3,3,4,1,2,2,4,3,1,2,4,3,1,3,4,2,1,3,4,2,1,1,2,3,4,1,3,4,2,3,1,2,4,3,1,2,4,2,3,1,4,2,4,1,3,1,3,4,2,1,3,4,2,3,1,4,2,3,1,2,4,2,1,3,4,2,1,3,4,3,4,1,2,1,4,2,3,3,4,2,1,3,4,2,1,4,2,1,3,1,4,2,3,2,1,3,4,3,1,2,4,2,1,4,3,3,2,4,1,1,3,2,4,1,4,2,3,2,3,4,1,2,3,4,1,1,2,4,3,1,4,2,3,1,4,2,3,1,4,2,3,2,3,4,1,2,3,4,1,3,1,2,4,3,1,2,4,4,3,2,1,1,3,4,2,2,3,1,4,2,3,1,4,1,3,2,4,1,3,2,4,1,4,3,2,2,3,4,1,2,1,4,3,1,3,4,2,3,2,1,4,2,3,1,4,3,4,2,1,2,4,1,3,3,1,2,4,4,1,2,3,2,4,3,1,2,4,3,1,3,1,2,4,2,1,3,4,2,3,4,1,4,2,3,1,2,3,1,4,3,2,1,4,3,4,1,2,3,4,1,2,1,2,4,3,1,2,4,3,3,2,4,1,3,2,4,1,1,3,2,4,1,3,2,4,1,3,2,4,4,1,2,3,2,1,3,4,3,2,4,1,3,4,1,2,3,4,2,1,3,2,4,1,2,1,4,3,3,4,1,2,2,4,3,1,3,1,2,4,2,3,1,4,3,4,1,2,3,4,2,1,2,1,3,4,1,2,4,3,1,2,4,3,1,2,4,3,No,No
+2022-05-02 12:56:42,2022-05-02 14:10:02,IP Address,100,4400,True,2022-05-02 14:10:02,R_cwrhCwOiqH83dUR,anonymous,EN,Yes,4,2,3,1,1,3,2,4,2,1,3,4,3,4,2,1,2,3,4,1,2,3,4,1,3,2,4,1,2,3,1,4,3,4,2,1,3,4,2,1,2,1,4,3,2,1,4,3,3,4,1,2,3,4,1,2,2,3,1,4,2,3,1,4,3,4,1,2,2,3,1,4,2,1,3,4,2,1,3,4,2,3,1,4,2,3,1,4,4,2,1,3,4,1,2,3,4,1,2,3,4,1,2,3,3,4,2,1,3,4,2,1,1,4,3,2,1,4,3,2,3,4,2,1,3,4,2,1,2,3,1,4,2,3,1,4,3,4,2,1,3,1,2,4,1,4,2,3,1,4,2,3,4,2,1,3,4,2,1,3,1,2,4,3,1,2,4,3,1,4,2,3,1,4,2,3,1,2,4,3,1,2,4,3,1,4,3,2,1,3,4,2,1,2,4,3,1,2,4,3,1,3,2,4,1,3,2,4,1,3,2,4,1,3,2,4,4,3,2,1,4,3,2,1,2,3,4,1,2,3,4,1,1,3,4,2,1,3,4,2,1,3,4,2,1,3,4,2,4,2,1,3,4,3,1,2,3,2,1,4,3,2,1,4,1,2,3,4,1,2,3,4,1,2,3,4,1,3,2,4,2,4,1,3,2,3,1,4,1,3,2,4,1,3,2,4,3,4,1,2,3,4,1,2,2,4,3,1,2,4,3,1,4,2,3,1,4,2,3,1,2,3,4,1,2,3,4,1,4,1,3,2,4,1,3,2,2,3,1,4,2,3,1,4,2,4,3,1,2,4,3,1,3,2,1,4,3,2,1,4,1,2,4,3,1,2,4,3,2,3,1,4,2,3,1,4,1,2,4,3,1,2,4,3,1,2,3,4,2,1,3,4,2,3,4,1,2,3,4,1,No,No
+2022-05-02 12:57:22,2022-05-02 14:14:43,IP Address,100,4641,True,2022-05-02 14:14:44,R_2YzwZvxoWuz9j8K,anonymous,EN,Yes,3,1,4,2,3,2,4,1,2,4,1,3,3,1,2,4,3,2,1,4,3,2,1,4,3,1,2,4,1,3,2,4,4,1,2,3,1,4,3,2,2,4,1,3,2,4,3,1,2,1,4,3,2,4,3,1,2,3,4,1,2,3,4,1,2,3,4,1,1,2,3,4,3,4,1,2,3,1,2,4,4,3,1,2,4,3,2,1,3,2,4,1,2,3,4,1,1,3,2,4,2,1,4,3,1,3,4,2,1,3,2,4,2,1,4,3,1,4,3,2,4,3,1,2,4,3,2,1,3,4,1,2,4,1,2,3,4,2,3,1,4,1,2,3,2,3,1,4,2,1,3,4,4,3,1,2,1,4,3,2,2,4,3,1,1,4,3,2,3,4,2,1,1,4,2,3,1,3,2,4,1,3,2,4,4,2,3,1,4,2,3,1,1,2,3,4,1,3,2,4,4,3,1,2,2,3,4,1,4,1,3,2,1,3,2,4,2,3,1,4,2,4,1,3,1,3,2,4,1,4,3,2,4,1,2,3,2,3,4,1,1,2,4,3,1,2,3,4,3,1,4,2,4,2,3,1,4,3,2,1,4,2,1,3,4,1,2,3,2,4,3,1,1,3,4,2,1,4,2,3,4,1,3,2,4,3,2,1,4,1,3,2,1,2,3,4,2,1,3,4,1,2,4,3,4,2,3,1,2,1,3,4,3,1,2,4,4,2,1,3,1,2,3,4,1,4,2,3,3,1,2,4,1,4,3,2,2,3,1,4,2,4,3,1,1,4,2,3,3,2,1,4,2,3,1,4,1,2,4,3,3,1,2,4,4,3,2,1,1,3,2,4,1,2,3,4,1,2,4,3,3,2,4,1,3,1,2,4,4,2,1,3,3,2,1,4,2,3,4,1,No,No
+2022-05-02 13:01:39,2022-05-02 14:25:25,IP Address,100,5025,True,2022-05-02 14:25:25,R_tG9r9GVPiSFCuml,anonymous,EN,Yes,4,1,2,3,4,1,2,3,2,3,1,4,2,4,1,3,3,1,2,4,1,3,2,4,1,2,4,3,3,1,2,4,1,2,3,4,1,2,3,4,3,2,1,4,2,3,1,4,1,3,4,2,1,3,4,2,1,4,3,2,1,4,3,2,1,3,4,2,1,3,2,4,2,3,1,4,2,3,1,4,2,1,3,4,2,1,3,4,1,2,4,3,1,3,4,2,3,1,2,4,3,1,2,4,1,2,4,3,1,2,4,3,2,3,1,4,2,3,1,4,1,2,3,4,1,2,3,4,2,4,3,1,2,4,3,1,2,1,3,4,2,1,3,4,2,3,1,4,2,3,1,4,1,3,2,4,2,1,3,4,1,3,4,2,1,3,4,2,3,4,2,1,1,4,3,2,3,4,1,2,3,4,1,2,3,2,1,4,3,2,1,4,3,2,1,4,2,3,1,4,2,3,4,1,2,3,4,1,1,3,2,4,1,3,2,4,2,4,1,3,2,4,1,3,1,3,2,4,1,3,2,4,1,2,4,3,1,2,4,3,1,3,2,4,1,3,2,4,2,4,3,1,2,4,3,1,4,3,1,2,4,3,1,2,4,2,1,3,4,1,2,3,1,3,4,2,1,3,4,2,4,3,1,2,4,3,1,2,1,3,2,4,1,3,2,4,1,4,2,3,1,4,2,3,2,1,4,3,2,1,3,4,2,3,4,1,2,3,4,1,1,3,2,4,1,3,2,4,3,4,2,1,3,4,2,1,3,1,2,4,1,3,2,4,2,3,1,4,2,3,1,4,3,2,4,1,3,2,4,1,4,3,1,2,3,4,1,2,3,4,1,2,3,4,1,2,3,4,1,2,3,4,1,2,1,4,2,3,1,4,2,3,2,3,4,1,2,3,4,1,Yes,Yes
+2022-05-02 13:48:26,2022-05-02 14:25:35,IP Address,100,2229,True,2022-05-02 14:25:35,R_1fkfQ8Zzmyvjxvl,anonymous,EN,Yes,4,1,2,3,3,1,4,2,3,4,2,1,3,2,1,4,4,1,2,3,4,3,2,1,4,1,3,2,1,2,4,3,1,4,2,3,1,4,2,3,1,3,2,4,2,1,3,4,3,4,1,2,2,4,3,1,2,3,4,1,3,4,2,1,1,2,4,3,2,3,1,4,4,1,2,3,4,2,1,3,1,4,2,3,4,3,1,2,4,2,3,1,1,4,2,3,4,2,1,3,2,1,3,4,4,3,2,1,1,3,4,2,1,3,2,4,1,4,2,3,3,4,1,2,1,4,2,3,1,4,2,3,4,3,1,2,4,3,2,1,3,4,2,1,2,1,3,4,2,1,4,3,3,4,2,1,2,4,1,3,2,3,4,1,2,3,4,1,1,4,3,2,1,2,3,4,4,2,3,1,3,4,1,2,4,2,1,3,4,1,2,3,2,1,3,4,3,2,1,4,4,3,1,2,1,4,3,2,4,3,1,2,1,3,2,4,2,4,1,3,1,4,2,3,1,2,3,4,3,1,4,2,1,2,3,4,2,4,3,1,4,2,1,3,1,2,3,4,4,2,3,1,2,4,1,3,4,3,2,1,3,2,4,1,4,2,3,1,1,4,3,2,3,1,2,4,1,3,2,4,4,3,1,2,2,4,3,1,4,3,1,2,1,3,2,4,4,2,1,3,3,4,2,1,4,3,1,2,3,2,4,1,4,2,3,1,2,4,3,1,3,4,1,2,1,3,2,4,4,2,3,1,3,4,2,1,4,1,3,2,2,3,4,1,2,3,1,4,2,3,1,4,2,4,1,3,1,2,4,3,3,1,2,4,4,3,1,2,2,3,1,4,2,4,1,3,2,1,3,4,4,3,2,1,3,1,2,4,1,2,3,4,3,2,1,4,4,2,3,1,No,No
+2022-05-02 13:07:55,2022-05-02 14:27:16,IP Address,100,4760,True,2022-05-02 14:27:16,R_1DCKPV6nI1ZONwU,anonymous,EN,Yes,3,2,4,1,2,1,4,3,1,2,3,4,1,4,3,2,3,4,1,2,4,2,1,3,4,1,3,2,4,2,3,1,4,3,1,2,3,1,4,2,2,4,1,3,4,3,1,2,4,3,1,2,2,4,3,1,1,2,3,4,1,2,3,4,1,3,4,2,2,3,4,1,1,3,2,4,3,2,1,4,3,1,2,4,1,2,4,3,2,4,3,1,2,1,3,4,4,1,2,3,4,2,3,1,1,2,4,3,1,2,4,3,2,4,1,3,1,2,4,3,1,4,3,2,1,4,3,2,2,1,4,3,2,4,1,3,4,3,1,2,3,2,1,4,2,3,1,4,2,4,1,3,1,4,2,3,3,4,2,1,2,3,4,1,1,3,4,2,1,2,3,4,4,3,2,1,3,4,1,2,3,2,1,4,3,2,4,1,1,2,4,3,1,3,2,4,1,2,4,3,1,4,2,3,2,3,1,4,1,2,4,3,3,1,4,2,1,2,3,4,4,2,1,3,1,3,2,4,2,4,3,1,4,1,2,3,2,4,1,3,1,4,3,2,2,4,3,1,3,2,4,1,4,3,2,1,1,4,3,2,2,4,3,1,1,3,2,4,2,1,3,4,1,3,2,4,3,2,4,1,3,2,1,4,3,2,4,1,2,1,4,3,3,2,4,1,4,1,2,3,1,2,4,3,2,4,3,1,3,2,4,1,1,3,4,2,1,3,2,4,1,2,4,3,2,1,3,4,1,3,2,4,2,1,3,4,1,3,2,4,2,3,4,1,2,3,4,1,2,1,3,4,2,3,1,4,2,3,1,4,2,3,1,4,4,3,1,2,2,3,1,4,1,3,2,4,1,3,2,4,3,1,2,4,2,1,3,4,4,1,2,3,2,3,1,4,2,4,1,3,No,No
+2022-05-02 13:11:29,2022-05-02 14:35:32,IP Address,100,5043,True,2022-05-02 14:35:33,R_2rMgAfpTAopwrhC,anonymous,EN,Yes,4,2,3,1,4,1,3,2,3,1,2,4,3,1,2,4,4,1,3,2,3,1,2,4,1,3,4,2,1,3,4,2,1,4,2,3,1,4,2,3,2,1,4,3,2,1,3,4,1,4,3,2,1,4,3,2,4,3,2,1,3,4,2,1,1,2,4,3,2,3,1,4,1,2,4,3,1,3,4,2,2,3,1,4,2,3,1,4,1,3,2,4,1,4,3,2,3,1,2,4,3,1,2,4,1,4,2,3,1,3,2,4,2,4,1,3,1,4,2,3,3,4,2,1,1,4,3,2,4,2,1,3,4,2,1,3,3,1,2,4,2,1,3,4,2,1,3,4,3,1,4,2,1,2,4,3,2,1,3,4,3,1,4,2,1,3,4,2,2,4,3,1,1,4,2,3,3,4,1,2,1,4,2,3,4,2,3,1,2,4,3,1,4,2,3,1,1,2,4,3,2,3,4,1,1,4,3,2,4,3,2,1,1,4,2,3,4,3,1,2,4,1,3,2,2,1,4,3,4,3,2,1,1,3,2,4,1,4,3,2,3,1,2,4,1,2,3,4,4,2,1,3,1,3,2,4,4,1,3,2,4,2,3,1,4,3,2,1,1,4,3,2,1,2,4,3,1,2,3,4,4,2,1,3,4,3,1,2,4,3,1,2,1,2,3,4,3,4,1,2,3,4,2,1,4,2,3,1,1,3,4,2,4,3,1,2,3,4,2,1,4,2,1,3,1,2,3,4,2,4,3,1,3,4,1,2,1,2,3,4,2,3,4,1,2,4,1,3,3,4,2,1,1,3,4,2,1,2,4,3,2,4,3,1,1,4,3,2,2,3,1,4,1,3,2,4,2,1,3,4,2,3,4,1,4,1,2,3,1,2,3,4,2,1,3,4,3,2,4,1,No,No
+2022-05-02 13:08:39,2022-05-02 14:37:09,IP Address,100,5310,True,2022-05-02 14:37:10,R_2rr3XpmEhPXbkHo,anonymous,EN,Yes,2,3,4,1,2,1,4,3,4,1,3,2,4,1,3,2,4,2,3,1,4,2,3,1,1,2,3,4,1,2,3,4,2,4,3,1,2,4,3,1,1,3,4,2,2,1,4,3,3,4,2,1,1,4,2,3,2,3,1,4,1,2,3,4,2,1,3,4,2,1,3,4,3,1,2,4,4,1,2,3,4,2,1,3,3,2,1,4,4,2,1,3,4,2,1,3,1,2,4,3,2,1,4,3,4,3,1,2,3,4,2,1,3,2,4,1,3,2,4,1,1,4,3,2,1,4,3,2,1,4,2,3,1,4,2,3,4,3,2,1,3,4,1,2,2,1,3,4,2,1,3,4,1,3,2,4,1,3,2,4,3,1,4,2,2,1,4,3,4,3,2,1,1,3,4,2,1,2,4,3,1,2,4,3,1,3,4,2,1,3,4,2,1,2,4,3,1,2,4,3,2,4,1,3,1,4,3,2,3,2,4,1,3,2,4,1,1,2,3,4,1,2,3,4,2,1,3,4,2,1,3,4,3,1,2,4,3,1,2,4,3,4,1,2,3,4,1,2,4,3,2,1,4,3,2,1,3,2,1,4,3,2,1,4,3,1,4,2,3,1,4,2,4,3,2,1,4,3,2,1,2,3,1,4,2,3,1,4,2,1,3,4,3,1,2,4,4,1,2,3,4,1,2,3,4,3,2,1,4,3,2,1,4,2,3,1,1,3,4,2,3,4,2,1,3,4,2,1,2,1,4,3,2,4,3,1,2,1,3,4,2,1,3,4,2,3,4,1,3,4,2,1,3,4,1,2,1,4,3,2,3,1,4,2,1,2,4,3,2,3,4,1,2,3,4,1,1,3,2,4,1,2,4,3,2,3,4,1,2,3,4,1,3,4,2,1,2,1,4,3,No,Yes
+2022-05-02 14:02:37,2022-05-02 14:47:45,IP Address,100,2707,True,2022-05-02 14:47:46,R_3gNQDV2BOD4k1cI,anonymous,EN,Yes,1,4,3,2,1,2,4,3,3,1,2,4,3,1,2,4,2,1,3,4,2,3,4,1,2,1,3,4,4,1,2,3,1,2,3,4,1,4,2,3,3,1,4,2,2,1,4,3,1,4,3,2,1,4,3,2,2,3,4,1,2,3,4,1,2,1,4,3,3,2,1,4,4,3,1,2,2,3,1,4,1,2,4,3,1,4,2,3,1,4,3,2,1,3,2,4,1,3,2,4,1,2,3,4,1,3,4,2,1,4,2,3,1,3,4,2,1,4,2,3,1,3,2,4,1,4,2,3,2,4,1,3,2,4,1,3,2,4,3,1,2,3,1,4,2,3,1,4,1,2,4,3,3,4,1,2,1,4,2,3,2,3,4,1,1,4,3,2,1,4,3,2,1,4,2,3,1,4,3,2,1,4,2,3,1,3,4,2,1,3,4,2,2,1,3,4,2,1,4,3,1,4,3,2,1,3,4,2,2,4,1,3,2,3,1,4,4,3,1,2,2,3,1,4,2,3,4,1,2,4,3,1,3,1,2,4,1,3,4,2,1,2,3,4,1,3,2,4,2,3,1,4,2,3,1,4,4,1,2,3,2,1,3,4,4,1,2,3,1,2,3,4,1,2,3,4,1,3,2,4,3,2,4,1,3,4,2,1,3,1,4,2,1,2,3,4,2,1,3,4,1,2,4,3,4,2,3,1,1,3,4,2,3,2,4,1,4,3,1,2,1,4,2,3,1,3,2,4,2,1,3,4,1,4,2,3,2,3,4,1,3,4,2,1,3,4,2,1,3,4,1,2,2,3,1,4,1,2,4,3,4,2,1,3,4,3,1,2,1,3,2,4,4,2,3,1,2,1,3,4,4,3,2,1,3,1,2,4,1,2,3,4,2,3,1,4,4,3,1,2,No,No
+2022-05-02 13:05:11,2022-05-02 14:49:14,IP Address,100,6242,True,2022-05-02 14:49:15,R_1CKlLzwkUc1ZOEj,anonymous,EN,Yes,2,1,4,3,1,2,4,3,3,4,2,1,2,4,3,1,3,2,4,1,2,3,4,1,2,3,4,1,2,4,3,1,4,3,1,2,1,4,2,3,3,1,4,2,2,3,4,1,2,4,3,1,1,4,3,2,3,4,1,2,1,4,3,2,3,2,4,1,2,3,4,1,2,1,3,4,2,1,3,4,4,3,1,2,4,3,1,2,4,2,3,1,4,2,1,3,2,1,4,3,2,1,3,4,3,4,1,2,1,3,2,4,1,4,3,2,1,2,4,3,2,3,1,4,2,1,3,4,3,2,1,4,1,4,2,3,4,1,3,2,4,2,1,3,1,2,3,4,1,4,2,3,3,4,1,2,2,4,3,1,4,3,2,1,3,2,4,1,1,3,4,2,2,3,4,1,2,3,1,4,1,4,2,3,2,3,4,1,2,3,4,1,1,2,3,4,4,3,1,2,1,3,2,4,1,3,4,2,1,4,3,2,1,3,2,4,1,3,2,4,3,2,4,1,1,4,3,2,1,2,3,4,3,2,1,4,1,3,2,4,3,1,4,2,2,1,3,4,4,2,3,1,3,1,4,2,4,2,3,1,3,1,2,4,2,3,4,1,3,4,2,1,2,1,3,4,1,3,2,4,1,4,2,3,2,4,3,1,2,3,1,4,1,2,4,3,3,4,1,2,2,4,3,1,1,4,3,2,1,3,2,4,2,4,1,3,1,3,2,4,2,4,1,3,1,3,4,2,2,1,4,3,4,2,3,1,2,1,4,3,2,3,1,4,2,1,3,4,1,2,4,3,2,3,1,4,2,1,3,4,1,4,2,3,1,2,3,4,3,1,4,2,3,2,4,1,2,4,1,3,2,3,1,4,3,1,4,2,1,2,4,3,2,3,4,1,2,3,4,1,No,No
