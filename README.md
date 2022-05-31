@@ -2,7 +2,7 @@
 This page contains the code and data for the reproduction paper for the 2022 ReproGen shared task. For this task we tried to exactly reproduce the work by Santhanam and Shaikh (2019). Parts of the data and code here are a reproduction of their work. See the README in the directories for more precise instructions.
 
 ### Automatic
-We used the stimuli from the original paper (Santhanam & Shaikh (2019)) that were also used for the participant surveys to calculate automatic metrics. See the directory for more information on the automatic metrics.
+We used the stimuli from the original paper (Santhanam & Shaikh (2019), https://github.com/sashank06/INLG_eval) that were also used for the participant surveys to calculate automatic metrics. See the directory for more information on the automatic metrics.
 
 ### Data
 This directory contains the data we have obtained throughout the experiment.
