@@ -1,34 +1,24 @@
 # ReproGen22
-This page contains the code and data for the reproduction paper for the 2022 ReproGen shared task.
+This page contains the code and data for the reproduction paper for the 2022 ReproGen shared task. For this task we tried to exactly reproduce the work by Santhanam and Shaikh (2019). Parts of the data and code here are a reproduction of their work. See the README in the directories for more precise instructions.
 
 ## Automatic
-### Readability
-Calculates Flesch reading ease using textacy (version 0.12.0). Run it as follows:
+We used the stimuli from the original paper (Santhanam & Shaikh (2019)) that were also used for the participant surveys to calculate automatic metrics. See the directory for more information on the automatic metrics.
 
-```
-python readability.py
-```
-It takes all the sentences as input and calculates the reading ease for every sentence including the conversation context. Lastly, it writes the output to a csv file.
+## Data
+This directory contains the data we have obtained throughout the experiment.
 
-### Coherence
-Uses the code of Dziri et al. (2019) (https://github.com/nouhadziri/DialogEntailment) to find the semantic similarities.
-We have used python 3.7.5. We followed their installation instructions but needed specific versions of packages to be able to run the code:
-- pytorch_pretrained_bert == 0.6.0
-- allennlp == 0.8.3
-- torch == 1.9.0
-- torchvision == 0.10.0
-- overrides == 3.1.0
-- scikit-learn == 0.22.2
-- pymagnitude == 0.1.143
+## Outliers
+Code in this directory explores the reliability of our participants' scores. 
 
-It can be run as follows:
+## Qualtrics
+Contains the pdf and qsf files of our experiment in Qualtrics. The stimuli that we have used are provided by Santhanam & Shaikh (2019).
 
-```
-python coherence.py
-```
-
-The output is again a csv file with scores. 
-
+## Statistics
+The statistics directory contains the code needed to run the statistics. These are either directly adopted from Santhanam & Shaikh (2019) or slightly adapted.
 
 ## References
-Dziri, N., Kamalloo, E., Mathewson, K., & Zaiane, O. (2019). Evaluating Coherence in Dialogue Systems using Entailment. In _Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)_ (pp. 3806–3812). Association for Computational Linguistics.
+Santhanam, S., & Shaikh, S. (2019). Towards Best Experiment Design for Evaluating Dialogue System Output. In _Proceedings of the 12th International Conference on Natural Language Generation_, pages 88–94, Tokyo, Japan. Association for Computational Linguistics.
+
+
+## License
+The parts that are our code fall under a MIT license. Parts that are adopted from others fall under their respective licenses.
