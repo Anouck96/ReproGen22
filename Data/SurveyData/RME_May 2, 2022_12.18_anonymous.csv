@@ -1,0 +1,535 @@
+StartDate,EndDate,Status,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,DistributionChannel,UserLanguage,consent,C1_R1_R,C1_R1_C,C1_R2_R,C1_R2_C,C1_R3_R,C1_R3_C,C2_R1_R,C2_R1_C,C2_R2_R,C2_R2_C,C2_R3_R,C2_R3_C,C3_R1_R,C3_R1_C,C3_R2_R,C3_R2_C,C3_R3_R,C3_R3_C,C4_R1_R,C4_R1_C,C4_R3_R,C4_R3_C,C4_R4_R,C4_R4_C,C5_R1_R,C5_R1_C,C5_R2_R,C5_R2_C,C5_R3_R,C5_R3_C,C6_R1_R,C6_R1_C,C6_R2_R,C6_R2_C,C6_R3_R,C6_R3_C,C7_R1_R,C7_R1_C,C7_R2_R,C7_R2_C,C7_R3_R,C7_R3_C,C8_R1_R,C8_R1_C,C8_R2_R,C8_R2_C,C8_R3_R,C8_R3_C,C9_R1_R,C9_R1_C,C9_R2_R,C9_R2_C,C9_R3_R,C9_R3_C,C10_R1_R,C10_R1_C,C10_R2_R,C10_R2_C,C10_R3_R,C10_R3_C,C11_R1_R,C11_R2_C,C11_R2_R,C11_R2_C,C11_R3_R,C11_R3_C,C12_R1_R,C12_R1_C,C12_R2_R,C12_R2_C,C12_R3_R,C12_R3_C,C13_R1_R,C13_R1_C,C13_R2_R,C13_R2_C,C13_R3_R,C13_R3_C,C14_R1_R,C14_R1_C,C14_R2_R,C14_R2_C,C14_R3_R,C14_R3_C,C15_R1_R,C15_R1_C,C15_R2_R,C15_R2_C,C15_R3_R,C15_R3_C,C16_R1_R,C16_R1_C,C16_R2_R,C16_R2_C,C16_R3_R,C16_R3_C,C17_R1_R,C17_R1_C,C17_R2_R,C17_R2_C,C17_R3_R,C17_R3_C,C18_R1_R,C18_R1_C,C18_R2_R,C18_R2_C,C18_R3_R,C18_R3_C,C19_R1_R,C19_R1_C,C19_R2_R,C19_R1_C,C19_R3_R,C19_R3_C,C20_R1_R,C20_R1_C,C20_R2_R,C20_R2_C,C20_R3_R,C20_R3_C,C20_R1_R,C20_R1_C,C20_R2_R,C20_R2_C,C20_R3_R,C20_R3_C,C22_R1_R,C22_R1_C,C22_R2_R,C22_R2_C,C22_R3_R,C22_R3_C,C23_R1_R,C23_R1_C,C23_R2_R,C23_R2_C,C23_R3_R,C23_R3_C,C24_R1_R,C24_R1_C,C24_R2_R,C24_R2_C,C24_R3_R,C24_R3_C,C25_R1_R,C25_R1_C,C25_R2_R,C25_R2_C,C25_R3_R,C25_R3_C,C26_R1_R,C26_R1_C,C26_R2_R,C26_R2_C,C26_R3_R,C26_R3_C,C27_R1_R,C27_R1_C,C27_R2_R,C27_R2_C,C27_R3_R,C27_R3_C,C28_R1_R,C28_R1_C,C28_R2_R,C28_R2_C,C28_R3_R,C28_R3_C,C29_R1_R,C29_R1_C,C29_R2_R,C29_R2_C,C29_R3_R,C29_R3_C,C30_R1_R,C30_R1_C,C30_R2_R,C30_R2_C,C30_R3_R,C30_R3_C,C31_R1_R,C31_R1_C,C31_R2_R,C31_R2_C,C31_R3_R,C31_R3_C,C32_R1_R,C32_R1_C,C32_R2_R,C32_R2_C,C32_R3_R,C32_R3_C,C33_R1_R,C33_R1_C,C33_R2_R,C33_R2_C,C33_R3_R,C33_R3_C,C34_R1_R,C34_R1_C,C34_R2_R,C34_R2_C,C34_R3_R,C34_R3_C,C35_R1_R,C35_R1_C,C35_R2_R,C35_R2_C,C35_R3_R,C35_R3_C,C36_R1_R,C36_R1_C,C36_R2_R,C36_R2_C,C36_R3_R,C36_R3_C,C37_R1_R,C37_R1_C,C37_R2_R,C37_R2_C,C37_R3_R,C37_R3_C,C38_R1_R,C38_R1_C,C38_R2_R,C38_R2_C,C38_R3_R,C38_R3_C,C39_R1_R,C39_R1_C,C39_R2_R,C39_R2_C,C39_R3_R,C39_R3_C,C40_R1_R,C40_R1_C,C40_R2_R,C40_R2_C,C40_R3_R,C40_R3_C,C41_R1_R,C41_R1_C,C41_R2_R,C41_R2_C,C41_R3_R,C41_R3_C,C42_R1_R,C42_R1_C,C42_R2_R,C42_R2_C,C42_R3_R,C42_R3_C,C43_R1_R,C43_R1_C,C43_R2_R,C43_R2_C,C43_R3_R,C43_R3_C,C44_R1_R,C44_R1_C,C44_R2_R,C44_R2_C,C44_R3_R,C44_R3_C,C45_R1_R,C45_R1_C,C45_R2_R,C45_R2_C,C45_R3_R,C45_R3_C,C46_R1_R,C46_R1_C,C46_R2_R,C46_R2_C,C46_R3_R,C46_R3_C,C47_R1_R,C47_R1_C,C47_R2_R,C47_R2_C,C47_R3_R,C47_R3_C,C48_R1_R,C48_R1_C,C48_R2_R,C48_R2_C,C48_R3_R,C48_R3_C,C49_R1_R,C49_R1_C,C49_R2_R,C49_R2_C,C49_R3_R,C49_R3_C,C50_R1_R,C50_R1_C,C50_R2_R,C50_R2_C,C50_R3_R,C50_R3_C,Q429,Q430
+Start Date,End Date,Response Type,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Distribution Channel,User Language,"Completing this survey will take approximately 40 minutes and is entirely voluntary. This means that you are allowed to stop participation at any moment without having to provide a reason and without any repercussions. No risks are involved in participating.Collection of all data happens in accordance with the new General Data Protection Regulation (GDPR) rules and the Ethical Committee of TSHD has given permission to conduct this research. Data will be processed and saved anonymously. The anonymous data can, when requested, be shared with other researchers.
+
+
+
+If you agree to participate, you confirm that:
+
+	you are over 16 years old;
+	you agree that your anonymous data will be saved and stored for 10 years;
+	you agree that your anonymous data can be used for future research or scientific publications;
+	you agree that your anonymous data can be shared with other researchers;
+	you understand that you are allowed to stop participation at any moment. Regardless of reason, without having to provide a reason, and without any negative consequences.
+
+
+
+If you would like to contact one of the researchers regarding this study, you can send an e-mail to: A.R.Y.Braggaar@tilburguniversity.edu For comments on—or complaints about—this research it is also possible to contact the Tilburg University School of Humanities and Digital Sciences Research Ethics and Data Management Committee via tshd.redc@tilburguniversity.edu.
+
+
+
+Thank you for your time and participation!
+
+
+
+Kind regards,
+
+Anouck Braggaar, Saar Hommes, Peter Blomsma, Emiel Krahmer, Emiel van Miltenburg, Chris van der Lee, Nadine Braun, Frédéric Tomas, Martijn Goudbeek
+
+Tilburg University
+
+
+
+Do you agree with participating in this study?","Response 1: It's a great show.
+
+
+
+Please enter readability",Please enter coherence,"Response 2: I don't get it.
+
+
+
+Please enter readability",Please enter coherence,"Response 3: I want to see this episode
+
+
+
+Please enter readability",Please enter coherence,"Response 1: I don't know what you are talking about.
+
+
+
+Please enter readability",Please enter coherence,"Response 2: I don't know if you are being sarcastic or not.
+
+
+
+Please enter readability",Please enter coherence,"Response 3: what if you don't have kids?
+
+
+Please enter readability",Please enter coherence,"Response 1: I am not sure if that is a thing or not.
+
+
+
+Please enter readability",Please enter coherence,"Response 2: I don't know, but I think he 's going to be a lot worse.
+
+
+
+Please enter readability",Please enter coherence,"Response 3: I'm sure he 'll be fine.
+
+
+Please enter readability",Please enter coherence,"Response 1: I'm sorry to hear that.
+
+
+
+Please enter readability",Please enter coherence,"Response 3: I don't believe you.
+
+
+
+Please enter readability",Please enter coherence,"Response 4: I don't think you understand what you are talking about.
+
+
+Please enter readability",Please enter coherence,"Response 1: I don't get it.
+
+
+Please enter readability",Please enter coherence,"Response 2: I would love to see him as a villain.
+
+
+
+Please enter readability",Please enter coherence,"Response 3: Creed Bratton is the best actor of all time.
+
+
+Please enter readability",Please enter coherence,"Response 1: I'm not sure if you 're being sarcastic or not.
+
+
+Please enter readability",Please enter coherence,"Response 2: I don't get it.
+
+
+
+Please enter readability",Please enter coherence,"Response 3: I think it is a bit of a stretch.
+
+
+Please enter readability",Please enter coherence,"Response 1: I third this
+
+
+Please enter readability",Please enter coherence,"Response 2: I made this.
+
+
+Please enter readability",Please enter coherence,"Response 3: you made this?
+
+
+Please enter readability",Please enter coherence,"Response 1: plastic flamingos?
+
+
+Please enter readability",Please enter coherence,"Response 2: no, it is just a plastic bag.
+
+
+Please enter readability",Please enter coherence,"Response 3: I have never heard of that. I have never heard of it.
+
+
+Please enter readability",Please enter coherence,"Response 1: I would love to see him as a villain.
+
+
+Please enter readability",Please enter coherence,"Response 2: I would love to see him play the role of doom.
+
+
+Please enter readability",Please enter coherence,"Response 3: I am not sure what you are trying to say.
+
+
+Please enter readability",Please enter coherence,"Response 1: that's what I thought, but I don't think that's how it works.
+
+
+Please enter readability",Please enter coherence,"Response 2: He did not have the power to do that.
+
+
+Please enter readability",Please enter coherence,"Response 3: I think it is time to rewatch the gauntlet.
+
+
+Please enter readability",Please enter coherence,"Response 1: No, it was a joke
+
+
+Please enter readability",Please enter coherence,"Response 2: no, that 's the guy who voted for Brexit.
+
+
+Please enter readability",Please enter coherence,"Response 3: no, that was the referendum.
+
+
+Please enter readability",Please enter coherence,"Response 1: I've never heard of this before. what's it about?
+
+
+Please enter readability",Please enter coherence,"Response 2: I've never heard of that. what's it taste like?
+
+
+Please enter readability",Please enter coherence,"Response 3: What is the difference?
+
+
+Please enter readability",Please enter coherence,"Response 1: I don't think that is illegal.
+
+
+Please enter readability",Please enter coherence,"Response 2: I don't get it.
+
+
+Please enter readability",Please enter coherence,"Response 3: what if it is already illegal?
+
+
+Please enter readability",Please enter coherence,"Response 1: I'm not sure what you 're trying to say.
+
+
+Please enter readability",Please enter coherence,"Response 2: yeah, he has been pretty good in the past few years.
+
+
+Please enter readability",Please enter coherence,"Response 3: I think he is the best player in the league.
+
+
+Please enter readability",Please enter coherence,"Response 1: I'm not sure what you mean by that.
+
+
+Please enter readability",Please enter coherence,"Response 2: that would be awesome.
+
+
+Please enter readability",Please enter coherence,"Response 3: star wars?
+
+
+Please enter readability",Please enter coherence,"Response 1: it is a reference to something like this : URL
+
+
+Please enter readability",Please enter coherence,"Response 2: It is a quote from arrested development.
+
+
+Please enter readability",Please enter coherence,"Response 3: it is a quote from the office.
+
+
+Please enter readability",Please enter coherence,"Response 1: that is not true at all.
+
+
+Please enter readability",Please enter coherence,"Response 2: I'm pretty sure that is a myth.
+
+
+Please enter readability",Please enter coherence,"Response 3: I don't believe you.
+
+
+Please enter readability",Please enter coherence,"Response 1: that is a good one.
+
+
+Please enter readability",Please enter coherence,"Response 2: How did you find out?
+
+
+Please enter readability",Please enter coherence,"Response 3: What was on the chair?
+
+
+Please enter readability",Please enter coherence,"Response 1: here is the recipe
+
+
+Please enter readability",Please enter coherence,"Response 2: here you go
+
+
+Please enter readability",Please enter coherence,"Response 3: I'll give it a try!
+
+
+Please enter readability",Please enter coherence,"Response 1: that is what I was going to say.
+
+
+Please enter readability",Please enter coherence,"Response 2: I think it is called ""measurement""
+
+
+Please enter readability",Please enter coherence,"Response 3: it is a unit of measurement.
+
+
+Please enter readability",Please enter coherence,"Response 1: I have not watched it yet, but I have never seen it. I'll check it out.
+
+
+Please enter readability",Please enter coherence,"Response 2: It's a great show, but it's a great show.
+
+
+Please enter readability",Please enter coherence,"Response 3: I watched the first season. it was amazing.
+
+
+Please enter readability",Please enter coherence,"Response 1: I don't know what that is, but I'm not sure what you 're trying to say.
+
+
+Please enter readability",Please enter coherence,"Response 2: that is not a polar bear.
+
+
+Please enter readability",Please enter coherence,"Response 3: I thought he was a bear?
+
+
+Please enter readability",Please enter coherence,"Response 1: that is not what I said.
+
+
+Please enter readability",Please enter coherence,"Response 2: the popular vote does not matter.
+
+
+Please enter readability",Please enter coherence,"Response 3: that is not how elections work.
+
+
+Please enter readability",Please enter coherence,"Response 1: that is what I was thinking, but I'm not sure what you mean by that.
+
+
+Please enter readability",Please enter coherence,"Response 2: that is what I was thinking, but I'm not sure what you mean by that.
+
+
+Please enter readability",Please enter coherence,"Response 3: yeah, but it 's not black and white.
+
+
+Please enter readability",Please enter coherence,"Response 1: I think you meant spaces.
+
+
+Please enter readability",Please enter coherence,"Response 2: I thought it was the same thing.
+
+
+Please enter readability",Please enter coherence,"Response 3: what is the difference between the two?
+
+
+Please enter readability",Please enter coherence,"Response 1: he was the only one who did not get the joke.
+
+
+Please enter readability",Please enter coherence,"Response 2: I think it was a joke, but I don't think it's worth it.
+
+
+Please enter readability",Please enter coherence,"Response 3: yeah, but he is still on the bench.
+
+
+Please enter readability",Please enter coherence,"Response 1: what kind of job?
+
+
+Please enter readability",Please enter coherence,"Response 2: good luck!
+
+
+Please enter readability",Please enter coherence,"Response 3: what is your job?
+
+
+Please enter readability",Please enter coherence,"Response 1: no, he will be president.
+
+
+Please enter readability",Please enter coherence,"Response 2: I don't think so.
+
+
+Please enter readability",Please enter coherence,"Response 3: he is already in office.
+
+
+Please enter readability",Please enter coherence,"Response 1: I thought it was funny.
+
+
+Please enter readability",Please enter coherence,"Response 2: that is not how it works.
+
+
+Please enter readability",Please enter coherence,"Response 3: that is what I was thinking.
+
+
+Please enter readability",Please enter coherence,"Response 1: it's been a while since I've seen it.
+
+
+Please enter readability",Please enter coherence,"Response 2: I don't know, I've never heard of papa johns.
+
+
+Please enter readability",Please enter coherence,"Response 3: I'm not sure what you 're trying to say.
+
+
+Please enter readability",Please enter coherence,"Response 1: don't worry, you'll be fine.
+
+
+Please enter readability",Please enter coherence,"Response 2: do you have cats?
+
+
+Please enter readability",Please enter coherence,"Response 3: if you don't like them, you'll be fine.
+
+
+Please enter readability",Please enter coherence,"Response 1: I don't think I've ever seen him in a movie.
+
+
+Please enter readability",Please enter coherence,"Response 2: here you go
+
+
+Please enter readability",Please enter coherence,"Response 3: I don't think I've ever seen a picture of him before.
+
+
+Please enter readability",Please enter coherence,"Response 1: thanks ! I'll have to check it out!
+
+
+Please enter readability",Please enter coherence,"Response 2: these are my favorite pair of all time.
+
+
+Please enter readability",Please enter coherence,"Response 3: I'm not sure if this is a typo or not.
+
+
+Please enter readability",Please enter coherence,"Response 1: I have not seen it yet, but I'll check it out. thanks!
+
+
+Please enter readability",Please enter coherence,"Response 2: thanks! I'll check it out!
+
+
+Please enter readability",Please enter coherence,"Response 3: thanks!
+
+
+Please enter readability",Please enter coherence,"Response 1: then we can build a wall.
+
+
+Please enter readability",Please enter coherence,"Response 2: then you would have to go to the moon.
+
+
+Please enter readability",Please enter coherence,"Response 3: what if the earth is flat?
+
+
+Please enter readability",Please enter coherence,"Response 1: I'm not your buddy, pal.
+
+
+Please enter readability",Please enter coherence,"Response 2: you must be fun at parties
+
+
+Please enter readability",Please enter coherence,"Response 3: I don't think you're fun at parties.
+
+
+Please enter readability",Please enter coherence,"Response 1: I don't think I've ever heard of that. I'll have to check it out.
+
+
+Please enter readability",Please enter coherence,"Response 2: thanks!
+
+
+Please enter readability",Please enter coherence,"Response 3: did you use it?
+
+
+Please enter readability",Please enter coherence,"Response 1: I'm sorry to hear that. I hope you have a great day!
+
+
+Please enter readability",Please enter coherence,"Response 2: what are you studying?
+
+
+Please enter readability",Please enter coherence,"Response 3: what field?
+
+
+Please enter readability",Please enter coherence,"Response 1: thanks! I'll check it out. thanks!
+
+
+Please enter readability",Please enter coherence,"Response 2: that is not how it works.
+
+
+Please enter readability",Please enter coherence,"Response 3: I thought it was released?
+
+
+Please enter readability",Please enter coherence,"Response 1: I have not read it yet. I'll check it out. thanks!
+
+
+Please enter readability",Please enter coherence,"Response 2: same here. I loved it.
+
+
+Please enter readability",Please enter coherence,"Response 3: I've been meaning to watch it for a while, but I have not seen it yet.
+
+
+Please enter readability",Please enter coherence,"Response 1: I'm not sure if you 're being sarcastic or not.
+
+
+Please enter readability",Please enter coherence,"Response 2: I liked it better than the first one.
+
+
+Please enter readability",Please enter coherence,"Response 3: I thought it was supposed to be the first season.
+
+
+Please enter readability",Please enter coherence,"Response 1: I think it's a bit of a stretch, but I don't think I've ever seen a pair of shoes in my life.
+
+
+Please enter readability",Please enter coherence,"Response 2: thanks! I'll look into it!
+
+
+Please enter readability",Please enter coherence,"Response 3: do you have a link?
+
+
+Please enter readability",Please enter coherence,"Response 1: he would not be impeached.
+
+
+Please enter readability",Please enter coherence,"Response 2: that is not how impeachement works.
+
+
+Please enter readability",Please enter coherence,"Response 3: that is not what he said.
+
+
+Please enter readability",Please enter coherence,"Response 1: I thought we were talking about the dirt.
+
+
+Please enter readability",Please enter coherence,"Response 2: we are all humans on this blessed day.
+
+
+Please enter readability",Please enter coherence,"Response 3: I'm not sure what you 're trying to say here.
+
+
+Please enter readability",Please enter coherence,"Response 1: ah, I see. thanks for the heads up!
+
+
+Please enter readability",Please enter coherence,"Response 2: I thought it was the black mirror episode.
+
+
+Please enter readability",Please enter coherence,"Response 3: ah, I see. thanks.
+
+
+Please enter readability",Please enter coherence,"Response 1: I have never heard of this one. what os it about?
+
+
+Please enter readability",Please enter coherence,"Response 2: I have never heard of them. i will check them out.
+
+
+Please enter readability",Please enter coherence,"Response 3: led zeppelin?
+
+
+Please enter readability",Please enter coherence,"Response 1: no, it is not. it is a British thing.
+
+
+Please enter readability",Please enter coherence,"Response 2: Wales isn't a country.
+
+
+Please enter readability",Please enter coherence,"Response 3: it is not part of the English language, it is the UK.
+
+
+Please enter readability",Please enter coherence,"Response 1: what laces are you talking about?
+
+
+Please enter readability",Please enter coherence,"Response 2: where did you get them?
+
+
+Please enter readability",Please enter coherence,"Response 3: thanks! I'll check it out! thanks!
+
+
+Please enter readability",Please enter coherence,"Response 1: I don't think I've ever seen that movie.
+
+
+Please enter readability",Please enter coherence,"Response 2: I think he was the only one who died.
+
+
+Please enter readability",Please enter coherence,"Response 3: he looks like he is in the movie.
+
+
+Please enter readability",Please enter coherence,"Response 1: dependes on where you live.
+
+
+
+Please enter readability",Please enter coherence,"Response 2: depends on what you're doing.
+
+
+Please enter readability",Please enter coherence,"Response 3: I don't get it.
+
+
+Please enter readability",Please enter coherence,Have you taken part in any previous studies apart from this on evaluating conversation?,Do you have any previous experience of taking part in studies that involve interacting with a chatbot?
+"{""ImportId"":""startDate"",""timeZone"":""Europe/Berlin""}","{""ImportId"":""endDate"",""timeZone"":""Europe/Berlin""}","{""ImportId"":""status""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""Europe/Berlin""}","{""ImportId"":""_recordId""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID433""}","{""ImportId"":""QID20_TEXT""}","{""ImportId"":""QID22_TEXT""}","{""ImportId"":""QID432_TEXT""}","{""ImportId"":""QID26_TEXT""}","{""ImportId"":""QID28_TEXT""}","{""ImportId"":""QID27_TEXT""}","{""ImportId"":""QID31_TEXT""}","{""ImportId"":""QID32_TEXT""}","{""ImportId"":""QID33_TEXT""}","{""ImportId"":""QID34_TEXT""}","{""ImportId"":""QID35_TEXT""}","{""ImportId"":""QID36_TEXT""}","{""ImportId"":""QID47_TEXT""}","{""ImportId"":""QID48_TEXT""}","{""ImportId"":""QID49_TEXT""}","{""ImportId"":""QID50_TEXT""}","{""ImportId"":""QID51_TEXT""}","{""ImportId"":""QID52_TEXT""}","{""ImportId"":""QID55_TEXT""}","{""ImportId"":""QID56_TEXT""}","{""ImportId"":""QID57_TEXT""}","{""ImportId"":""QID58_TEXT""}","{""ImportId"":""QID59_TEXT""}","{""ImportId"":""QID60_TEXT""}","{""ImportId"":""QID63_TEXT""}","{""ImportId"":""QID64_TEXT""}","{""ImportId"":""QID65_TEXT""}","{""ImportId"":""QID66_TEXT""}","{""ImportId"":""QID67_TEXT""}","{""ImportId"":""QID68_TEXT""}","{""ImportId"":""QID71_TEXT""}","{""ImportId"":""QID72_TEXT""}","{""ImportId"":""QID73_TEXT""}","{""ImportId"":""QID74_TEXT""}","{""ImportId"":""QID75_TEXT""}","{""ImportId"":""QID76_TEXT""}","{""ImportId"":""QID79_TEXT""}","{""ImportId"":""QID80_TEXT""}","{""ImportId"":""QID81_TEXT""}","{""ImportId"":""QID82_TEXT""}","{""ImportId"":""QID83_TEXT""}","{""ImportId"":""QID84_TEXT""}","{""ImportId"":""QID87_TEXT""}","{""ImportId"":""QID88_TEXT""}","{""ImportId"":""QID89_TEXT""}","{""ImportId"":""QID90_TEXT""}","{""ImportId"":""QID91_TEXT""}","{""ImportId"":""QID92_TEXT""}","{""ImportId"":""QID95_TEXT""}","{""ImportId"":""QID96_TEXT""}","{""ImportId"":""QID97_TEXT""}","{""ImportId"":""QID98_TEXT""}","{""ImportId"":""QID99_TEXT""}","{""ImportId"":""QID100_TEXT""}","{""ImportId"":""QID103_TEXT""}","{""ImportId"":""QID104_TEXT""}","{""ImportId"":""QID105_TEXT""}","{""ImportId"":""QID106_TEXT""}","{""ImportId"":""QID107_TEXT""}","{""ImportId"":""QID108_TEXT""}","{""ImportId"":""QID111_TEXT""}","{""ImportId"":""QID112_TEXT""}","{""ImportId"":""QID113_TEXT""}","{""ImportId"":""QID114_TEXT""}","{""ImportId"":""QID115_TEXT""}","{""ImportId"":""QID116_TEXT""}","{""ImportId"":""QID119_TEXT""}","{""ImportId"":""QID120_TEXT""}","{""ImportId"":""QID121_TEXT""}","{""ImportId"":""QID122_TEXT""}","{""ImportId"":""QID123_TEXT""}","{""ImportId"":""QID124_TEXT""}","{""ImportId"":""QID127_TEXT""}","{""ImportId"":""QID128_TEXT""}","{""ImportId"":""QID129_TEXT""}","{""ImportId"":""QID130_TEXT""}","{""ImportId"":""QID131_TEXT""}","{""ImportId"":""QID132_TEXT""}","{""ImportId"":""QID135_TEXT""}","{""ImportId"":""QID136_TEXT""}","{""ImportId"":""QID137_TEXT""}","{""ImportId"":""QID138_TEXT""}","{""ImportId"":""QID139_TEXT""}","{""ImportId"":""QID140_TEXT""}","{""ImportId"":""QID143_TEXT""}","{""ImportId"":""QID144_TEXT""}","{""ImportId"":""QID145_TEXT""}","{""ImportId"":""QID146_TEXT""}","{""ImportId"":""QID147_TEXT""}","{""ImportId"":""QID148_TEXT""}","{""ImportId"":""QID151_TEXT""}","{""ImportId"":""QID152_TEXT""}","{""ImportId"":""QID153_TEXT""}","{""ImportId"":""QID154_TEXT""}","{""ImportId"":""QID155_TEXT""}","{""ImportId"":""QID156_TEXT""}","{""ImportId"":""QID159_TEXT""}","{""ImportId"":""QID160_TEXT""}","{""ImportId"":""QID161_TEXT""}","{""ImportId"":""QID162_TEXT""}","{""ImportId"":""QID163_TEXT""}","{""ImportId"":""QID164_TEXT""}","{""ImportId"":""QID167_TEXT""}","{""ImportId"":""QID168_TEXT""}","{""ImportId"":""QID169_TEXT""}","{""ImportId"":""QID170_TEXT""}","{""ImportId"":""QID171_TEXT""}","{""ImportId"":""QID172_TEXT""}","{""ImportId"":""QID175_TEXT""}","{""ImportId"":""QID176_TEXT""}","{""ImportId"":""QID177_TEXT""}","{""ImportId"":""QID178_TEXT""}","{""ImportId"":""QID179_TEXT""}","{""ImportId"":""QID180_TEXT""}","{""ImportId"":""QID183_TEXT""}","{""ImportId"":""QID184_TEXT""}","{""ImportId"":""QID185_TEXT""}","{""ImportId"":""QID186_TEXT""}","{""ImportId"":""QID187_TEXT""}","{""ImportId"":""QID188_TEXT""}","{""ImportId"":""QID191_TEXT""}","{""ImportId"":""QID192_TEXT""}","{""ImportId"":""QID193_TEXT""}","{""ImportId"":""QID194_TEXT""}","{""ImportId"":""QID195_TEXT""}","{""ImportId"":""QID196_TEXT""}","{""ImportId"":""QID199_TEXT""}","{""ImportId"":""QID200_TEXT""}","{""ImportId"":""QID201_TEXT""}","{""ImportId"":""QID202_TEXT""}","{""ImportId"":""QID203_TEXT""}","{""ImportId"":""QID204_TEXT""}","{""ImportId"":""QID207_TEXT""}","{""ImportId"":""QID208_TEXT""}","{""ImportId"":""QID209_TEXT""}","{""ImportId"":""QID210_TEXT""}","{""ImportId"":""QID211_TEXT""}","{""ImportId"":""QID212_TEXT""}","{""ImportId"":""QID215_TEXT""}","{""ImportId"":""QID216_TEXT""}","{""ImportId"":""QID217_TEXT""}","{""ImportId"":""QID218_TEXT""}","{""ImportId"":""QID219_TEXT""}","{""ImportId"":""QID220_TEXT""}","{""ImportId"":""QID223_TEXT""}","{""ImportId"":""QID224_TEXT""}","{""ImportId"":""QID225_TEXT""}","{""ImportId"":""QID226_TEXT""}","{""ImportId"":""QID227_TEXT""}","{""ImportId"":""QID228_TEXT""}","{""ImportId"":""QID231_TEXT""}","{""ImportId"":""QID232_TEXT""}","{""ImportId"":""QID233_TEXT""}","{""ImportId"":""QID234_TEXT""}","{""ImportId"":""QID235_TEXT""}","{""ImportId"":""QID236_TEXT""}","{""ImportId"":""QID239_TEXT""}","{""ImportId"":""QID240_TEXT""}","{""ImportId"":""QID241_TEXT""}","{""ImportId"":""QID242_TEXT""}","{""ImportId"":""QID243_TEXT""}","{""ImportId"":""QID244_TEXT""}","{""ImportId"":""QID247_TEXT""}","{""ImportId"":""QID248_TEXT""}","{""ImportId"":""QID249_TEXT""}","{""ImportId"":""QID250_TEXT""}","{""ImportId"":""QID251_TEXT""}","{""ImportId"":""QID252_TEXT""}","{""ImportId"":""QID255_TEXT""}","{""ImportId"":""QID256_TEXT""}","{""ImportId"":""QID257_TEXT""}","{""ImportId"":""QID258_TEXT""}","{""ImportId"":""QID259_TEXT""}","{""ImportId"":""QID260_TEXT""}","{""ImportId"":""QID263_TEXT""}","{""ImportId"":""QID264_TEXT""}","{""ImportId"":""QID265_TEXT""}","{""ImportId"":""QID266_TEXT""}","{""ImportId"":""QID267_TEXT""}","{""ImportId"":""QID268_TEXT""}","{""ImportId"":""QID271_TEXT""}","{""ImportId"":""QID272_TEXT""}","{""ImportId"":""QID273_TEXT""}","{""ImportId"":""QID274_TEXT""}","{""ImportId"":""QID275_TEXT""}","{""ImportId"":""QID276_TEXT""}","{""ImportId"":""QID279_TEXT""}","{""ImportId"":""QID280_TEXT""}","{""ImportId"":""QID281_TEXT""}","{""ImportId"":""QID282_TEXT""}","{""ImportId"":""QID283_TEXT""}","{""ImportId"":""QID284_TEXT""}","{""ImportId"":""QID287_TEXT""}","{""ImportId"":""QID288_TEXT""}","{""ImportId"":""QID289_TEXT""}","{""ImportId"":""QID290_TEXT""}","{""ImportId"":""QID291_TEXT""}","{""ImportId"":""QID292_TEXT""}","{""ImportId"":""QID295_TEXT""}","{""ImportId"":""QID296_TEXT""}","{""ImportId"":""QID297_TEXT""}","{""ImportId"":""QID298_TEXT""}","{""ImportId"":""QID299_TEXT""}","{""ImportId"":""QID300_TEXT""}","{""ImportId"":""QID303_TEXT""}","{""ImportId"":""QID304_TEXT""}","{""ImportId"":""QID305_TEXT""}","{""ImportId"":""QID306_TEXT""}","{""ImportId"":""QID307_TEXT""}","{""ImportId"":""QID308_TEXT""}","{""ImportId"":""QID311_TEXT""}","{""ImportId"":""QID312_TEXT""}","{""ImportId"":""QID313_TEXT""}","{""ImportId"":""QID314_TEXT""}","{""ImportId"":""QID315_TEXT""}","{""ImportId"":""QID316_TEXT""}","{""ImportId"":""QID319_TEXT""}","{""ImportId"":""QID320_TEXT""}","{""ImportId"":""QID321_TEXT""}","{""ImportId"":""QID322_TEXT""}","{""ImportId"":""QID323_TEXT""}","{""ImportId"":""QID324_TEXT""}","{""ImportId"":""QID327_TEXT""}","{""ImportId"":""QID328_TEXT""}","{""ImportId"":""QID329_TEXT""}","{""ImportId"":""QID330_TEXT""}","{""ImportId"":""QID331_TEXT""}","{""ImportId"":""QID332_TEXT""}","{""ImportId"":""QID335_TEXT""}","{""ImportId"":""QID336_TEXT""}","{""ImportId"":""QID337_TEXT""}","{""ImportId"":""QID338_TEXT""}","{""ImportId"":""QID339_TEXT""}","{""ImportId"":""QID340_TEXT""}","{""ImportId"":""QID343_TEXT""}","{""ImportId"":""QID344_TEXT""}","{""ImportId"":""QID345_TEXT""}","{""ImportId"":""QID346_TEXT""}","{""ImportId"":""QID347_TEXT""}","{""ImportId"":""QID348_TEXT""}","{""ImportId"":""QID351_TEXT""}","{""ImportId"":""QID352_TEXT""}","{""ImportId"":""QID353_TEXT""}","{""ImportId"":""QID354_TEXT""}","{""ImportId"":""QID355_TEXT""}","{""ImportId"":""QID356_TEXT""}","{""ImportId"":""QID359_TEXT""}","{""ImportId"":""QID360_TEXT""}","{""ImportId"":""QID361_TEXT""}","{""ImportId"":""QID362_TEXT""}","{""ImportId"":""QID363_TEXT""}","{""ImportId"":""QID364_TEXT""}","{""ImportId"":""QID367_TEXT""}","{""ImportId"":""QID368_TEXT""}","{""ImportId"":""QID369_TEXT""}","{""ImportId"":""QID370_TEXT""}","{""ImportId"":""QID371_TEXT""}","{""ImportId"":""QID372_TEXT""}","{""ImportId"":""QID375_TEXT""}","{""ImportId"":""QID376_TEXT""}","{""ImportId"":""QID377_TEXT""}","{""ImportId"":""QID378_TEXT""}","{""ImportId"":""QID379_TEXT""}","{""ImportId"":""QID380_TEXT""}","{""ImportId"":""QID383_TEXT""}","{""ImportId"":""QID384_TEXT""}","{""ImportId"":""QID385_TEXT""}","{""ImportId"":""QID386_TEXT""}","{""ImportId"":""QID387_TEXT""}","{""ImportId"":""QID388_TEXT""}","{""ImportId"":""QID391_TEXT""}","{""ImportId"":""QID392_TEXT""}","{""ImportId"":""QID393_TEXT""}","{""ImportId"":""QID394_TEXT""}","{""ImportId"":""QID395_TEXT""}","{""ImportId"":""QID396_TEXT""}","{""ImportId"":""QID399_TEXT""}","{""ImportId"":""QID400_TEXT""}","{""ImportId"":""QID401_TEXT""}","{""ImportId"":""QID402_TEXT""}","{""ImportId"":""QID403_TEXT""}","{""ImportId"":""QID404_TEXT""}","{""ImportId"":""QID407_TEXT""}","{""ImportId"":""QID408_TEXT""}","{""ImportId"":""QID409_TEXT""}","{""ImportId"":""QID410_TEXT""}","{""ImportId"":""QID411_TEXT""}","{""ImportId"":""QID412_TEXT""}","{""ImportId"":""QID415_TEXT""}","{""ImportId"":""QID416_TEXT""}","{""ImportId"":""QID417_TEXT""}","{""ImportId"":""QID418_TEXT""}","{""ImportId"":""QID419_TEXT""}","{""ImportId"":""QID420_TEXT""}","{""ImportId"":""QID423_TEXT""}","{""ImportId"":""QID424_TEXT""}","{""ImportId"":""QID425_TEXT""}","{""ImportId"":""QID426_TEXT""}","{""ImportId"":""QID427_TEXT""}","{""ImportId"":""QID428_TEXT""}","{""ImportId"":""QID429""}","{""ImportId"":""QID430""}"
+2022-05-02 10:04:09,2022-05-02 10:36:21,IP Address,100,1932,True,2022-05-02 10:36:22,R_3EcF6IVWcPglesP,anonymous,EN,Yes,100,100,100,75,100,100,100,75,100,100,100,0,100,50,100,100,100,100,100,10,100,100,100,100,100,100,100,100,100,80,100,100,100,100,100,50,100,75,100,0,100,100,100,100,100,0,50,50,100,100,100,100,100,100,100,100,100,100,100,100,100,50,100,100,100,10,100,50,100,50,100,75,100,10,100,100,100,10,100,100,100,100,100,90,100,100,100,100,100,100,10,10,100,100,100,100,95,100,100,100,100,100,100,100,100,100,100,15,100,100,100,100,100,100,100,100,100,25,100,0,100,100,0,0,100,100,50,50,100,10,100,10,100,100,100,100,100,100,100,50,100,50,100,50,100,50,100,100,100,100,100,20,100,20,100,100,100,50,100,100,100,50,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,50,100,100,100,100,100,100,100,100,100,25,100,100,100,25,100,25,100,100,100,100,100,100,100,40,100,100,100,100,100,100,100,100,100,100,100,0,100,0,100,100,100,100,100,100,100,0,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,0,100,100,100,100,100,100,100,100,100,90,100,50,100,25,100,100,100,100,100,100,100,100,50,10,100,100,100,100,100,75,100,100,100,25,80,100,100,100,100,100,100,100,100,10,75,20,100,25,100,100,100,100,Yes,No
+2022-05-02 10:08:58,2022-05-02 10:37:51,IP Address,100,1733,True,2022-05-02 10:37:52,R_22RfNdkCPLbe8ze,anonymous,EN,Yes,100,100,100,50,100,100,100,80,100,80,100,20,100,20,100,40,100,70,100,70,100,40,100,20,100,20,100,100,100,80,100,30,100,20,100,40,10,10,100,30,100,80,100,90,100,50,30,80,100,90,20,40,100,40,100,80,100,80,10,10,100,30,100,90,100,100,100,30,100,80,100,40,100,20,100,20,100,10,100,20,100,100,100,90,100,20,100,100,100,20,100,10,100,100,100,100,100,20,100,10,100,0,100,50,100,80,100,0,100,90,100,90,100,70,100,10,100,20,100,20,30,90,20,70,100,100,30,30,100,20,100,0,100,10,100,100,100,80,50,40,50,40,100,50,100,20,100,90,100,100,100,100,80,20,100,100,100,0,100,100,100,0,100,20,100,0,100,30,100,100,100,0,100,20,100,90,100,100,100,0,100,100,100,0,100,0,100,100,100,90,100,90,100,100,100,80,100,0,100,60,100,100,100,100,100,0,100,80,100,0,100,100,100,0,100,0,100,50,100,20,100,20,100,0,100,80,100,80,100,100,100,0,100,100,100,0,100,10,100,100,100,0,100,40,100,40,100,0,100,0,100,50,100,80,100,50,100,20,100,100,100,0,100,0,100,100,100,70,100,100,20,20,100,100,100,100,100,0,100,80,100,0,100,80,100,80,100,100,100,10,100,10,100,10,100,0,100,0,100,0,No,No
+2022-05-02 10:10:42,2022-05-02 10:38:03,IP Address,100,1640,True,2022-05-02 10:38:03,R_1ig54MgpjbWYxth,anonymous,EN,Yes,100,90,100,60,100,100,100,90,100,100,100,60,100,100,100,100,100,100,100,50,100,70,100,80,100,70,100,80,100,70,100,100,100,100,100,50,90,50,100,50,100,100,100,90,100,50,70,70,100,100,100,100,100,80,100,50,100,80,100,50,100,20,100,40,100,40,100,40,90,70,100,90,100,50,100,40,100,60,100,60,100,80,100,90,100,80,100,100,100,70,60,60,100,90,100,90,100,90,100,100,100,100,100,80,100,90,100,60,100,100,100,100,100,60,100,70,100,100,100,100,50,70,40,80,100,100,100,80,100,40,100,70,100,80,100,100,100,90,100,50,100,40,100,30,100,40,100,60,100,70,100,10,100,20,100,70,100,20,100,70,100,20,100,80,100,80,100,70,100,90,100,20,100,60,100,80,100,90,100,40,100,90,100,60,100,20,100,50,100,90,100,30,100,40,100,20,100,20,100,30,100,30,100,80,100,30,100,70,100,50,100,40,100,20,100,20,100,90,100,70,100,20,100,20,100,50,100,50,100,60,100,20,100,70,100,50,100,90,100,100,100,60,100,60,100,30,100,20,100,20,100,80,100,80,100,80,100,30,100,70,100,20,100,40,100,40,100,50,100,50,90,40,100,90,100,80,100,70,100,40,90,70,100,70,100,70,100,70,100,60,100,60,100,50,90,60,100,70,100,60,No,No
+2022-05-02 10:19:11,2022-05-02 10:45:58,IP Address,100,1607,True,2022-05-02 10:45:59,R_22ukLnQElAzxzgh,anonymous,EN,Yes,60,50,60,30,60,80,50,30,70,70,50,10,50,40,80,80,50,40,60,30,70,70,40,40,50,50,70,60,70,40,60,60,50,50,80,70,50,20,50,10,70,80,60,60,50,10,50,60,70,60,30,30,50,20,70,70,70,70,70,70,50,30,50,40,50,30,50,40,80,90,50,30,50,20,50,40,50,40,60,50,80,80,50,50,50,20,80,80,60,60,30,30,100,100,100,100,80,80,100,100,100,90,50,50,50,50,50,20,50,0,50,0,50,10,100,80,40,10,40,30,50,0,20,10,70,70,20,0,50,0,20,10,50,10,100,100,60,60,30,0,30,0,30,0,50,0,60,50,100,60,40,0,40,0,100,100,50,0,100,70,50,0,60,50,50,0,60,40,50,20,50,0,50,0,60,60,100,70,50,0,50,20,60,50,50,10,60,50,100,100,100,70,70,70,50,20,50,10,40,10,40,10,100,80,60,50,100,100,40,20,40,10,40,0,50,50,60,50,100,100,30,0,30,0,50,0,50,0,30,0,30,0,30,0,30,0,50,30,30,10,60,60,70,30,70,70,0,0,50,20,100,70,60,60,60,60,30,10,40,10,40,30,50,20,50,20,40,20,40,10,50,0,50,0,60,60,40,10,70,70,20,0,50,0,50,10,100,100,50,20,40,20,30,20,20,0,30,0,30,0,No,Yes
+2022-05-02 10:18:56,2022-05-02 10:47:26,IP Address,100,1709,True,2022-05-02 10:47:26,R_24vkcii8Xj1oGZt,anonymous,EN,Yes,90,100,90,100,80,80,80,90,80,80,80,90,80,70,70,60,80,80,80,90,70,80,90,100,80,90,70,65,80,80,80,89,90,80,90,70,50,50,80,80,70,80,50,50,60,80,50,50,80,90,80,90,80,70,80,70,80,70,60,70,70,80,90,70,80,90,70,80,80,60,80,78,80,90,70,70,90,80,70,65,75,80,80,90,70,80,90,75,80,90,80,90,60,75,80,90,70,65,80,65,65,75,85,75,80,65,75,75,85,75,60,60,55,55,80,75,65,80,75,65,65,75,80,80,65,65,85,75,65,65,70,80,80,75,80,86,90,90,80,96,80,70,65,60,85,70,70,65,60,60,80,90,60,65,65,70,80,90,65,65,80,80,85,90,90,76,76,80,80,90,85,85,70,70,90,90,75,75,80,76,80,50,87,89,90,90,90,75,50,50,90,90,90,70,75,65,78,78,75,75,80,90,70,50,90,90,80,75,75,80,80,80,90,50,80,80,80,80,60,70,60,60,80,90,70,70,60,60,80,70,70,60,70,90,80,90,60,65,65,60,80,65,65,70,80,80,80,90,75,75,75,80,80,90,80,75,75,70,80,90,75,80,65,70,80,75,75,80,60,69,80,90,65,65,80,80,90,80,78,75,80,80,80,90,65,65,70,70,80,75,75,80,80,75,80,90,65,65,75,75,No,No
+2022-05-02 10:16:55,2022-05-02 10:48:06,IP Address,100,1870,True,2022-05-02 10:48:06,R_1escUy6gozjeqFy,anonymous,EN,Yes,100,100,100,100,100,100,100,100,100,100,100,50,100,50,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,25,100,75,100,75,100,25,100,25,100,100,100,100,100,80,100,10,100,100,100,100,100,100,100,25,100,80,100,100,100,100,100,20,100,100,100,50,100,10,100,100,100,25,100,10,100,20,100,0,100,50,100,100,100,50,100,10,100,100,100,90,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,20,100,100,100,100,100,100,100,20,100,50,100,50,100,50,50,50,100,100,50,10,100,10,100,20,100,10,100,100,100,100,90,50,90,50,100,100,100,10,100,100,100,100,100,30,100,30,100,100,100,70,100,100,100,50,100,50,100,100,100,100,100,100,100,10,100,50,100,80,100,10,100,10,100,20,100,50,100,20,100,100,100,100,100,100,100,50,100,10,100,10,100,50,100,80,100,100,100,80,100,100,100,10,100,100,100,100,100,100,100,70,100,100,100,10,100,80,100,10,100,100,100,100,100,10,100,100,100,10,100,100,100,100,100,10,100,100,100,80,100,10,100,10,100,100,100,100,100,100,100,100,100,80,100,10,100,10,100,100,100,100,100,100,70,30,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,10,100,100,70,60,100,50,100,100,No,No
+2022-05-02 10:21:32,2022-05-02 10:49:07,IP Address,100,1655,True,2022-05-02 10:49:08,R_2WA93YtjPl3tmMO,anonymous,EN,Yes,100,25,100,75,100,50,100,100,100,75,100,25,100,85,100,50,75,50,100,15,100,75,100,60,100,65,100,100,100,80,90,80,100,100,100,40,100,100,100,20,100,100,100,100,100,0,50,50,100,80,100,50,100,90,90,20,100,50,100,70,100,90,100,0,100,90,80,50,90,90,100,100,100,10,100,70,90,60,90,25,100,85,100,10,100,25,100,100,100,75,25,25,100,100,100,100,100,100,100,50,100,100,100,100,100,20,100,20,100,100,100,100,100,10,75,50,100,100,100,100,80,90,10,25,90,90,75,20,100,20,100,20,100,10,90,90,100,90,75,50,75,50,90,40,100,20,100,80,100,90,90,10,90,20,90,80,100,10,100,20,100,20,80,10,80,30,80,20,100,90,100,10,90,25,100,10,80,75,100,10,90,20,90,20,80,20,90,20,90,10,90,20,90,80,20,20,80,10,90,50,90,45,100,80,100,90,100,90,90,10,90,90,80,60,90,60,100,100,90,20,90,20,100,5,100,5,100,10,90,10,100,0,100,80,100,25,90,75,100,90,100,90,100,100,100,25,90,75,100,10,90,80,90,80,90,90,80,50,100,100,90,10,100,10,90,100,80,75,100,100,25,25,90,80,100,100,75,75,100,0,75,50,100,80,100,100,80,75,100,100,100,75,75,50,25,10,100,25,100,75,No,No
+2022-05-02 10:19:19,2022-05-02 10:50:26,IP Address,100,1867,True,2022-05-02 10:50:26,R_1PZXoZzRDYYj1Df,anonymous,EN,Yes,100,100,100,80,100,60,100,60,100,100,100,50,70,50,100,80,100,70,100,90,100,100,100,90,100,50,100,100,100,90,100,80,100,50,100,100,25,10,100,60,100,100,100,100,100,25,100,100,100,80,100,100,100,80,100,100,100,100,100,70,100,25,100,100,100,75,100,60,100,50,100,90,100,20,100,70,100,30,100,40,100,40,100,100,100,75,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,95,100,45,100,25,100,90,100,100,100,90,100,70,100,25,100,100,40,20,40,30,100,100,50,20,100,30,100,20,100,20,100,100,100,100,75,20,75,20,100,90,100,60,100,90,100,100,100,25,100,25,100,40,100,40,100,80,100,30,100,90,100,80,100,100,100,95,100,25,100,70,100,35,100,60,100,20,100,85,100,100,100,25,100,90,100,20,100,50,100,100,100,100,100,50,100,25,100,100,100,75,100,100,100,45,100,45,100,90,100,75,100,100,100,50,100,75,100,45,100,20,100,50,100,50,100,50,100,20,100,100,100,75,100,70,100,80,100,60,100,75,100,35,100,35,100,75,100,100,100,85,100,85,100,100,100,100,100,75,100,65,100,100,100,100,100,85,85,75,100,80,100,100,100,80,100,100,80,50,100,100,100,75,100,90,100,60,100,80,100,40,90,90,100,75,100,50,No,No
+2022-05-02 10:15:57,2022-05-02 10:51:19,IP Address,100,2122,True,2022-05-02 10:51:20,R_2ronumgGEtAN3jX,anonymous,EN,Yes,80,25,75,25,100,100,25,50,50,50,50,25,25,25,30,25,25,25,100,100,95,65,50,50,25,25,100,100,50,50,25,25,25,25,25,25,100,100,100,100,25,25,100,100,25,25,25,25,25,25,25,25,100,100,100,100,25,25,25,25,25,25,100,100,100,100,25,25,100,100,25,25,100,100,100,50,100,75,100,100,50,50,25,25,100,50,100,100,100,100,25,25,100,75,100,95,100,100,100,100,100,100,50,50,50,25,100,100,100,100,100,100,100,100,50,50,50,50,100,100,100,100,25,25,100,100,100,50,100,75,50,50,100,50,25,25,25,25,100,100,100,75,100,100,50,100,100,100,100,100,50,25,25,25,25,25,100,50,50,50,100,100,50,25,100,100,25,25,50,50,100,100,25,25,100,100,100,100,50,25,100,75,50,25,25,25,25,25,25,25,100,100,25,25,25,25,100,50,50,25,50,50,25,25,100,25,100,25,100,100,25,25,100,100,100,100,25,25,100,25,25,25,25,25,25,25,25,25,100,100,25,25,100,100,100,75,100,100,100,100,25,25,100,100,100,100,100,100,25,25,25,25,25,25,25,25,100,100,100,100,25,25,100,75,100,100,100,75,100,75,25,25,25,25,100,100,25,25,100,75,100,75,100,75,100,75,25,25,100,100,50,0,50,50,25,25,25,25,100,100,No,Yes
+2022-05-02 10:15:07,2022-05-02 10:52:21,IP Address,100,2234,True,2022-05-02 10:52:22,R_27KgFqPhLCLTA3F,anonymous,EN,Yes,50,25,60,10,70,65,50,25,50,60,50,5,70,50,50,50,60,20,60,10,60,5,50,5,60,50,70,70,70,70,60,10,60,10,50,10,50,5,50,60,50,60,60,50,50,10,50,10,60,60,60,60,60,10,60,10,50,10,50,50,60,10,70,70,70,70,70,70,70,70,70,70,70,70,70,10,60,70,50,10,60,20,20,30,50,10,50,50,50,70,60,50,60,60,60,60,60,60,60,60,50,10,60,10,60,20,50,50,60,60,60,60,60,60,50,60,40,70,60,70,60,60,20,20,60,60,50,10,60,60,60,60,50,70,50,70,70,70,70,30,60,10,60,60,60,60,60,60,60,60,50,5,10,5,10,5,60,60,60,5,60,70,70,60,50,5,60,5,50,5,60,5,60,5,50,2,60,3,50,3,60,60,60,60,60,10,60,60,60,10,60,60,5,5,5,5,50,5,60,60,60,60,60,60,60,10,60,10,50,50,60,10,60,60,60,60,60,60,60,60,60,10,60,5,60,60,60,60,60,60,50,5,60,60,70,70,70,70,70,70,60,50,60,60,60,60,20,10,50,5,50,3,70,70,70,70,60,20,60,70,50,20,50,40,50,60,50,60,50,50,20,1,60,60,50,50,60,60,60,60,60,60,50,50,60,60,60,5,70,70,50,50,60,60,50,50,50,40,60,40,No,No
+2022-05-02 10:14:33,2022-05-02 10:54:20,IP Address,100,2387,True,2022-05-02 10:54:21,R_2s7nmddsBccqc8W,anonymous,EN,Yes,100,100,75,25,75,100,100,75,75,75,100,0,25,0,25,50,75,50,100,50,100,50,75,25,50,75,100,75,109,100,50,50,75,50,100,0,75,75,100,75,50,50,50,100,50,25,25,25,100,100,100,100,75,75,75,50,100,100,100,100,75,50,25,75,50,25,100,75,25,50,100,50,100,100,75,50,50,25,100,100,50,25,100,50,50,50,50,50,25,100,50,50,100,50,50,50,75,100,100,100,75,50,50,50,100,100,50,24,100,100,75,100,100,100,100,100,50,50,100,100,25,100,25,100,100,100,75,50,25,50,100,100,100,100,50,100,100,100,50,50,50,50,75,50,100,50,100,100,100,100,100,0,100,0,100,50,100,0,100,0,100,0,100,0,100,25,100,100,100,100,100,0,100,0,100,100,100,100,25,25,100,100,100,25,100,0,100,100,100,50,100,100,50,50,50,50,100,0,50,50,50,100,50,50,100,0,100,0,100,0,0,50,100,100,50,100,100,100,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,100,100,100,100,100,100,100,100,100,100,50,100,50,0,0,100,100,100,50,100,50,100,50,100,50,100,100,100,0,100,100,50,100,100,50,50,50,0,50,100,100,50,100,25,100,50,100,25,50,100,50,100,100,50,100,100,100,100,50,50,50,100,40,100,50,50,50,No,No
+2022-05-02 10:14:39,2022-05-02 10:55:41,IP Address,100,2462,True,2022-05-02 10:55:41,R_1dFAZASncZPPhln,anonymous,EN,Yes,100,95,100,25,100,95,100,25,100,60,100,25,95,25,100,85,100,25,100,25,100,95,100,85,100,25,100,100,100,25,100,25,100,25,100,10,100,25,100,25,100,75,95,10,100,5,100,25,100,25,100,50,100,25,100,50,100,85,100,25,100,25,100,25,100,25,100,25,100,50,100,50,100,25,100,25,100,25,100,25,100,40,100,15,100,25,100,100,100,65,65,15,100,100,100,100,100,50,100,50,100,50,100,25,100,25,100,25,100,100,100,100,100,50,100,15,100,50,100,50,50,50,50,50,95,100,50,25,100,25,100,25,100,25,100,100,100,50,25,25,25,25,100,25,100,25,100,95,100,95,100,25,100,25,100,50,100,25,100,65,100,25,100,25,100,50,100,25,100,50,100,25,100,25,100,50,100,100,100,25,100,100,100,50,100,25,100,95,100,50,100,25,100,100,100,50,100,50,100,50,100,50,100,25,100,85,100,65,100,25,100,50,100,100,100,100,100,50,100,100,100,25,100,25,100,50,100,50,100,50,100,25,100,50,100,25,100,25,100,50,100,50,100,25,100,25,100,25,100,25,100,80,85,90,100,95,100,25,100,85,100,25,100,25,100,25,100,85,100,100,80,25,100,80,100,50,100,25,100,85,100,25,100,95,100,100,100,50,100,25,100,25,100,25,100,25,100,25,100,25,No,Yes
+2022-05-02 10:19:54,2022-05-02 10:57:05,IP Address,100,2231,True,2022-05-02 10:57:06,R_5vFe4URR46cyiEp,anonymous,EN,Yes,100,60,100,40,100,80,100,20,100,70,90,10,100,30,100,30,100,50,100,70,100,70,100,50,100,50,100,60,100,50,100,60,100,40,100,70,80,20,100,40,100,20,100,20,100,0,50,20,100,100,100,90,100,40,100,40,100,40,100,80,100,20,100,100,100,50,100,30,100,50,100,90,100,40,100,60,100,40,100,50,100,60,100,20,100,30,100,100,100,30,100,100,100,100,100,100,100,60,100,60,100,40,100,60,100,10,100,20,100,100,100,100,100,100,100,40,100,70,100,40,40,30,30,20,100,100,20,0,100,10,100,10,100,60,100,80,100,100,20,0,20,0,100,20,100,30,100,100,100,20,100,40,100,60,100,40,100,20,100,20,100,20,100,70,100,40,100,40,100,80,100,10,100,10,100,100,100,70,100,20,100,60,100,30,100,20,100,60,100,100,100,30,100,30,100,80,100,20,100,40,100,40,100,100,100,100,100,80,100,0,100,20,100,20,100,70,100,20,100,80,100,20,100,10,100,20,100,20,70,70,100,0,100,30,100,20,100,90,100,30,100,20,100,10,100,0,30,0,100,50,100,70,100,50,100,80,100,10,100,0,100,0,100,10,100,40,100,10,100,90,30,0,100,70,100,90,100,20,100,90,40,0,100,30,100,20,70,50,100,10,100,0,100,20,100,60,100,20,100,10,No,No
+2022-05-02 10:12:35,2022-05-02 10:59:07,IP Address,100,2792,True,2022-05-02 10:59:07,R_2CIZEcUhz2btXTc,anonymous,EN,Yes,100,75,100,75,100,100,100,60,100,90,90,0,100,0,100,90,100,75,100,100,100,100,100,100,100,0,100,100,100,100,100,50,100,100,100,50,100,0,100,50,100,100,100,25,100,0,25,25,100,100,100,100,100,0,100,100,100,100,100,100,100,0,100,0,100,0,100,0,100,0,100,25,100,0,100,50,100,0,100,50,100,0,100,100,100,0,100,100,100,0,100,10,100,100,100,100,100,100,100,100,100,100,100,75,100,0,100,0,100,100,100,100,100,0,100,75,100,0,100,0,50,50,50,25,100,100,100,0,100,0,100,0,100,0,100,100,100,100,50,0,50,0,100,0,100,0,100,50,100,50,100,0,100,0,100,25,75,0,100,25,100,0,100,25,100,75,100,0,75,50,75,0,75,0,100,0,100,0,100,0,100,75,100,100,100,0,100,0,100,100,100,0,100,0,100,50,100,25,75,0,100,0,100,10,100,75,100,50,100,50,100,0,100,10,100,25,100,25,100,100,100,0,100,0,100,0,100,0,50,50,100,0,100,50,100,75,100,25,100,100,100,75,100,50,100,0,100,0,100,25,100,25,100,100,100,75,100,0,100,0,100,0,100,25,100,25,100,100,100,100,75,0,100,75,100,75,50,50,100,100,100,0,100,0,25,0,50,100,100,10,100,0,100,0,25,0,100,0,100,10,No,No
+2022-05-02 10:21:39,2022-05-02 10:59:20,IP Address,100,2260,True,2022-05-02 10:59:20,R_2dMSmA0z5tsWqjW,anonymous,EN,Yes,100,100,100,75,100,50,100,100,100,75,75,25,100,25,100,80,80,25,100,50,100,100,100,80,100,25,100,100,100,100,80,75,100,25,100,20,100,20,100,20,80,100,80,80,80,10,100,80,100,80,80,80,100,80,100,50,100,100,100,50,100,50,80,30,100,10,80,80,80,10,100,75,100,30,100,75,80,70,80,80,100,60,100,80,100,100,80,100,90,100,60,10,100,80,100,80,100,70,100,80,100,100,80,90,100,100,100,100,100,100,100,100,80,10,100,80,100,70,100,60,80,50,40,40,100,100,50,50,80,70,100,50,80,70,80,100,80,100,100,40,100,40,100,100,100,100,100,100,100,100,100,70,100,100,100,100,100,20,100,100,100,10,100,10,100,100,100,30,100,50,100,100,100,30,100,30,100,30,100,40,100,100,100,80,100,20,100,30,100,100,100,10,70,30,100,10,100,40,70,30,100,70,100,100,100,70,100,90,100,75,100,50,100,50,100,100,100,90,100,100,100,40,100,20,100,20,100,40,50,30,100,20,100,20,100,20,100,100,100,90,100,90,100,75,100,20,100,10,100,50,100,100,100,100,60,60,100,50,100,60,100,40,100,80,100,100,100,60,100,100,50,50,100,100,100,100,80,70,100,10,100,60,100,10,100,20,75,100,100,80,100,50,100,40,60,60,100,100,100,50,No,Yes
+2022-05-02 10:14:39,2022-05-02 11:01:15,IP Address,100,2795,True,2022-05-02 11:01:16,R_2YzeVX4Tj9F45vl,anonymous,EN,Yes,100,75,100,100,100,100,100,50,100,50,95,25,95,60,100,75,100,90,100,50,100,100,100,50,100,60,100,60,100,25,100,60,100,50,100,25,75,25,100,25,100,100,100,80,100,25,90,100,100,100,90,100,100,75,100,90,100,100,100,90,100,75,100,100,100,75,100,75,100,50,100,50,100,50,100,100,100,50,100,80,100,75,100,80,100,75,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,80,100,75,100,100,100,100,100,75,100,75,100,100,100,100,90,100,70,100,100,100,60,100,100,75,100,70,100,90,100,100,100,100,100,90,100,90,100,50,100,80,100,100,100,100,100,50,100,50,100,100,100,80,100,90,100,75,100,100,100,100,100,100,100,100,100,50,100,60,100,100,100,90,100,50,100,100,100,80,100,50,100,70,100,100,100,70,100,75,100,75,100,100,100,90,100,90,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,90,100,100,100,80,100,50,100,50,100,100,80,100,100,60,100,100,100,60,100,100,100,100,100,100,100,100,100,80,100,25,100,50,100,100,100,100,100,100,100,100,100,100,100,25,100,60,100,100,100,100,100,100,100,60,100,100,100,100,100,100,100,100,100,100,100,100,100,100,90,100,100,100,100,100,100,100,100,50,100,100,100,60,No,No
+2022-05-02 10:13:38,2022-05-02 11:01:31,IP Address,100,2872,True,2022-05-02 11:01:31,R_2EmIpGxMQmkfuBN,anonymous,EN,Yes,100,100,100,100,100,100,100,50,100,100,100,25,100,75,100,100,100,100,100,25,100,75,100,100,100,25,100,100,100,50,100,25,100,25,100,100,25,25,100,25,100,100,100,50,100,0,100,75,100,100,100,100,100,50,100,75,100,100,100,100,100,25,100,100,100,25,50,25,100,25,100,25,100,25,100,25,100,50,100,50,100,25,100,50,100,25,100,75,100,25,100,25,100,100,100,100,100,50,100,100,100,25,100,25,100,25,100,25,100,100,100,100,100,75,100,100,100,25,100,25,25,75,25,75,100,100,25,25,100,25,100,25,100,25,100,100,100,75,100,25,100,25,100,25,100,25,100,100,100,100,100,25,100,25,100,100,100,25,100,25,100,25,100,100,100,25,100,100,100,50,100,25,100,25,100,75,100,25,100,25,100,75,100,25,100,25,100,25,100,100,100,75,100,75,100,50,100,25,100,25,100,25,100,25,100,25,100,100,100,25,100,25,100,25,100,75,100,25,100,25,100,25,100,0,100,25,100,25,100,50,100,25,100,25,100,25,100,25,100,100,100,25,100,50,100,25,100,25,100,25,100,25,100,75,100,75,100,25,100,50,100,25,100,25,100,50,100,100,100,25,100,25,100,25,100,75,100,100,100,75,100,25,100,25,100,25,100,25,100,75,100,25,100,25,100,25,100,25,100,25,No,No
+2022-05-02 10:16:52,2022-05-02 11:01:49,IP Address,100,2697,True,2022-05-02 11:01:50,R_2WZ3z4Prd8hNlS7,anonymous,EN,Yes,100,100,100,25,100,100,100,50,100,50,100,75,100,80,95,100,95,100,100,50,100,50,100,75,100,25,100,100,100,100,95,80,100,50,100,100,90,100,100,100,100,100,100,100,100,50,50,100,100,100,100,100,100,75,100,100,100,100,100,90,100,100,95,100,100,100,90,100,75,80,100,90,100,75,100,50,100,100,100,90,100,90,100,100,100,90,100,100,100,100,90,90,100,100,100,100,100,95,100,95,100,100,100,100,100,100,100,90,100,100,100,100,100,100,100,100,100,100,100,100,75,80,50,25,100,100,75,75,100,90,100,90,100,100,100,100,100,100,100,90,100,90,95,100,100,90,100,100,100,100,100,100,100,100,100,100,100,90,100,100,100,90,100,90,100,100,100,100,100,100,100,80,100,100,100,100,100,100,100,80,100,100,100,100,100,90,100,100,100,100,100,100,95,90,100,100,100,95,95,100,100,100,100,100,100,100,100,100,100,100,100,95,100,100,100,100,100,100,100,100,100,100,100,50,100,100,100,100,80,75,100,90,100,100,100,95,100,100,100,100,100,90,100,90,100,90,100,75,100,75,100,100,100,100,100,100,100,80,100,100,100,90,100,100,100,90,100,100,100,90,90,50,95,100,100,100,100,100,100,0,100,50,100,100,100,100,80,100,100,100,100,100,90,100,80,100,100,100,100,90,No,No
+2022-05-02 10:05:49,2022-05-02 11:01:58,IP Address,100,3368,True,2022-05-02 11:01:59,R_3kvKQauKzWGyjDa,anonymous,EN,Yes,100,50,100,100,75,100,100,100,100,100,100,100,100,100,50,25,50,25,50,25,100,50,100,100,100,100,100,100,100,100,50,25,50,25,100,75,100,100,100,100,100,100,100,50,50,25,50,25,100,25,100,25,100,25,50,25,100,100,100,100,100,75,100,100,100,100,100,50,50,50,100,100,100,25,25,25,25,25,100,25,100,50,50,50,100,25,100,100,50,25,100,100,100,50,100,50,100,25,100,25,100,25,100,25,100,25,50,25,100,50,50,25,100,100,100,500,100,50,100,50,50,50,50,25,100,100,75,25,100,100,75,25,50,25,50,25,50,25,100,50,100,50,50,25,50,25,100,75,100,100,100,50,50,25,100,100,50,25,50,25,50,25,100,100,50,25,50,25,100,75,50,25,100,50,50,25,100,100,50,25,100,100,100,25,100,25,100,100,100,100,100,100,100,50,100,100,50,25,100,50,100,50,50,25,100,100,100,100,100,50,50,25,100,100,100,100,100,25,100,25,100,25,100,25,100,100,100,50,100,50,50,25,100,100,100,100,100,50,100,100,100,25,100,25,100,25,100,25,100,25,100,100,100,100,100,25,100,25,100,100,100,25,100,25,100,100,100,25,100,100,50,25,100,100,100,50,100,25,100,25,50,25,100,50,100,100,100,25,100,100,100,50,50,25,100,100,100,50,50,25,No,No
+2022-05-02 10:22:24,2022-05-02 11:03:27,IP Address,100,2462,True,2022-05-02 11:03:27,R_1dDZKWNHp0ElT7K,anonymous,EN,Yes,80,70,80,50,80,50,90,90,80,80,70,70,80,80,60,60,70,70,60,60,80,80,70,70,60,60,80,80,80,80,70,70,60,60,70,70,40,40,90,90,80,80,50,50,30,30,80,80,60,60,70,70,90,90,80,80,70,70,50,50,60,60,80,80,70,70,50,50,60,60,60,60,70,70,50,50,50,50,50,50,60,60,40,40,50,50,80,80,50,50,50,50,50,50,50,50,60,60,60,60,60,60,70,70,60,60,60,60,100,100,60,60,80,80,70,70,80,80,80,80,60,60,50,50,70,70,70,70,50,50,100,100,50,50,50,50,50,50,70,70,70,70,50,50,50,50,60,60,70,70,50,50,70,70,50,50,70,70,60,60,50,50,60,60,50,50,60,60,100,100,80,80,60,60,60,60,50,50,50,50,100,100,70,70,50,50,70,70,80,80,80,80,70,70,60,60,70,70,70,70,60,60,50,50,50,50,50,50,60,60,90,90,70,70,80,80,60,60,50,50,50,50,60,60,70,70,60,60,70,70,60,60,70,70,60,60,70,70,60,60,60,60,70,70,50,50,70,70,60,60,70,70,60,60,70,70,70,70,60,60,80,80,70,70,70,70,60,60,60,60,50,50,60,60,80,80,60,60,70,70,60,60,60,60,80,80,70,70,60,60,50,50,60,60,60,60,70,70,60,60,No,No
+2022-05-02 10:20:12,2022-05-02 11:04:09,IP Address,100,2636,True,2022-05-02 11:04:10,R_2WHa4j0xQbW7vUQ,anonymous,EN,Yes,100,100,100,25,95,100,100,25,100,50,100,50,100,60,100,100,50,100,100,100,100,100,100,70,100,50,100,100,100,100,100,50,100,100,100,50,50,50,100,100,100,70,100,100,100,60,50,50,100,100,100,100,100,50,100,50,100,100,100,25,100,100,100,100,100,100,100,100,100,100,100,50,100,70,25,50,100,100,100,50,100,100,100,50,100,50,100,100,100,100,100,70,100,70,100,100,100,100,100,100,100,100,100,100,100,60,100,80,100,100,100,70,100,80,100,60,100,100,100,100,50,100,50,50,100,100,50,50,100,60,100,100,100,50,100,100,100,100,100,50,100,50,100,60,100,50,100,100,100,100,100,50,50,50,100,100,100,25,100,50,100,50,100,100,100,100,100,80,100,100,100,25,100,50,100,70,100,100,100,25,100,100,100,100,100,25,100,100,50,50,100,100,100,100,100,50,100,25,100,50,100,50,100,100,100,50,100,100,100,70,100,80,100,60,100,100,100,60,100,70,100,50,100,25,100,70,100,70,50,25,100,25,100,100,100,70,100,100,100,100,100,25,100,50,100,75,100,80,100,251,100,25,100,50,100,50,100,50,100,100,100,50,100,50,100,100,100,60,100,70,25,25,100,100,100,100,100,50,100,100,100,70,100,100,100,100,50,25,100,100,100,100,100,50,100,70,100,70,100,50,No,No
+2022-05-02 10:14:27,2022-05-02 11:07:27,IP Address,100,3179,True,2022-05-02 11:07:27,R_6GzkiH7BWdMTApX,anonymous,EN,Yes,100,90,100,70,90,90,100,80,100,80,70,40,60,70,100,80,90,80,90,60,90,50,100,100,70,40,100,90,100,80,70,70,60,60,60,40,60,50,70,70,70,80,70,80,50,30,60,40,100,100,100,100,80,60,80,70,80,50,80,70,90,70,90,100,90,100,90,50,80,60,100,40,100,60,90,50,80,60,100,100,100,90,100,60,100,70,90,100,70,70,80,90,90,100,90,100,90,90,100,90,100,90,80,80,90,60,100,70,100,100,100,100,100,70,80,80,100,80,80,80,60,100,60,100,90,100,70,70,80,60,100,60,80,80,90,100,90,100,70,50,70,50,90,90,100,70,100,100,90,100,90,40,100,40,90,100,90,70,90,50,90,80,90,80,100,90,90,80,100,90,90,60,90,70,100,100,100,100,100,60,90,100,90,100,90,60,100,80,90,100,100,100,90,70,90,90,100,80,90,80,90,80,90,100,90,100,90,100,90,70,100,100,90,80,100,100,100,60,90,100,80,60,100,50,90,60,90,60,90,100,90,50,100,80,90,60,90,100,100,100,100,70,100,100,100,70,100,50,90,60,90,100,90,100,90,100,90,70,100,100,90,50,100,70,90,90,100,80,90,100,70,70,90,90,90,100,90,80,100,100,90,80,90,100,90,60,90,100,100,100,100,100,80,70,70,60,90,60,100,80,Yes,Yes
+2022-05-02 10:31:07,2022-05-02 11:09:12,IP Address,100,2285,True,2022-05-02 11:09:12,R_32XEMZ9Xu6HNFAB,anonymous,EN,Yes,80,30,40,40,80,80,90,20,90,70,60,70,90,90,90,90,90,80,100,40,100,100,100,90,100,20,100,100,100,10,100,90,100,20,100,100,0,0,100,10,100,100,100,100,100,0,0,0,100,100,100,100,100,60,100,100,100,100,100,100,100,100,100,100,100,0,90,100,100,10,100,0,100,100,100,40,100,100,100,100,100,20,100,20,100,0,100,100,100,10,29,0,100,0,100,100,100,50,100,50,100,0,100,100,100,0,100,0,90,0,90,0,100,100,100,100,100,100,100,100,10,10,0,0,100,100,100,0,100,0,100,0,100,100,100,100,100,100,100,100,100,100,10,10,100,0,100,90,100,0,199,0,100,0,100,0,100,0,100,100,100,0,100,100,100,100,100,0,100,100,100,20,100,20,100,70,100,100,100,0,100,60,100,0,100,80,100,100,100,0,100,100,100,100,100,0,100,100,100,100,100,100,100,30,100,0,100,80,100,0,90,90,100,90,100,100,100,100,100,0,100,0,90,0,90,0,100,100,100,100,90,0,90,90,100,100,100,100,100,100,100,90,100,100,100,0,90,0,100,100,100,100,100,90,100,100,100,100,100,90,10,0,100,90,90,90,100,30,90,90,0,0,100,10,100,70,100,100,100,100,10,0,100,100,100,0,100,100,100,1,100,0,20,10,0,0,0,0,100,100,No,No
+2022-05-02 10:20:21,2022-05-02 11:11:50,IP Address,100,3088,True,2022-05-02 11:11:50,R_3iF2qPsu0UXRBzl,anonymous,EN,Yes,100,100,100,50,100,100,100,10,90,50,80,0,90,50,90,80,90,50,100,10,100,65,100,80,90,10,100,0,100,80,70,0,100,10,100,50,25,0,100,0,90,100,75,25,75,0,40,100,100,100,100,100,80,20,85,30,100,100,100,10,100,0,85,100,80,40,100,0,40,100,100,50,100,10,80,10,80,0,90,100,80,70,100,100,90,20,90,100,95,0,50,0,100,100,80,50,85,100,100,75,100,100,95,80,100,10,100,0,95,100,90,100,100,25,95,75,85,10,95,100,15,15,10,50,100,100,10,10,90,80,100,10,90,0,90,100,90,100,40,10,40,10,80,50,100,10,90,100,90,100,80,0,100,80,80,100,90,0,95,10,95,0,95,0,100,100,95,50,100,100,90,0,90,10,95,0,100,100,100,0,95,100,95,15,95,0,100,0,90,100,100,50,95,80,95,100,90,50,100,0,80,0,95,100,90,0,90,40,90,0,100,50,90,0,100,50,100,80,90,100,90,90,100,0,90,0,90,0,80,0,90,0,90,10,100,0,90,50,100,100,90,0,100,0,90,25,100,0,90,0,90,90,85,90,95,100,95,0,95,50,95,0,95,25,95,80,95,50,95,20,20,0,95,100,95,100,95,95,100,0,75,0,95,100,95,100,95,100,100,100,100,100,90,0,90,0,90,0,100,100,No,No
+2022-05-02 10:04:34,2022-05-02 11:16:21,IP Address,100,4306,True,2022-05-02 11:16:22,R_24wrPm3liRoOMWv,anonymous,EN,Yes,100,100,100,100,100,100,100,100,100,100,100,2,100,100,100,100,100,100,100,100,100,100,100,100,100,25,100,100,100,100,100,95,100,100,95,50,2,5,100,100,100,100,100,100,100,50,100,50,100,100,100,100,100,100,100,100,100,100,100,50,100,50,100,100,100,100,100,95,95,100,100,100,100,100,100,100,100,100,100,50,100,100,100,2,100,100,100,100,100,100,100,25,100,100,100,100,100,100,100,100,100,80,100,50,100,50,100,80,100,100,100,50,50,100,100,100,100,100,100,100,95,100,50,100,100,100,60,75,100,100,90,60,100,100,100,100,100,100,70,80,70,80,100,25,100,60,100,100,100,100,100,25,100,100,100,100,100,100,100,60,100,60,100,100,100,50,100,100,100,100,100,25,100,90,100,100,100,100,100,100,100,100,100,100,100,30,100,100,100,25,100,100,100,100,100,50,100,50,100,50,100,50,100,50,100,50,100,25,100,30,100,100,100,100,100,100,100,100,100,100,100,100,100,25,100,100,100,95,100,100,100,25,100,100,100,50,100,100,100,100,100,100,100,100,100,100,25,100,100,25,100,50,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,50,100,100,100,90,100,100,100,100,10,100,100,100,100,100,100,100,100,100,100,100,25,100,50,100,100,100,100,100,100,Yes,Yes
+2022-05-02 10:27:20,2022-05-02 11:16:38,IP Address,100,2957,True,2022-05-02 11:16:38,R_2uJblbxPrlrG4PZ,anonymous,EN,Yes,100,100,100,100,100,85,100,50,100,100,100,25,100,85,100,70,100,100,100,25,100,50,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,25,100,100,100,100,100,100,100,25,50,50,100,100,100,100,100,85,100,50,100,50,100,25,100,25,100,100,100,100,100,85,60,100,100,100,100,50,100,100,100,100,100,100,100,100,100,100,100,70,100,100,100,100,100,100,70,100,100,100,100,100,100,100,100,100,100,100,100,25,100,25,100,100,100,100,100,100,100,100,100,100,100,100,25,100,50,100,100,100,25,25,100,50,100,50,100,100,100,100,100,100,100,50,100,50,100,100,100,50,100,100,100,100,100,75,100,100,100,100,100,25,100,25,100,100,100,50,100,100,100,25,100,80,100,50,100,100,100,100,100,100,100,25,100,50,100,100,100,100,100,50,100,100,100,100,100,50,100,100,100,25,100,50,100,50,100,25,100,25,100,50,100,25,100,100,100,100,100,100,100,50,100,50,100,100,100,25,100,100,100,25,100,25,100,10,100,100,100,10,100,100,100,80,100,50,100,100,100,100,80,25,100,10,100,50,100,50,100,100,100,50,100,100,100,50,100,100,100,100,100,100,100,100,50,25,50,25,50,50,100,50,100,100,70,85,100,100,100,100,80,100,100,100,100,100,100,100,100,100,100,80,100,100,No,No
+2022-05-02 10:12:58,2022-05-02 11:27:18,IP Address,100,4459,True,2022-05-02 11:27:18,R_PIFZdcLW0HdrFdv,anonymous,EN,Yes,100,100,100,100,100,70,100,100,100,100,100,100,90,100,100,100,100,100,60,90,90,80,100,100,50,40,100,100,100,100,50,50,60,50,100,100,20,20,50,50,100,100,100,100,50,50,30,30,100,30,100,100,15,20,100,100,100,100,100,50,100,50,100,100,100,100,100,40,100,100,100,100,100,20,100,35,100,100,100,70,50,50,100,90,100,20,100,70,100,100,100,50,100,100,100,75,100,90,100,100,100,100,70,65,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,70,50,80,75,90,85,100,100,100,100,100,100,90,100,100,100,95,100,100,100,100,50,100,100,100,100,80,75,100,100,100,100,100,50,100,100,100,100,100,100,100,50,100,100,100,20,100,50,100,30,50,50,100,100,80,75,100,100,100,100,100,100,100,100,100,100,50,50,35,20,100,100,50,55,100,100,100,100,70,65,100,100,100,100,50,20,100,100,100,100,50,50,40,45,100,100,100,100,100,100,100,100,40,35,80,50,100,100,100,100,100,100,20,25,100,100,50,50,30,35,100,100,38,40,80,85,60,55,65,60,20,23,100,100,100,100,100,20,100,100,100,60,100,100,100,100,100,100,100,50,100,30,100,100,100,100,100,40,100,45,100,30,No,Yes
+2022-05-02 10:13:13,2022-05-02 11:28:24,IP Address,100,4510,True,2022-05-02 11:28:24,R_2aXqMn38vZHtCf1,anonymous,EN,Yes,100,100,100,90,100,100,100,100,100,100,100,100,100,80,99,100,99,100,100,70,100,100,100,90,100,80,100,100,100,100,99,90,100,80,100,100,100,80,100,90,70,100,100,100,100,95,70,100,100,100,100,100,100,90,100,95,100,100,90,100,100,80,99,100,100,60,90,70,100,80,100,80,100,90,100,100,100,100,99,90,100,70,100,100,100,100,100,100,100,100,100,60,90,100,90,100,100,100,100,100,100,100,100,100,100,100,100,80,100,100,100,100,100,70,100,100,100,100,100,100,50,100,50,100,100,100,90,25,100,50,100,10,100,25,100,100,100,100,100,70,100,70,100,100,100,100,100,100,100,100,100,50,100,50,100,100,100,50,100,100,100,50,100,100,100,100,100,10,100,50,100,50,100,100,100,100,100,100,100,70,100,100,100,50,100,10,100,100,90,100,100,100,100,50,100,100,100,20,100,100,100,70,100,90,100,100,100,100,100,50,100,10,100,50,100,50,100,90,100,100,100,70,100,50,100,50,90,50,100,100,100,20,90,100,100,90,100,50,100,100,100,70,100,20,100,70,100,10,100,50,100,100,100,100,100,100,100,10,100,100,100,10,99,50,100,100,100,100,100,100,90,90,100,90,100,100,100,100,100,100,100,100,100,20,100,100,100,70,100,100,100,100,100,100,100,20,100,50,100,50,No,Yes
+2022-05-02 10:33:52,2022-05-02 11:29:28,IP Address,100,3336,True,2022-05-02 11:29:28,R_2wTOYGv46DJjPtC,anonymous,EN,Yes,100,100,100,50,100,100,100,50,100,100,80,20,100,100,100,75,100,100,100,25,100,100,100,75,100,25,100,75,100,100,100,50,100,75,100,100,100,25,100,100,100,100,100,100,100,25,100,25,100,100,100,100,100,25,100,25,100,100,100,100,100,25,100,100,100,50,100,25,100,75,100,100,100,50,100,75,100,25,100,25,100,100,100,75,100,25,100,100,100,75,100,50,100,100,100,100,100,100,100,75,100,25,100,100,100,100,100,25,100,100,100,100,100,75,100,25,100,75,100,100,100,25,100,25,100,100,100,25,100,25,100,100,100,25,100,100,100,25,100,50,100,50,75,50,100,25,100,75,100,100,50,25,75,25,100,100,100,25,100,100,100,25,100,50,100,100,100,75,100,100,75,25,100,100,100,100,100,75,100,25,100,100,100,75,100,50,100,100,100,100,100,50,100,100,100,75,100,100,100,25,100,75,100,100,100,100,100,25,100,25,100,25,100,100,100,50,100,100,100,100,100,50,100,50,100,100,100,100,100,75,100,25,100,100,100,100,100,100,100,100,100,100,100,25,100,50,100,25,100,100,100,100,100,100,100,100,100,50,100,100,100,25,100,50,100,100,100,75,100,100,100,25,100,100,100,100,100,75,100,25,100,50,100,25,100,50,100,100,100,50,100,100,100,50,100,50,100,75,100,75,No,Yes
+2022-05-02 10:20:11,2022-05-02 11:29:35,IP Address,100,4164,True,2022-05-02 11:29:36,R_1Ov3z2I4mzQ9hWK,anonymous,EN,Yes,100,100,100,75,100,100,100,25,100,50,100,0,100,30,100,50,100,40,100,70,100,80,100,40,100,10,100,50,100,40,60,70,100,20,100,10,0,0,100,40,100,60,100,20,100,10,50,20,100,50,100,50,100,30,100,30,100,90,100,20,100,10,100,70,100,10,100,20,80,20,100,40,100,20,100,10,100,10,100,40,100,60,100,5,100,80,100,50,100,100,100,30,100,40,100,30,100,100,100,100,100,100,100,100,100,100,100,10,100,100,100,100,100,100,100,40,100,60,100,50,60,40,50,80,100,100,100,50,100,40,100,50,100,100,100,80,100,70,100,40,100,60,100,20,100,60,100,100,100,100,100,60,100,60,100,30,100,50,100,100,100,20,100,40,100,100,100,90,100,60,100,20,100,50,100,40,50,30,100,70,100,100,100,0,100,10,100,60,100,10,100,70,100,80,100,100,100,10,100,50,100,50,100,100,100,70,100,100,100,0,100,60,100,100,100,100,100,100,100,100,100,10,100,0,100,100,100,100,100,70,100,50,100,100,100,100,100,100,100,100,100,80,80,100,100,30,100,30,100,70,100,100,100,100,100,100,100,40,100,30,100,10,100,100,100,50,100,40,100,40,100,100,100,100,100,100,100,100,100,30,100,100,100,100,100,100,100,100,100,100,100,100,100,20,25,40,100,20,100,100,Yes,Yes
+2022-05-02 10:23:50,2022-05-02 11:29:59,IP Address,100,3969,True,2022-05-02 11:30:00,R_sF3AwWe5KYOTCgx,anonymous,EN,Yes,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,80,60,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,No,No
+2022-05-02 10:20:37,2022-05-02 11:33:03,IP Address,100,4346,True,2022-05-02 11:33:03,R_271e0jha3H6ypfX,anonymous,EN,Yes,60,60,50,40,60,60,50,30,60,60,50,40,40,30,40,30,50,50,60,50,60,60,60,60,40,40,60,60,70,60,50,40,50,30,50,30,50,40,50,30,50,40,50,40,50,30,50,30,50,30,60,405,50,50,50,40,50,30,50,40,50,50,60,60,60,60,60,40,60,60,60,60,70,50,50,40,50,50,60,60,60,50,60,50,60,40,60,50,50,50,50,40,50,40,50,40,50,50,50,50,50,50,50,40,50,40,50,40,60,60,60,40,50,40,50,40,60,60,60,60,60,50,30,30,60,60,40,30,50,40,50,60,40,30,50,50,50,50,60,40,60,40,50,40,50,40,50,40,50,50,50,40,50,40,40,30,50,40,50,40,50,30,60,50,60,60,60,60,50,50,50,40,50,40,50,40,50,40,50,40,50,40,50,50,50,40,50,40,50,30,50,30,50,40,50,40,50,40,50,40,50,40,50,30,50,40,50,40,50,40,50,40,60,50,60,50,50,40,50,30,50,40,60,30,60,50,60,40,50,40,50,30,50,40,50,30,50,40,50,40,50,40,60,60,50,50,50,50,50,50,50,40,50,50,50,50,50,40,50,50,50,40,50,40,50,50,50,40,50,40,50,30,50,30,60,60,60,70,70,70,70,70,50,50,60,60,50,50,50,50,50,50,50,50,50,40,50,40,50,30,No,No
+2022-05-02 10:19:07,2022-05-02 11:34:38,IP Address,100,4530,True,2022-05-02 11:34:38,R_9Rfisz1sBLTmvol,anonymous,EN,Yes,80,30,25,50,100,100,100,100,50,56,70,25,25,40,60,45,50,25,90,100,100,100,100,90,80,90,80,100,80,10,90,80,50,60,80,100,50,10,50,20,80,70,70,80,10,10,30,5,90,100,90,50,90,80,100,25,80,50,90,10,20,10,50,40,70,20,100,100,100,100,100,100,90,100,50,70,100,10,100,100,50,25,40,10,50,80,100,80,60,10,60,10,80,5,60,0,70,40,50,90,80,90,50,70,80,90,80,20,100,100,100,100,100,100,60,15,100,100,90,80,100,100,20,5,50,70,50,90,100,90,70,60,100,100,70,90,90,80,40,50,70,40,80,70,70,70,90,100,40,100,70,90,45,60,80,30,80,90,100,100,100,5,90,60,70,90,80,70,10,5,100,100,50,5,50,80,80,50,80,10,100,100,100,100,50,70,80,50,80,90,40,20,60,100,70,20,100,100,100,100,100,100,100,100,60,20,70,90,70,5,100,100,100,100,60,80,60,90,100,100,70,10,60,70,90,20,60,90,100,100,50,70,80,90,100,100,100,100,100,100,100,100,70,90,70,90,70,90,60,90,100,100,60,90,50,80,70,90,60,90,60,100,100,90,80,90,50,80,90,100,5,10,50,100,70,90,90,80,5,0,80,90,70,90,100,100,70,60,70,80,90,100,60,90,80,20,100,100,90,50,No,Yes
+2022-05-02 10:20:50,2022-05-02 11:35:51,IP Address,100,4500,True,2022-05-02 11:35:51,R_10wUYYBmxJaCPmZ,anonymous,EN,Yes,100,15,100,100,100,100,100,100,100,100,100,15,100,50,75,30,100,50,100,10,100,100,100,60,100,20,100,100,100,100,100,75,100,100,100,100,100,0,100,100,100,0,100,100,100,0,50,100,100,30,100,80,100,100,100,30,100,65,100,0,100,25,100,60,100,60,100,45,65,65,100,45,100,50,100,25,100,30,15,85,90,55,100,100,100,50,90,100,90,100,90,0,100,100,90,100,90,100,100,100,100,100,90,0,100,100,100,35,100,100,80,80,100,90,90,90,100,100,90,100,50,60,50,85,100,100,65,65,90,20,100,20,80,25,90,100,90,100,90,65,90,65,90,35,100,40,100,40,90,100,90,25,100,20,85,25,90,35,90,90,90,25,90,45,100,100,90,90,100,100,90,45,90,60,90,25,90,100,100,45,90,75,90,50,100,60,100,100,90,90,100,100,90,40,90,15,100,100,100,100,90,100,90,100,90,15,90,25,90,100,100,100,90,15,100,15,100,100,90,100,90,100,100,0,90,10,90,10,50,65,90,10,100,100,100,100,90,100,100,100,100,100,100,100,100,50,100,0,90,70,90,35,90,100,90,100,90,90,100,100,90,10,100,100,90,100,100,100,90,100,0,0,100,100,90,75,0,0,100,25,80,15,90,90,90,100,90,15,100,35,100,80,90,15,10,0,90,35,100,100,No,No
+2022-05-02 10:12:37,2022-05-02 11:36:48,IP Address,100,5051,True,2022-05-02 11:36:48,R_2wHTY4b4QJh3CVX,anonymous,EN,Yes,100,50,100,25,100,100,100,100,100,100,100,25,50,25,100,45,100,50,100,80,100,100,100,80,100,70,100,100,100,80,100,90,100,70,100,100,25,70,100,100,100,80,100,100,80,100,100,100,100,100,100,100,100,80,100,25,100,25,100,10,100,60,100,30,70,20,100,15,100,100,100,100,100,10,100,10,100,20,100,100,50,25,70,10,100,100,100,100,100,10,100,5,100,0,100,0,100,100,100,100,100,80,100,100,100,25,100,2,100,100,100,100,100,100,100,100,90,50,90,40,100,20,25,20,100,35,100,10,100,5,25,10,100,100,100,100,100,100,100,40,90,30,100,45,100,35,100,100,100,66,100,30,100,60,100,50,100,25,100,80,100,20,100,100,100,40,100,100,100,100,100,70,100,85,100,100,100,100,100,50,100,100,100,60,100,25,100,50,100,100,100,45,100,80,100,100,100,100,100,100,100,100,100,100,100,30,100,50,100,10,100,100,100,100,100,100,100,100,100,100,100,40,100,20,100,10,100,10,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,20,100,80,100,77,100,30,100,80,100,75,100,20,100,70,100,20,100,10,100,100,100,100,100,100,100,10,100,100,100,100,100,60,100,50,100,100,100,10,100,20,100,100,100,100,100,100,100,100,100,100,100,40,100,40,No,No
+2022-05-02 10:17:18,2022-05-02 11:38:07,IP Address,100,4849,True,2022-05-02 11:38:08,R_QmGIJ9ME3mDlbY5,anonymous,EN,Yes,100,90,100,70,100,100,100,90,100,100,100,25,100,90,100,60,100,50,100,100,100,95,100,60,100,25,100,100,100,100,100,50,100,70,100,100,25,10,100,100,100,100,100,100,100,40,100,25,100,100,100,100,100,50,100,100,100,60,100,25,100,50,100,80,100,25,100,40,100,100,100,80,100,100,100,70,100,25,100,60,100,100,100,10,100,50,100,80,100,100,100,25,100,100,100,90,100,70,100,80,100,50,100,100,100,80,100,50,100,100,100,40,100,70,100,25,100,90,100,100,100,100,70,100,100,100,100,25,100,80,100,90,100,50,100,60,100,80,100,40,100,40,100,90,100,100,100,60,100,50,100,25,100,50,100,90,100,80,100,25,100,90,100,25,100,50,100,90,100,30,100,70,100,60,100,100,100,70,100,25,100,70,100,50,100,40,100,50,100,20,100,100,100,50,100,25,100,10,100,90,100,90,100,25,100,10,100,0,100,2,100,10,100,100,100,90,100,10,100,2,100,25,100,0,100,50,100,100,100,90,100,25,100,100,100,25,100,50,100,90,100,40,100,90,100,80,100,50,100,70,100,25,100,70,100,80,100,40,100,100,100,50,100,25,100,70,100,80,100,50,70,25,100,50,100,100,100,80,100,70,100,90,100,90,100,60,100,40,100,80,100,70,100,100,40,10,100,60,100,25,Yes,Yes
+2022-05-02 10:13:03,2022-05-02 11:41:07,IP Address,100,5284,True,2022-05-02 11:41:08,R_NX9pOxL7tH3g5qh,anonymous,EN,Yes,100,50,100,100,100,100,100,100,100,100,100,50,100,50,100,100,100,50,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,50,100,100,100,100,100,100,100,50,100,50,100,100,100,100,100,100,100,100,100,100,100,50,100,100,100,100,100,100,100,100,100,50,100,50,100,50,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,50,100,100,100,100,100,80,100,80,100,100,100,100,100,100,100,50,100,50,100,50,100,100,100,100,100,100,100,100,100,100,100,100,100,50,100,100,100,50,100,100,100,100,100,100,100,100,100,50,100,50,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,50,100,0,100,100,100,100,100,100,100,100,100,100,100,50,100,100,100,100,100,100,100,100,100,100,100,100,100,0,100,50,100,50,100,100,100,50,100,100,100,100,100,100,100,100,100,50,100,100,100,100,100,100,100,100,100,50,100,100,100,100,100,50,100,50,100,50,100,100,100,100,100,100,100,100,100,50,100,100,100,100,100,100,100,100,100,50,100,50,100,50,100,100,100,100,100,100,100,50,100,100,100,100,100,50,No,Yes
+2022-05-02 10:27:47,2022-05-02 12:03:43,IP Address,100,5755,True,2022-05-02 12:03:43,R_1q1xbvsNe4mrN98,anonymous,EN,Yes,50,25,100,100,100,100,100,100,100,100,100,25,100,100,100,100,50,25,50,0,100,100,100,100,25,0,100,100,100,25,100,0,50,0,100,100,50,100,100,0,100,100,100,100,50,25,50,100,100,100,100,100,100,100,100,100,100,50,50,25,50,25,100,100,50,0,100,25,100,100,100,100,50,25,100,25,100,100,100,100,100,25,100,100,100,100,100,100,100,100,50,25,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,50,25,100,100,100,100,100,100,50,25,50,100,25,0,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,50,50,25,100,100,50,25,50,0,100,25,50,25,100,100,100,50,100,100,100,100,100,100,100,25,100,100,100,25,100,100,100,100,50,25,100,100,50,50,100,100,50,50,50,25,100,100,50,25,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,50,0,100,100,50,100,50,25,100,0,100,100,50,100,50,100,100,50,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,50,100,100,100,25,25,0,100,100,100,100,50,25,25,0,100,100,100,100,50,0,100,100,100,100,100,25,100,100,50,50,100,100,100,100,100,100,100,100,100,25,100,100,No,No
+2022-05-02 10:21:09,2022-05-02 12:05:42,IP Address,100,6273,True,2022-05-02 12:05:43,R_2CqxSJ8ksIFqIuo,anonymous,EN,Yes,70,70,50,30,80,80,80,25,80,25,80,25,80,70,60,60,90,70,90,80,90,80,90,60,70,30,80,80,80,90,80,60,80,60,80,70,70,30,80,80,80,80,60,60,60,40,70,40,80,80,80,80,80,50,60,40,80,70,70,30,80,30,80,70,80,80,60,60,50,60,80,80,60,40,60,30,80,80,80,40,50,70,70,0,80,30,80,30,80,70,80,50,80,60,80,80,80,80,80,80,80,80,80,30,80,20,80,50,80,80,80,80,80,80,80,70,80,80,80,80,30,70,30,70,80,80,80,70,80,70,80,70,80,30,80,70,80,0,60,20,60,20,70,70,80,80,80,80,80,80,80,50,60,70,80,80,80,80,80,40,80,70,80,60,80,50,80,50,80,80,80,80,80,80,80,80,80,80,80,50,80,60,80,80,60,80,80,70,80,70,80,80,70,40,70,40,70,40,70,20,70,20,80,70,80,60,80,70,80,50,80,60,80,60,80,70,80,70,80,60,80,40,80,30,80,70,80,60,80,80,80,30,80,70,80,60,80,70,80,70,80,80,80,60,80,80,80,10,80,30,80,0,80,70,80,70,80,70,80,80,80,30,80,70,80,80,80,80,80,80,80,10,80,80,80,80,80,80,80,80,80,50,80,70,80,60,80,70,80,80,80,80,80,80,80,60,80,60,80,60,No,Yes
+2022-05-02 10:16:22,2022-05-02 12:14:54,IP Address,100,7111,True,2022-05-02 12:14:54,R_1jeNB851aA6oksk,anonymous,EN,Yes,25,50,0,0,50,50,25,0,50,25,50,25,50,25,25,50,75,50,75,25,75,75,75,75,25,25,100,75,100,100,25,25,25,0,50,25,0,0,50,50,50,25,50,100,50,0,25,25,75,50,75,50,50,25,50,50,75,75,50,25,50,75,50,50,50,50,75,50,100,75,100,75,100,100,50,25,50,25,75,100,50,75,75,75,75,25,25,75,25,50,75,75,75,100,75,100,50,75,75,100,75,75,50,50,75,75,100,75,50,100,50,50,75,75,50,75,75,75,50,75,100,100,50,75,100,100,25,25,50,25,50,50,50,50,50,75,50,75,50,25,50,25,50,50,75,75,75,100,75,75,50,75,75,25,50,50,50,50,75,75,50,50,75,75,50,50,50,75,75,75,50,50,75,50,100,100,100,100,75,75,75,75,75,50,75,75,100,75,50,25,75,75,50,75,50,75,75,50,75,75,75,75,50,50,50,50,75,75,75,100,75,50,50,75,100,75,75,50,50,50,75,75,75,75,75,100,75,75,25,25,50,50,100,100,50,50,75,75,100,75,75,50,25,25,75,50,100,100,50,50,75,75,75,75,75,75,50,50,50,25,50,25,75,25,100,100,75,75,50,75,25,50,50,50,75,50,100,100,100,100,100,75,50,50,50,75,50,25,75,75,75,75,50,75,75,100,75,100,50,50,No,Yes
