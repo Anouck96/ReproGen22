@@ -1,19 +1,19 @@
 # ReproGen22
 This page contains the code and data for the reproduction paper for the 2022 ReproGen shared task. For this task we tried to exactly reproduce the work by Santhanam and Shaikh (2019). Parts of the data and code here are a reproduction of their work. See the README in the directories for more precise instructions.
 
-## Automatic
+### Automatic
 We used the stimuli from the original paper (Santhanam & Shaikh (2019)) that were also used for the participant surveys to calculate automatic metrics. See the directory for more information on the automatic metrics.
 
-## Data
+### Data
 This directory contains the data we have obtained throughout the experiment.
 
-## Outliers
+### Outliers
 Code in this directory explores the reliability of our participants' scores. 
 
-## Qualtrics
+### Qualtrics
 Contains the pdf and qsf files of our experiment in Qualtrics. The stimuli that we have used are provided by Santhanam & Shaikh (2019).
 
-## Statistics
+### Statistics
 The statistics directory contains the code needed to run the statistics. These are either directly adopted from Santhanam & Shaikh (2019) or slightly adapted.
 
 ## References
