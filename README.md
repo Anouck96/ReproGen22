@@ -21,4 +21,4 @@ Santhanam, S., & Shaikh, S. (2019). Towards Best Experiment Design for Evaluatin
 
 
 ## License
-The parts that are our code fall under a MIT license. Parts that are adopted from others fall under their respective licenses.
+The parts that are our code fall under a MIT license (outlier code, parts of the automatic code and parts of the statistics). Parts that are adopted from others fall under their respective licenses. All the stimuli and parts of the code are taken from https://github.com/sashank06/INLG_eval.
