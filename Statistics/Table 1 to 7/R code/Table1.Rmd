@@ -1,0 +1,79 @@
+---
+title: "Table 1"
+author: "Sashank"
+date: "7/10/2019"
+output: html_document
+---
+
+```{r}
+library(irr)
+library(psych)
+library(readxl)
+```
+
+```{r}
+setwd("~/INLG-Eval-Public Data-20220503T073540Z-001/ReProGen/Table1")
+LS_read_ratings <- read_excel("Likert_Repro.xlsx", sheet = "read_rank_all")
+LS_coh_ratings <- read_excel("Likert_Repro.xlsx", sheet = "cohe_rank_all")
+```
+
+
+
+```{r}
+icc(LS_read_ratings, model="twoway", type="consistency",unit="a")
+icc(LS_coh_ratings, model="twoway", type="consistency",unit="a")
+```
+
+```{r}
+icc(LS_read_ratings, model="twoway", type="agreement",unit="a")
+icc(LS_coh_ratings, model="twoway", type="agreement",unit="a")
+```
+
+```{r}
+setwd("~/INLG-Eval-Public Data-20220503T073540Z-001/ReProGen/Table1")
+
+RME_read_ratings <- read_excel("RME.xlsx", sheet = "read_all")
+RME_coh_ratings <- read_excel("RME.xlsx", sheet = "cohe_all")
+```
+
+
+```{r}
+icc(RME_read_ratings, model="twoway", type="consistency",unit="a")
+icc(RME_coh_ratings, model="twoway", type="consistency",unit="a")
+```
+
+```{r}
+icc(RME_read_ratings, model="twoway", type="agreement",unit="a")
+icc(RME_coh_ratings, model="twoway", type="agreement",unit="a")
+```
+```{r}
+BME_read_ratings <- read_excel("Likert_Repro.xlsx", sheet = "read_rank_all")
+BME_coh_ratings <- read_excel("Likert_Repro.xlsx", sheet = "cohe_rank_all")
+
+```
+
+
+```{r}
+icc(BME_read_ratings, model="twoway", type="consistency",unit="a")
+icc(BME_coh_ratings, model="twoway", type="consistency",unit="a")
+```
+```{r}
+icc(BME_read_ratings, model="twoway", type="agreement",unit="a")
+icc(BME_coh_ratings, model="twoway", type="agreement",unit="a")
+```
+```{r}
+RR_read_ratings <- read_excel("Likert_Repro.xlsx", sheet = "read_rank_all")
+RR_coh_ratings <- read_excel("Likert_Repro.xlsx", sheet = "cohe_rank_all")
+```
+
+
+```{r}
+icc(RR_read_ratings, model="twoway", type="consistency",unit="a")
+icc(RR_coh_ratings, model="twoway", type="consistency",unit="a")
+```
+
+```{r}
+icc(RR_read_ratings, model="twoway", type="agreement",unit="a")
+icc(RR_coh_ratings, model="twoway", type="agreement",unit="a")
+```
+
