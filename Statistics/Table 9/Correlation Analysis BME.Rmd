@@ -1,0 +1,26 @@
+---
+title: "LS Correlation analysis"
+author: "Frédéric"
+date: "24/05/2022"
+output: html_document
+---
+
+
+```{r setup, include=FALSE}
+library(tidyverse) # general utility & workflow functions
+library(tidytext) # tidy implimentation of NLP methods
+library(readxl)
+knitr::opts_knit$set(root.dir = '"C:/Usersfjytomas/OneDrive - Tilburg University/Documents/INLG-Eval-Public Data-20220503T073540Z-001/ReProGen/Table 9')
+```
+
+```{r}
+read_ratings <- read_excel("correlation_ranks_BME.xlsx", sheet = "read_rank_all")
+cohe_ratings <- read_excel("correlation_ranks_BME.xlsx", sheet = "cohe_rank_all")
+```
+
+#readability
+```{r}
+res <- cor.test(cohe_ratings$cohe_rank_all, read_ratings$read_rank_all, 
+                    method = "spearman")
+res
+```
