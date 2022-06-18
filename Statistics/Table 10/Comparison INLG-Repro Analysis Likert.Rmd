@@ -1,0 +1,49 @@
+---
+title: "LS Correlation analysis"
+author: "Frédéric"
+date: "18/06/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+install.packages("tidyverse") # general utility & workflow functions
+install.packages("tidytext") # tidy implimentation of NLP methods
+install.packages("readxl")
+install.packages("irr")
+install.packages("psych")
+
+library(tidyverse) # general utility & workflow functions
+library(tidytext) # tidy implimentation of NLP methods
+library(readxl)
+library(irr)
+library(psych)
+knitr::opts_knit$set(root.dir = '"C:/Users/fjytomas/OneDrive - Tilburg University/Documents/INLG-Eval-Public Data-20220503T073540Z-001/ReProGen/Table 10 - Comparison')
+```
+
+```{r}
+read_ratings_INLG <- read_excel("Likert_INLG.xlsx", sheet = "read_rank_all")
+read_ratings_Repro <- read_excel("Likert_REPRO.xlsx", sheet = "read_rank_all")
+cohe_ratings_INLG <- read_excel("Likert_INLG.xlsx", sheet = "cohe_rank_all")
+cohe_ratings_Repro <- read_excel("Likert_REPRO.xlsx", sheet = "cohe_rank_all")
+```
+
+#Correlation Likert Readability on Mean score and Mode score per sentence
+```{r}
+res <- cor.test(read_ratings_INLG$AVERAGE, read_ratings_Repro$AVERAGE, 
+                    method = "spearman")
+res
+
+res2 <- cor.test(read_ratings_INLG$MODE, read_ratings_Repro$MODE,
+                 method = "spearman")
+res2
+```
+#Correlation Likert Coherence on Mean score and Mode score per sentence
+```{r}
+res <- cor.test(cohe_ratings_INLG$AVERAGE, cohe_ratings_Repro$AVERAGE, 
+                    method = "spearman")
+res
+
+res2 <- cor.test(cohe_ratings_INLG$MODE, cohe_ratings_Repro$MODE,
+                 method = "spearman")
+res2
+```
